@@ -11,13 +11,15 @@ on:
         options:
           - always
           - market
+          - snapshot
           - offhours
   schedule:
     # Market scanner: every 15 minutes around possible US regular hours.
-    # The Python script checks America/New_York time and skips outside 09:30-16:00.
+    # Python checks America/New_York and only scans during 09:30-16:00.
     - cron: "*/15 13-21 * * 1-5"
-    # Off-hours scanner: every 30 minutes. The script skips while US regular market is open.
-    - cron: "7,37 * * * *"
+    # Snapshot scanner: wakes hourly. Python sends full snapshots only at
+    # 00:00, 06:00, 12:00, 18:00 ET, plus the market close window.
+    - cron: "0 * * * *"
 
 permissions:
   contents: write
@@ -38,11 +40,13 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       TELEGRAM_DISABLE_WEB_PAGE_PREVIEW: ${{ vars.TELEGRAM_DISABLE_WEB_PAGE_PREVIEW || 'false' }}
       WATCHLIST_NAME: ${{ vars.WATCHLIST_NAME || 'TradingView Watchlist' }}
-      WATCHLIST_URL: ${{ vars.WATCHLIST_URL || 'https://www.tradingview.com/watchlists/326877343/' }}
-      STATE_FILE: ${{ vars.STATE_FILE || 'state/watchlist_326877343.json' }}
+      WATCHLIST_URL: ${{ vars.WATCHLIST_URL }}
+      STATE_FILE: ${{ vars.STATE_FILE || 'state/watchlist.json' }}
       MARKET_TIMEZONE: ${{ vars.MARKET_TIMEZONE || 'America/New_York' }}
       MARKET_OPEN: ${{ vars.MARKET_OPEN || '09:30' }}
       MARKET_CLOSE: ${{ vars.MARKET_CLOSE || '16:00' }}
+      SNAPSHOT_HOURS: ${{ vars.SNAPSHOT_HOURS || '0,6,12,18' }}
+      SNAPSHOT_WINDOW_MINUTES: ${{ vars.SNAPSHOT_WINDOW_MINUTES || '45' }}
       HEADLESS: "true"
       SEND_INITIAL_BASELINE: "false"
       PERSIST_LAST_SEEN: "false"
@@ -80,7 +84,7 @@ jobs:
           elif [[ "${{ github.event.schedule }}" == "*/15 13-21 * * 1-5" ]]; then
             echo "mode=market" >> "$GITHUB_OUTPUT"
           else
-            echo "mode=offhours" >> "$GITHUB_OUTPUT"
+            echo "mode=snapshot" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Run watcher
@@ -91,7 +95,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add state/watchlist_326877343.json
+          if [[ -e "$STATE_FILE" ]]; then
+            git add "$STATE_FILE"
+          else
+            echo "State file does not exist yet: $STATE_FILE"
+          fi
           if git diff --cached --quiet; then
             echo "No state changes to commit."
           else

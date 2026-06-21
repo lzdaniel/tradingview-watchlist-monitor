@@ -10,7 +10,7 @@ import urllib.error
 import urllib.request
 from collections import defaultdict
 from dataclasses import dataclass
-from datetime import date, datetime, time as dtime
+from datetime import date, datetime, time as dtime, timedelta
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Sequence, Tuple
 
@@ -19,7 +19,7 @@ try:
 except ImportError:  # pragma: no cover - Python 3.8 fallback if needed.
     ZoneInfo = None  # type: ignore
 
-DEFAULT_URL = "https://www.tradingview.com/watchlists/326877343/"
+DEFAULT_URL = ""
 DEFAULT_NAME = "TradingView Watchlist"
 UNCATEGORIZED = "未分类"
 MAX_MESSAGE_CONTENT = 1900
@@ -128,6 +128,8 @@ class Config:
     market_close: dtime
     market_interval_seconds: int
     offhours_interval_seconds: int
+    snapshot_hours: List[int]
+    snapshot_window_minutes: int
     headless: bool
     dry_run: bool
     send_initial_baseline: bool
@@ -137,7 +139,7 @@ class Config:
     @classmethod
     def from_env(cls, args: argparse.Namespace) -> "Config":
         project_root = Path(__file__).resolve().parents[2]
-        state_file = Path(os.getenv("STATE_FILE", "state/watchlist_326877343.json"))
+        state_file = Path(os.getenv("STATE_FILE", "state/watchlist.json"))
         if not state_file.is_absolute():
             state_file = project_root / state_file
 
@@ -146,8 +148,12 @@ class Config:
         if storage_state and not storage_state.is_absolute():
             storage_state = project_root / storage_state
 
+        watchlist_url = os.getenv("WATCHLIST_URL", DEFAULT_URL).strip()
+        if not watchlist_url:
+            raise ValueError("WATCHLIST_URL is required.")
+
         return cls(
-            watchlist_url=os.getenv("WATCHLIST_URL", DEFAULT_URL),
+            watchlist_url=watchlist_url,
             watchlist_name=os.getenv("WATCHLIST_NAME", DEFAULT_NAME),
             notifiers=parse_notifiers(os.getenv("NOTIFIERS", "")),
             discord_webhook_url=os.getenv("DISCORD_WEBHOOK_URL", "").strip(),
@@ -159,7 +165,9 @@ class Config:
             market_open=parse_hhmm(os.getenv("MARKET_OPEN", "09:30")),
             market_close=parse_hhmm(os.getenv("MARKET_CLOSE", "16:00")),
             market_interval_seconds=int(os.getenv("CHECK_INTERVAL_MARKET_SECONDS", "900")),
-            offhours_interval_seconds=int(os.getenv("CHECK_INTERVAL_OFFHOURS_SECONDS", "1800")),
+            offhours_interval_seconds=int(os.getenv("CHECK_INTERVAL_OFFHOURS_SECONDS", "21600")),
+            snapshot_hours=parse_snapshot_hours(os.getenv("SNAPSHOT_HOURS", "0,6,12,18")),
+            snapshot_window_minutes=int(os.getenv("SNAPSHOT_WINDOW_MINUTES", "45")),
             headless=str_to_bool(os.getenv("HEADLESS", "true")),
             dry_run=bool(getattr(args, "dry_run", False)) or str_to_bool(os.getenv("DRY_RUN", "false")),
             send_initial_baseline=str_to_bool(os.getenv("SEND_INITIAL_BASELINE", "false")),
@@ -178,6 +186,20 @@ def parse_notifiers(value: str) -> List[str]:
     if unknown:
         raise ValueError(f"Unsupported notifier(s): {', '.join(unknown)}")
     return list(dict.fromkeys(raw))
+
+
+def parse_snapshot_hours(value: str) -> List[int]:
+    hours: List[int] = []
+    for part in value.split(","):
+        part = part.strip()
+        if not part:
+            continue
+        hour = int(part)
+        if hour < 0 or hour > 23:
+            raise ValueError(f"Snapshot hour out of range: {hour}")
+        hours.append(hour)
+    return sorted(set(hours))
+
 
 def parse_hhmm(value: str) -> dtime:
     hour, minute = value.strip().split(":", 1)
@@ -757,20 +779,76 @@ def is_market_open_now(config: Config, now: Optional[datetime] = None) -> bool:
 
 def should_send_open_full(config: Config, state: Dict[str, Any], now: datetime) -> bool:
     today = now.date().isoformat()
-    return is_weekday_trading_day(now.date()) and config.market_open <= now.time() < config.market_close and today not in set(state.get("open_full_sent", []))
+    return (
+        is_weekday_trading_day(now.date())
+        and is_time_window(now.time(), config.market_open, config.snapshot_window_minutes)
+        and today not in set(state.get("open_full_sent", []))
+    )
 
 
 def should_send_close_full(config: Config, state: Dict[str, Any], now: datetime) -> bool:
     today = now.date().isoformat()
-    return is_weekday_trading_day(now.date()) and now.time() >= config.market_close and today not in set(state.get("close_full_sent", []))
+    return (
+        is_weekday_trading_day(now.date())
+        and is_time_window(now.time(), config.market_close, config.snapshot_window_minutes)
+        and today not in set(state.get("close_full_sent", []))
+    )
 
 
 def mark_sent(state: Dict[str, Any], key: str, day: date) -> None:
+    mark_sent_value(state, key, day.isoformat())
+
+
+def mark_sent_value(state: Dict[str, Any], key: str, value: str, keep: int = 90) -> None:
     values = list(dict.fromkeys(state.get(key, [])))
-    today = day.isoformat()
-    if today not in values:
-        values.append(today)
-    state[key] = values[-30:]
+    if value not in values:
+        values.append(value)
+    state[key] = values[-keep:]
+
+
+def minutes_since_midnight(value: dtime) -> int:
+    return value.hour * 60 + value.minute
+
+
+def is_time_window(now_time: dtime, start: dtime, window_minutes: int) -> bool:
+    now_minutes = minutes_since_midnight(now_time)
+    start_minutes = minutes_since_midnight(start)
+    return start_minutes <= now_minutes < start_minutes + window_minutes
+
+
+def periodic_snapshot_marker(now: datetime) -> str:
+    return f"{now.date().isoformat()}T{now.hour:02d}"
+
+
+def is_periodic_snapshot_window(config: Config, now: datetime) -> bool:
+    return now.hour in config.snapshot_hours and now.minute < config.snapshot_window_minutes
+
+
+def is_periodic_snapshot_due(config: Config, state: Dict[str, Any], now: datetime) -> bool:
+    marker = periodic_snapshot_marker(now)
+    sent = set(state.get("periodic_full_sent", []))
+    return is_periodic_snapshot_window(config, now) and marker not in sent
+
+
+def is_close_snapshot_due(config: Config, state: Dict[str, Any], now: datetime) -> bool:
+    today = now.date().isoformat()
+    sent = set(state.get("close_full_sent", []))
+    return (
+        is_weekday_trading_day(now.date())
+        and is_time_window(now.time(), config.market_close, config.snapshot_window_minutes)
+        and today not in sent
+    )
+
+
+def update_state_snapshot(config: Config, state: Dict[str, Any], items: Sequence[WatchItem], now: datetime) -> None:
+    state_update = {
+        "source_url": config.watchlist_url,
+        "watchlist_name": config.watchlist_name,
+        "items": [item.as_dict() for item in items],
+    }
+    if config.persist_last_seen:
+        state_update["last_seen_at"] = now.isoformat()
+    state.update(state_update)
 
 
 def build_diff_message(config: Config, added: Sequence[WatchItem], removed: Sequence[WatchItem], now: datetime) -> List[str]:
@@ -800,7 +878,14 @@ def build_full_message(
     removed_count: int = 0,
 ) -> List[str]:
     emoji = "🌅" if label == "open" else "🌙" if label == "close" else "📋"
-    display_label = "Market Open Full List" if label == "open" else "Market Close Full List" if label == "close" else "Full List"
+    display_labels = {
+        "open": "Market Open Full List",
+        "close": "Market Close Full List",
+        "snapshot": "Scheduled Full List",
+        "baseline": "Initial Full List",
+        "test": "Full List",
+    }
+    display_label = display_labels.get(label, "Full List")
     lines = [
         f"{emoji} **{config.watchlist_name} - {display_label}**",
         f"🕒 {now.strftime('%Y-%m-%d %H:%M:%S %Z')}",
@@ -817,16 +902,18 @@ def run_once(config: Config, force_full_label: Optional[str] = None) -> Dict[str
     now = now_in_market_tz(config)
     items = fetch_watchlist(config)
     state = load_state(config.state_file)
-    previous_items = [WatchItem.from_dict(item) for item in state.get("items", [])]
-    previous = item_map(previous_items)
-    current = item_map(items)
-
-    added = [current[symbol] for symbol in sorted(set(current) - set(previous))]
-    removed = [previous[symbol] for symbol in sorted(set(previous) - set(current))]
-    had_previous = bool(previous)
+    added, removed, had_previous = diff_items(state, items)
+    open_due = should_send_open_full(config, state, now)
+    close_due = should_send_close_full(config, state, now)
 
     if force_full_label:
         send_messages(config, build_full_message(config, items, force_full_label, now, len(added), len(removed)))
+    elif open_due:
+        send_messages(config, build_full_message(config, items, "open", now, len(added), len(removed)))
+        mark_sent(state, "open_full_sent", now.date())
+    elif close_due:
+        send_messages(config, build_full_message(config, items, "close", now, len(added), len(removed)))
+        mark_sent(state, "close_full_sent", now.date())
     elif had_previous and (added or removed):
         send_messages(config, build_diff_message(config, added, removed, now))
     elif not had_previous and config.send_initial_baseline:
@@ -834,26 +921,47 @@ def run_once(config: Config, force_full_label: Optional[str] = None) -> Dict[str
     else:
         print(f"No notification needed. symbols={len(items)} added={len(added)} removed={len(removed)}")
 
-    if not force_full_label:
-        if should_send_open_full(config, state, now):
-            send_messages(config, build_full_message(config, items, "open", now, len(added), len(removed)))
-            mark_sent(state, "open_full_sent", now.date())
-        if should_send_close_full(config, state, now):
-            send_messages(config, build_full_message(config, items, "close", now, len(added), len(removed)))
-            mark_sent(state, "close_full_sent", now.date())
-
-    state_update = {
-        "source_url": config.watchlist_url,
-        "watchlist_name": config.watchlist_name,
-        "items": [item.as_dict() for item in items],
-    }
-    if config.persist_last_seen:
-        state_update["last_seen_at"] = now.isoformat()
-    state.update(state_update)
+    update_state_snapshot(config, state, items, now)
     save_state(config.state_file, state)
     return {"items": len(items), "added": len(added), "removed": len(removed)}
 
 
+def diff_items(state: Dict[str, Any], items: Sequence[WatchItem]) -> Tuple[List[WatchItem], List[WatchItem], bool]:
+    previous_items = [WatchItem.from_dict(item) for item in state.get("items", [])]
+    previous = item_map(previous_items)
+    current = item_map(items)
+    added = [current[symbol] for symbol in sorted(set(current) - set(previous))]
+    removed = [previous[symbol] for symbol in sorted(set(previous) - set(current))]
+    return added, removed, bool(previous)
+
+
+def run_snapshot(config: Config) -> Dict[str, Any]:
+    now = now_in_market_tz(config)
+    state = load_state(config.state_file)
+    due_labels: List[str] = []
+
+    if is_close_snapshot_due(config, state, now):
+        due_labels.append("close")
+    if is_periodic_snapshot_due(config, state, now):
+        due_labels.append("snapshot")
+
+    if not due_labels:
+        print(f"Skipping snapshot; no full-list snapshot due at {now.isoformat()}")
+        return {"skipped": True, "mode": "snapshot"}
+
+    items = fetch_watchlist(config)
+    added, removed, _ = diff_items(state, items)
+
+    for label in due_labels:
+        send_messages(config, build_full_message(config, items, label, now, len(added), len(removed)))
+        if label == "close":
+            mark_sent(state, "close_full_sent", now.date())
+        elif label == "snapshot":
+            mark_sent_value(state, "periodic_full_sent", periodic_snapshot_marker(now))
+
+    update_state_snapshot(config, state, items, now)
+    save_state(config.state_file, state)
+    return {"items": len(items), "added": len(added), "removed": len(removed), "snapshots": due_labels}
 
 def should_run_scheduled_mode(config: Config, mode: str, now: Optional[datetime] = None) -> bool:
     now = now or now_in_market_tz(config)
@@ -864,27 +972,57 @@ def should_run_scheduled_mode(config: Config, mode: str, now: Optional[datetime]
         return market_open
     if mode == "offhours":
         return not market_open
+    if mode == "snapshot":
+        return True
     raise ValueError(f"Unsupported schedule mode: {mode}")
 
 
 def run_scheduled(config: Config, mode: str) -> Dict[str, Any]:
     now = now_in_market_tz(config)
+    if mode == "snapshot":
+        return run_snapshot(config)
     if not should_run_scheduled_mode(config, mode, now):
         print(f"Skipping scan for mode={mode}; market_open={is_market_open_now(config, now)} time={now.isoformat()}")
         return {"skipped": True, "mode": mode}
+    if mode == "market" and is_periodic_snapshot_due(config, load_state(config.state_file), now):
+        return run_snapshot(config)
     return run_once(config)
+
+
+def next_event_sleep_seconds(config: Config, now: datetime) -> int:
+    candidates: List[datetime] = []
+    for day_offset in range(8):
+        current_day = now.date() + timedelta(days=day_offset)
+        for hour in config.snapshot_hours:
+            candidates.append(datetime.combine(current_day, dtime(hour=hour), tzinfo=now.tzinfo))
+        if is_weekday_trading_day(current_day):
+            candidates.append(datetime.combine(current_day, config.market_open, tzinfo=now.tzinfo))
+            candidates.append(datetime.combine(current_day, config.market_close, tzinfo=now.tzinfo))
+
+    future = [candidate for candidate in candidates if candidate > now]
+    if not future:
+        return config.offhours_interval_seconds
+    return max(60, int((min(future) - now).total_seconds()))
+
+
+def daemon_sleep_seconds(config: Config, now: Optional[datetime] = None) -> int:
+    now = now or now_in_market_tz(config)
+    base_interval = config.market_interval_seconds if is_market_open_now(config, now) else config.offhours_interval_seconds
+    return min(base_interval, next_event_sleep_seconds(config, now))
+
 
 def run_daemon(config: Config) -> None:
     print(f"Monitoring {config.watchlist_name}: {config.watchlist_url}")
     print(f"State file: {config.state_file}")
     while True:
         try:
-            result = run_once(config)
+            result = run_snapshot(config)
+            if result.get("skipped"):
+                result = run_once(config)
             print(f"{datetime.now().isoformat(timespec='seconds')} scan ok: {result}")
         except Exception as exc:
             print(f"{datetime.now().isoformat(timespec='seconds')} scan failed: {exc}", file=sys.stderr)
-        interval = config.market_interval_seconds if is_market_open_now(config) else config.offhours_interval_seconds
-        time.sleep(max(interval, 60))
+        time.sleep(daemon_sleep_seconds(config))
 
 
 def build_parser() -> argparse.ArgumentParser:
@@ -898,7 +1036,7 @@ def build_parser() -> argparse.ArgumentParser:
     daemon.add_argument("--dry-run", action="store_true", help="Print notification messages instead of sending them.")
 
     scheduled = subparsers.add_parser("run-scheduled", help="Run once only when the selected schedule mode should scan now.")
-    scheduled.add_argument("--mode", choices=["always", "market", "offhours"], default=os.getenv("SCHEDULE_MODE", "always"))
+    scheduled.add_argument("--mode", choices=["always", "market", "offhours", "snapshot"], default=os.getenv("SCHEDULE_MODE", "always"))
     scheduled.add_argument("--dry-run", action="store_true", help="Print notification messages instead of sending them.")
 
     full = subparsers.add_parser("send-full", help="Fetch and send the full watchlist now.")

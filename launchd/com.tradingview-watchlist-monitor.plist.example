@@ -24,9 +24,9 @@
     <key>WATCHLIST_NAME</key>
     <string>TradingView Watchlist</string>
     <key>WATCHLIST_URL</key>
-    <string>https://www.tradingview.com/watchlists/326877343/</string>
+    <string>https://www.tradingview.com/watchlists/<watchlist-id>/</string>
     <key>STATE_FILE</key>
-    <string>state/watchlist_326877343.json</string>
+    <string>state/watchlist_<watchlist-id>.json</string>
     <key>MARKET_TIMEZONE</key>
     <string>America/New_York</string>
     <key>MARKET_OPEN</key>
@@ -36,7 +36,11 @@
     <key>CHECK_INTERVAL_MARKET_SECONDS</key>
     <string>900</string>
     <key>CHECK_INTERVAL_OFFHOURS_SECONDS</key>
-    <string>1800</string>
+    <string>21600</string>
+    <key>SNAPSHOT_HOURS</key>
+    <string>0,6,12,18</string>
+    <key>SNAPSHOT_WINDOW_MINUTES</key>
+    <string>45</string>
     <key>HEADLESS</key>
     <string>true</string>
     <key>DISCORD_WEBHOOK_URL</key>

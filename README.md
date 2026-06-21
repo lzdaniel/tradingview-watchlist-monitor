@@ -16,7 +16,7 @@ TradingView does not provide an official webhook for public watchlist membership
 - Shows added/removed counts at the top of every message, even when the count is zero.
 - Lists changed tickers by TradingView section/category.
 - Shows plain tickers in notifications while comparing exchange-qualified symbols internally.
-- Sends the full watchlist at market open and market close.
+- Sends the full watchlist at market open, market close, and configurable snapshot hours.
 - Runs locally as a daemon or in GitHub Actions on a schedule.
 
 ## Example Message
@@ -97,7 +97,9 @@ Edit `.env` and configure your notifier.
 | `MARKET_OPEN` | `09:30` | Regular-session open time. |
 | `MARKET_CLOSE` | `16:00` | Regular-session close time. |
 | `CHECK_INTERVAL_MARKET_SECONDS` | `900` | Local daemon scan interval during market hours. |
-| `CHECK_INTERVAL_OFFHOURS_SECONDS` | `1800` | Local daemon scan interval outside market hours. |
+| `CHECK_INTERVAL_OFFHOURS_SECONDS` | `21600` | Local daemon scan interval outside market hours. |
+| `SNAPSHOT_HOURS` | `0,6,12,18` | Comma-separated full-snapshot hours in `MARKET_TIMEZONE`. |
+| `SNAPSHOT_WINDOW_MINUTES` | `45` | Grace window for scheduled full snapshots and open/close snapshots. |
 | `HEADLESS` | `true` | Runs Chromium in headless mode. |
 | `SEND_INITIAL_BASELINE` | `false` | If true, sends the full list when no previous state exists. |
 | `PERSIST_LAST_SEEN` | `true` | If false, unchanged scans do not modify state timestamps. Useful for GitHub Actions. |
@@ -158,7 +160,7 @@ Run as a local daemon:
 python -m tv_watchlist_monitor.watcher daemon
 ```
 
-The daemon uses `CHECK_INTERVAL_MARKET_SECONDS` during regular market hours and `CHECK_INTERVAL_OFFHOURS_SECONDS` outside regular market hours.
+The daemon uses `CHECK_INTERVAL_MARKET_SECONDS` during regular market hours and `CHECK_INTERVAL_OFFHOURS_SECONDS` outside regular market hours. It also wakes early for market open, market close, and configured `SNAPSHOT_HOURS`.
 
 ## GitHub Actions
 
@@ -170,8 +172,9 @@ This repository includes a scheduled workflow:
 
 The workflow supports:
 
-- Scheduled market-hours scans.
-- Scheduled off-hours scans.
+- Market-hours change scans every 15 minutes.
+- Full snapshots at market open and market close.
+- Full snapshots at configured snapshot hours, defaulting to `00:00`, `06:00`, `12:00`, and `18:00` in `MARKET_TIMEZONE`.
 - Manual runs through `workflow_dispatch`.
 - Repository state commits so each GitHub Actions run can compare against the previous snapshot.
 
@@ -193,20 +196,27 @@ Settings -> Secrets and variables -> Actions -> New repository secret
 
 ### GitHub Variables
 
+Required repository variable:
+
+```text
+WATCHLIST_URL=https://www.tradingview.com/watchlists/<watchlist-id>/
+```
+
 Optional repository variables:
 
 ```text
 NOTIFIERS=discord
 WATCHLIST_NAME=TradingView Watchlist
-WATCHLIST_URL=https://www.tradingview.com/watchlists/<watchlist-id>/
 STATE_FILE=state/watchlist_<watchlist-id>.json
 MARKET_TIMEZONE=America/New_York
 MARKET_OPEN=09:30
 MARKET_CLOSE=16:00
+SNAPSHOT_HOURS=0,6,12,18
+SNAPSHOT_WINDOW_MINUTES=45
 TELEGRAM_DISABLE_WEB_PAGE_PREVIEW=false
 ```
 
-If no variables are set, the workflow defaults to Discord and the sample watchlist URL.
+If `WATCHLIST_URL` is not set, the workflow fails with a clear configuration error.
 
 ### Schedule
 
@@ -214,16 +224,19 @@ The workflow uses two cron schedules:
 
 ```yaml
 - cron: "*/15 13-21 * * 1-5"
-- cron: "7,37 * * * *"
+- cron: "0 * * * *"
 ```
 
-The Python code still checks `America/New_York` market hours:
+GitHub cron schedules run in UTC. The Python code converts the current time to `MARKET_TIMEZONE` and applies the final rules:
 
 - `market` mode scans only during `09:30-16:00`.
-- `offhours` mode skips regular market hours.
+- The first scan inside the open window sends a full market-open snapshot.
+- The close snapshot is sent in the close window.
+- During normal intraday scans, notifications are sent only when symbols are added or removed.
+- `snapshot` mode wakes hourly but sends full snapshots only at `SNAPSHOT_HOURS`, defaulting to `00:00`, `06:00`, `12:00`, and `18:00`.
 - `always` mode is available for manual runs.
 
-GitHub cron schedules run in UTC and may be delayed by GitHub Actions queueing.
+GitHub Actions scheduled workflows can be delayed by GitHub's queue. Increase `SNAPSHOT_WINDOW_MINUTES` if you want a wider grace window.
 
 ### Public Repository State
 
@@ -257,7 +270,7 @@ Use it as a template if you want the monitor to run on a Mac. A sleeping Mac wil
 - This project reads a rendered TradingView page and scanner responses through Playwright, so page or API changes may require parser updates.
 - The schedule treats weekdays as trading days and does not include a US market holiday calendar.
 - GitHub Actions scheduled workflows are not guaranteed to run exactly on time.
-- Avoid high-frequency scraping. The default 15/30 minute cadence is intentionally conservative.
+- Avoid high-frequency scraping. The default 15-minute market cadence and 6-hour snapshot cadence are intentionally conservative.
 
 ## Security
 
@@ -277,7 +290,8 @@ python -m py_compile src/tv_watchlist_monitor/watcher.py
 Run a scheduled-mode dry run:
 
 ```bash
-python -m tv_watchlist_monitor.watcher run-scheduled --mode always --dry-run
+python -m tv_watchlist_monitor.watcher run-scheduled --mode market --dry-run
+python -m tv_watchlist_monitor.watcher run-scheduled --mode snapshot --dry-run
 ```
 
 Inspect the current state:
