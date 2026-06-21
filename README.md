@@ -35,7 +35,7 @@ TradingView does not provide an official webhook for public watchlist membership
 📂 SWINGING
 🔴 - `NVDA` - NVIDIA Corporation
 
-🔗 https://www.tradingview.com/watchlists/326877343/
+🔗 https://www.tradingview.com/watchlists/<watchlist-id>/
 ```
 
 The TradingView link is placed at the end of the message so rich previews appear after the actionable content when the destination app supports previews.
@@ -45,7 +45,7 @@ The TradingView link is placed at the end of the message so rich previews appear
 ```text
 Fetch current TradingView watchlist
 -> Normalize symbols
--> Read previous snapshot from state/watchlist_326877343.json
+-> Read previous snapshot from state/watchlist_<watchlist-id>.json
 -> added = current - previous
 -> removed = previous - current
 -> notify configured destinations only if needed
@@ -92,7 +92,7 @@ Edit `.env` and configure your notifier.
 | `TELEGRAM_DISABLE_WEB_PAGE_PREVIEW` | `false` | Whether Telegram should suppress link previews. |
 | `WATCHLIST_NAME` | `TradingView Watchlist` | Human-readable name shown in notifications. |
 | `WATCHLIST_URL` | sample public URL | Public TradingView watchlist URL. |
-| `STATE_FILE` | `state/watchlist_326877343.json` | Snapshot used to detect additions and removals. |
+| `STATE_FILE` | `state/watchlist_<watchlist-id>.json` | Snapshot used to detect additions and removals. |
 | `MARKET_TIMEZONE` | `America/New_York` | Time zone for market-hours scheduling. |
 | `MARKET_OPEN` | `09:30` | Regular-session open time. |
 | `MARKET_CLOSE` | `16:00` | Regular-session close time. |
@@ -198,8 +198,8 @@ Optional repository variables:
 ```text
 NOTIFIERS=discord
 WATCHLIST_NAME=TradingView Watchlist
-WATCHLIST_URL=https://www.tradingview.com/watchlists/326877343/
-STATE_FILE=state/watchlist_326877343.json
+WATCHLIST_URL=https://www.tradingview.com/watchlists/<watchlist-id>/
+STATE_FILE=state/watchlist_<watchlist-id>.json
 MARKET_TIMEZONE=America/New_York
 MARKET_OPEN=09:30
 MARKET_CLOSE=16:00
@@ -227,7 +227,7 @@ GitHub cron schedules run in UTC and may be delayed by GitHub Actions queueing.
 
 ### Public Repository State
 
-If this project is hosted as a public repository, `state/watchlist_326877343.json` is also public. It contains only the watchlist snapshot used for diffing. Notification secrets must stay in GitHub Secrets and must not be committed.
+If this project is hosted as a public repository, `state/watchlist_<watchlist-id>.json` is also public. It contains only the watchlist snapshot used for diffing. Notification secrets must stay in GitHub Secrets and must not be committed.
 
 ## Multiple Watchlists
 
@@ -287,7 +287,7 @@ python - <<'PY'
 import json
 from pathlib import Path
 
-state = json.loads(Path("state/watchlist_326877343.json").read_text())
+state = json.loads(Path("state/watchlist_<watchlist-id>.json").read_text())
 print(len(state["items"]))
 print(state.get("last_seen_at"))
 PY
