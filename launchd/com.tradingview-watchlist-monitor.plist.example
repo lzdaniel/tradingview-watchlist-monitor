@@ -3,23 +3,26 @@
 <plist version="1.0">
 <dict>
   <key>Label</key>
-  <string>com.algowatch.tradingview-watchlist-discord</string>
+  <string>com.tradingview-watchlist-monitor</string>
 
   <key>ProgramArguments</key>
   <array>
-    <string>/Users/lizhi/Documents/AlgoTrading/tradingview-watchlist-discord/.venv/bin/python</string>
+    <string>/path/to/tradingview-watchlist-monitor/.venv/bin/python</string>
+    <string>-u</string>
     <string>-m</string>
-    <string>tv_watchlist_discord.watcher</string>
+    <string>tv_watchlist_monitor.watcher</string>
     <string>daemon</string>
   </array>
 
   <key>WorkingDirectory</key>
-  <string>/Users/lizhi/Documents/AlgoTrading/tradingview-watchlist-discord</string>
+  <string>/path/to/tradingview-watchlist-monitor</string>
 
   <key>EnvironmentVariables</key>
   <dict>
+    <key>NOTIFIERS</key>
+    <string>discord</string>
     <key>WATCHLIST_NAME</key>
-    <string>黄哥的观察</string>
+    <string>TradingView Watchlist</string>
     <key>WATCHLIST_URL</key>
     <string>https://www.tradingview.com/watchlists/326877343/</string>
     <key>STATE_FILE</key>
@@ -38,6 +41,10 @@
     <string>true</string>
     <key>DISCORD_WEBHOOK_URL</key>
     <string>PASTE_DISCORD_WEBHOOK_URL_HERE</string>
+    <key>TELEGRAM_BOT_TOKEN</key>
+    <string>PASTE_TELEGRAM_BOT_TOKEN_HERE</string>
+    <key>TELEGRAM_CHAT_ID</key>
+    <string>PASTE_TELEGRAM_CHAT_ID_HERE</string>
   </dict>
 
   <key>RunAtLoad</key>
@@ -46,8 +53,8 @@
   <true/>
 
   <key>StandardOutPath</key>
-  <string>/Users/lizhi/Documents/AlgoTrading/tradingview-watchlist-discord/state/launchd.out.log</string>
+  <string>/path/to/tradingview-watchlist-monitor/state/launchd.out.log</string>
   <key>StandardErrorPath</key>
-  <string>/Users/lizhi/Documents/AlgoTrading/tradingview-watchlist-discord/state/launchd.err.log</string>
+  <string>/path/to/tradingview-watchlist-monitor/state/launchd.err.log</string>
 </dict>
 </plist>

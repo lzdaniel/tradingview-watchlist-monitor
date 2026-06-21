@@ -1,14 +1,15 @@
 [project]
-name = "tradingview-watchlist-discord"
+name = "tradingview-watchlist-monitor"
 version = "0.1.0"
-description = "Monitor a public TradingView watchlist and notify Discord when symbols are added or removed."
+description = "Monitor a public TradingView watchlist and send notifications when symbols are added or removed."
 requires-python = ">=3.9"
 dependencies = [
   "playwright>=1.44.0"
 ]
 
 [project.scripts]
-tv-watchlist-discord = "tv_watchlist_discord.watcher:main"
+tv-watchlist-monitor = "tv_watchlist_monitor.watcher:main"
+tv-watchlist-discord = "tv_watchlist_monitor.watcher:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

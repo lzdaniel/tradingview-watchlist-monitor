@@ -32,13 +32,17 @@ jobs:
     timeout-minutes: 10
 
     env:
+      NOTIFIERS: ${{ vars.NOTIFIERS || 'discord' }}
       DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
-      WATCHLIST_NAME: 黄哥的观察
-      WATCHLIST_URL: https://www.tradingview.com/watchlists/326877343/
-      STATE_FILE: state/watchlist_326877343.json
-      MARKET_TIMEZONE: America/New_York
-      MARKET_OPEN: "09:30"
-      MARKET_CLOSE: "16:00"
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      TELEGRAM_DISABLE_WEB_PAGE_PREVIEW: ${{ vars.TELEGRAM_DISABLE_WEB_PAGE_PREVIEW || 'false' }}
+      WATCHLIST_NAME: ${{ vars.WATCHLIST_NAME || 'TradingView Watchlist' }}
+      WATCHLIST_URL: ${{ vars.WATCHLIST_URL || 'https://www.tradingview.com/watchlists/326877343/' }}
+      STATE_FILE: ${{ vars.STATE_FILE || 'state/watchlist_326877343.json' }}
+      MARKET_TIMEZONE: ${{ vars.MARKET_TIMEZONE || 'America/New_York' }}
+      MARKET_OPEN: ${{ vars.MARKET_OPEN || '09:30' }}
+      MARKET_CLOSE: ${{ vars.MARKET_CLOSE || '16:00' }}
       HEADLESS: "true"
       SEND_INITIAL_BASELINE: "false"
       PERSIST_LAST_SEEN: "false"
@@ -80,7 +84,7 @@ jobs:
           fi
 
       - name: Run watcher
-        run: python -m tv_watchlist_discord.watcher run-scheduled --mode "${{ steps.mode.outputs.mode }}"
+        run: python -m tv_watchlist_monitor.watcher run-scheduled --mode "${{ steps.mode.outputs.mode }}"
 
       - name: Commit state changes
         shell: bash

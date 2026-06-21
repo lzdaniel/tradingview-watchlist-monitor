@@ -1,1 +1,1 @@
-__version__ = "0.1.0"
+from tv_watchlist_monitor import __version__

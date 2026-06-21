@@ -1,24 +1,28 @@
-# TradingView Watchlist Discord Monitor
+# TradingView Watchlist Monitor
 
-Monitor a public TradingView watchlist and send Discord notifications when symbols are added or removed.
+Monitor public TradingView watchlists and send notifications when symbols are added or removed.
 
-This project was built for public TradingView watchlists that do not provide an official member-change webhook. It uses Playwright to read the watchlist page, stores the last snapshot locally or in the repository state file, and compares each new scan against that snapshot.
+TradingView does not provide an official webhook for public watchlist membership changes. This project uses Playwright to read a public watchlist page, stores a snapshot, and compares each new scan against the previous snapshot.
 
 ## Features
 
 - Monitors a public TradingView watchlist URL.
-- Sends Discord notifications only when symbols are added or removed.
-- Shows a summary count at the top of each message, even when the count is zero.
-- Lists added and removed tickers by TradingView section/category.
-- Displays ticker codes only in Discord messages, while keeping exchange-qualified symbols internally for accurate diffing.
+- Detects added and removed symbols by comparing snapshots.
+- Sends notifications only when changes are detected.
+- Supports multiple notification targets:
+  - Discord webhook
+  - Telegram bot message
+- Can send to one or more notifiers with `NOTIFIERS=discord,telegram`.
+- Shows added/removed counts at the top of every message, even when the count is zero.
+- Lists changed tickers by TradingView section/category.
+- Shows plain tickers in notifications while comparing exchange-qualified symbols internally.
 - Sends the full watchlist at market open and market close.
-- Supports local daemon mode with different market-hours and off-hours intervals.
-- Supports GitHub Actions scheduled runs for cloud execution.
+- Runs locally as a daemon or in GitHub Actions on a schedule.
 
 ## Example Message
 
 ```text
-🚨 Huang Watchlist Watchlist Update 🚨
+🚨 TradingView Watchlist Update 🚨
 🕒 2026-06-21 09:45:00 EDT
 📊 🟢 Added: 2 | 🔴 Removed: 1
 
@@ -34,11 +38,9 @@ This project was built for public TradingView watchlists that do not provide an 
 🔗 https://www.tradingview.com/watchlists/326877343/
 ```
 
-The TradingView link is placed at the end of the message so Discord link previews appear after the actionable content.
+The TradingView link is placed at the end of the message so rich previews appear after the actionable content when the destination app supports previews.
 
 ## How It Works
-
-Each run performs the same basic flow:
 
 ```text
 Fetch current TradingView watchlist
@@ -46,24 +48,26 @@ Fetch current TradingView watchlist
 -> Read previous snapshot from state/watchlist_326877343.json
 -> added = current - previous
 -> removed = previous - current
--> notify Discord only if needed
+-> notify configured destinations only if needed
 -> write the current snapshot back to state
 ```
 
-Discord output shows plain tickers such as `AAPL`, but the internal comparison uses exchange-qualified symbols such as `NASDAQ:AAPL`. This prevents false matches when the same ticker exists on multiple exchanges.
+Notifications display plain tickers such as `AAPL`, but internal diffing uses exchange-qualified symbols such as `NASDAQ:AAPL`. This avoids false matches when the same ticker exists on multiple exchanges.
 
 ## Requirements
 
 - Python 3.9+
 - Playwright
 - Chromium installed through Playwright
-- A Discord channel webhook
+- At least one notification destination:
+  - Discord webhook URL, or
+  - Telegram bot token and chat id
 
 ## Installation
 
 ```bash
-git clone https://github.com/lzdaniel/tradingview-watchlist-discord.git
-cd tradingview-watchlist-discord
+git clone https://github.com/lzdaniel/tradingview-watchlist-monitor.git
+cd tradingview-watchlist-monitor
 
 python3 -m venv .venv
 source .venv/bin/activate
@@ -75,21 +79,19 @@ python -m playwright install chromium
 cp .env.example .env
 ```
 
-Edit `.env` and set:
-
-```text
-DISCORD_WEBHOOK_URL=<your-discord-webhook-url>
-```
+Edit `.env` and configure your notifier.
 
 ## Configuration
 
-The main configuration is environment-variable based:
-
 | Variable | Default | Description |
 | --- | --- | --- |
-| `DISCORD_WEBHOOK_URL` | required | Discord webhook URL used for notifications. |
-| `WATCHLIST_NAME` | `黄哥的观察` | Human-readable name shown in Discord messages. |
-| `WATCHLIST_URL` | `https://www.tradingview.com/watchlists/326877343/` | Public TradingView watchlist URL. |
+| `NOTIFIERS` | `discord` | Comma-separated notification targets: `discord`, `telegram`, or `discord,telegram`. |
+| `DISCORD_WEBHOOK_URL` | empty | Required when `NOTIFIERS` includes `discord`. |
+| `TELEGRAM_BOT_TOKEN` | empty | Required when `NOTIFIERS` includes `telegram`. |
+| `TELEGRAM_CHAT_ID` | empty | Required when `NOTIFIERS` includes `telegram`. |
+| `TELEGRAM_DISABLE_WEB_PAGE_PREVIEW` | `false` | Whether Telegram should suppress link previews. |
+| `WATCHLIST_NAME` | `TradingView Watchlist` | Human-readable name shown in notifications. |
+| `WATCHLIST_URL` | sample public URL | Public TradingView watchlist URL. |
 | `STATE_FILE` | `state/watchlist_326877343.json` | Snapshot used to detect additions and removals. |
 | `MARKET_TIMEZONE` | `America/New_York` | Time zone for market-hours scheduling. |
 | `MARKET_OPEN` | `09:30` | Regular-session open time. |
@@ -98,36 +100,62 @@ The main configuration is environment-variable based:
 | `CHECK_INTERVAL_OFFHOURS_SECONDS` | `1800` | Local daemon scan interval outside market hours. |
 | `HEADLESS` | `true` | Runs Chromium in headless mode. |
 | `SEND_INITIAL_BASELINE` | `false` | If true, sends the full list when no previous state exists. |
-| `PERSIST_LAST_SEEN` | `true` | If false, unchanged runs do not modify state timestamps. Useful for GitHub Actions. |
+| `PERSIST_LAST_SEEN` | `true` | If false, unchanged scans do not modify state timestamps. Useful for GitHub Actions. |
+
+### Discord
+
+```text
+NOTIFIERS=discord
+DISCORD_WEBHOOK_URL=<your-discord-webhook-url>
+```
+
+### Telegram
+
+Create a bot with `@BotFather`, add it to the target chat or channel, and provide the bot token and chat id:
+
+```text
+NOTIFIERS=telegram
+TELEGRAM_BOT_TOKEN=<your-telegram-bot-token>
+TELEGRAM_CHAT_ID=<your-telegram-chat-id>
+```
+
+To send to both destinations:
+
+```text
+NOTIFIERS=discord,telegram
+DISCORD_WEBHOOK_URL=<your-discord-webhook-url>
+TELEGRAM_BOT_TOKEN=<your-telegram-bot-token>
+TELEGRAM_CHAT_ID=<your-telegram-chat-id>
+```
 
 ## Usage
 
-Run one scan. If there are no changes, no Discord message is sent:
+Run one scan. If there are no changes, no notification is sent:
 
 ```bash
 set -a
 source .env
 set +a
 
-python -m tv_watchlist_discord.watcher run-once
+python -m tv_watchlist_monitor.watcher run-once
 ```
 
-Dry-run one scan without sending Discord messages:
+Dry-run one scan without sending notifications:
 
 ```bash
-python -m tv_watchlist_discord.watcher run-once --dry-run
+python -m tv_watchlist_monitor.watcher run-once --dry-run
 ```
 
 Send the full watchlist now:
 
 ```bash
-python -m tv_watchlist_discord.watcher send-full --label test
+python -m tv_watchlist_monitor.watcher send-full --label test
 ```
 
 Run as a local daemon:
 
 ```bash
-python -m tv_watchlist_discord.watcher daemon
+python -m tv_watchlist_monitor.watcher daemon
 ```
 
 The daemon uses `CHECK_INTERVAL_MARKET_SECONDS` during regular market hours and `CHECK_INTERVAL_OFFHOURS_SECONDS` outside regular market hours.
@@ -147,12 +175,14 @@ The workflow supports:
 - Manual runs through `workflow_dispatch`.
 - Repository state commits so each GitHub Actions run can compare against the previous snapshot.
 
-### Required Secret
+### GitHub Secrets
 
-Set this repository secret:
+Set secrets for the notifiers you use:
 
 ```text
 DISCORD_WEBHOOK_URL
+TELEGRAM_BOT_TOKEN
+TELEGRAM_CHAT_ID
 ```
 
 In GitHub:
@@ -160,6 +190,23 @@ In GitHub:
 ```text
 Settings -> Secrets and variables -> Actions -> New repository secret
 ```
+
+### GitHub Variables
+
+Optional repository variables:
+
+```text
+NOTIFIERS=discord
+WATCHLIST_NAME=TradingView Watchlist
+WATCHLIST_URL=https://www.tradingview.com/watchlists/326877343/
+STATE_FILE=state/watchlist_326877343.json
+MARKET_TIMEZONE=America/New_York
+MARKET_OPEN=09:30
+MARKET_CLOSE=16:00
+TELEGRAM_DISABLE_WEB_PAGE_PREVIEW=false
+```
+
+If no variables are set, the workflow defaults to Discord and the sample watchlist URL.
 
 ### Schedule
 
@@ -180,17 +227,29 @@ GitHub cron schedules run in UTC and may be delayed by GitHub Actions queueing.
 
 ### Public Repository State
 
-If this project is hosted as a public repository, `state/watchlist_326877343.json` is also public. It contains only the watchlist snapshot used for diffing. The Discord webhook must stay in GitHub Secrets and must not be committed.
+If this project is hosted as a public repository, `state/watchlist_326877343.json` is also public. It contains only the watchlist snapshot used for diffing. Notification secrets must stay in GitHub Secrets and must not be committed.
+
+## Multiple Watchlists
+
+The current implementation monitors one watchlist per run. To monitor multiple watchlists, run the workflow or daemon with different values for:
+
+```text
+WATCHLIST_NAME
+WATCHLIST_URL
+STATE_FILE
+```
+
+Each watchlist must have its own `STATE_FILE`; otherwise added/removed comparisons will be mixed together.
 
 ## macOS launchd
 
 An example launchd plist is included:
 
 ```text
-launchd/com.algowatch.tradingview-watchlist-discord.plist.example
+launchd/com.tradingview-watchlist-monitor.plist.example
 ```
 
-Use it as a template if you want the watcher to run on a Mac. A sleeping Mac will not run scheduled scans; use GitHub Actions or a server if you need monitoring while the computer is asleep.
+Use it as a template if you want the monitor to run on a Mac. A sleeping Mac will not run scheduled scans; use GitHub Actions or a server if you need monitoring while the computer is asleep.
 
 ## Limitations
 
@@ -203,8 +262,8 @@ Use it as a template if you want the watcher to run on a Mac. A sleeping Mac wil
 ## Security
 
 - Never commit `.env`.
-- Store Discord webhooks in GitHub Secrets or another secret manager.
-- Rotate the Discord webhook if it is accidentally exposed.
+- Store Discord webhooks and Telegram bot tokens in GitHub Secrets or another secret manager.
+- Rotate any notifier secret if it is accidentally exposed.
 - The repository `.gitignore` excludes local environment files, virtualenvs, logs, and debug artifacts.
 
 ## Development
@@ -212,13 +271,13 @@ Use it as a template if you want the watcher to run on a Mac. A sleeping Mac wil
 Compile-check the package:
 
 ```bash
-python -m py_compile src/tv_watchlist_discord/watcher.py
+python -m py_compile src/tv_watchlist_monitor/watcher.py
 ```
 
 Run a scheduled-mode dry run:
 
 ```bash
-python -m tv_watchlist_discord.watcher run-scheduled --mode always --dry-run
+python -m tv_watchlist_monitor.watcher run-scheduled --mode always --dry-run
 ```
 
 Inspect the current state:
