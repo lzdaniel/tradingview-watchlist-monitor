@@ -165,8 +165,8 @@ class Config:
             market_open=parse_hhmm(os.getenv("MARKET_OPEN", "09:30")),
             market_close=parse_hhmm(os.getenv("MARKET_CLOSE", "16:00")),
             market_interval_seconds=int(os.getenv("CHECK_INTERVAL_MARKET_SECONDS", "900")),
-            offhours_interval_seconds=int(os.getenv("CHECK_INTERVAL_OFFHOURS_SECONDS", "21600")),
-            snapshot_hours=parse_snapshot_hours(os.getenv("SNAPSHOT_HOURS", "0,6,12,18")),
+            offhours_interval_seconds=int(os.getenv("CHECK_INTERVAL_OFFHOURS_SECONDS", "3600")),
+            snapshot_hours=parse_snapshot_hours(os.getenv("SNAPSHOT_HOURS", "12")),
             snapshot_window_minutes=int(os.getenv("SNAPSHOT_WINDOW_MINUTES", "45")),
             headless=str_to_bool(os.getenv("HEADLESS", "true")),
             dry_run=bool(getattr(args, "dry_run", False)) or str_to_bool(os.getenv("DRY_RUN", "false")),
@@ -977,15 +977,30 @@ def should_run_scheduled_mode(config: Config, mode: str, now: Optional[datetime]
     raise ValueError(f"Unsupported schedule mode: {mode}")
 
 
+def should_run_full_snapshot_for_mode(config: Config, mode: str, state: Dict[str, Any], now: datetime) -> bool:
+    if not is_periodic_snapshot_due(config, state, now):
+        return False
+    if mode == "always":
+        return True
+    if mode == "market":
+        return is_market_open_now(config, now)
+    if mode == "offhours":
+        return not is_market_open_now(config, now)
+    return False
+
+
 def run_scheduled(config: Config, mode: str) -> Dict[str, Any]:
     now = now_in_market_tz(config)
     if mode == "snapshot":
         return run_snapshot(config)
+
+    state = load_state(config.state_file)
+    if should_run_full_snapshot_for_mode(config, mode, state, now):
+        return run_snapshot(config)
+
     if not should_run_scheduled_mode(config, mode, now):
         print(f"Skipping scan for mode={mode}; market_open={is_market_open_now(config, now)} time={now.isoformat()}")
         return {"skipped": True, "mode": mode}
-    if mode == "market" and is_periodic_snapshot_due(config, load_state(config.state_file), now):
-        return run_snapshot(config)
     return run_once(config)
 
 

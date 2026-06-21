@@ -36,9 +36,9 @@
     <key>CHECK_INTERVAL_MARKET_SECONDS</key>
     <string>900</string>
     <key>CHECK_INTERVAL_OFFHOURS_SECONDS</key>
-    <string>21600</string>
+    <string>3600</string>
     <key>SNAPSHOT_HOURS</key>
-    <string>0,6,12,18</string>
+    <string>12</string>
     <key>SNAPSHOT_WINDOW_MINUTES</key>
     <string>45</string>
     <key>HEADLESS</key>

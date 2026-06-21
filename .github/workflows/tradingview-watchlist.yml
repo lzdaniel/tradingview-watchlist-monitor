@@ -17,8 +17,9 @@ on:
     # Market scanner: every 15 minutes around possible US regular hours.
     # Python checks America/New_York and only scans during 09:30-16:00.
     - cron: "*/15 13-21 * * 1-5"
-    # Snapshot scanner: wakes hourly. Python sends full snapshots only at
-    # 00:00, 06:00, 12:00, 18:00 ET, plus the market close window.
+    # Off-hours scanner: wakes hourly. Python skips regular market hours;
+    # outside regular hours it sends only added/removed changes, except full
+    # snapshots at the close window and configured daily snapshot hour.
     - cron: "0 * * * *"
 
 permissions:
@@ -45,7 +46,7 @@ jobs:
       MARKET_TIMEZONE: ${{ vars.MARKET_TIMEZONE || 'America/New_York' }}
       MARKET_OPEN: ${{ vars.MARKET_OPEN || '09:30' }}
       MARKET_CLOSE: ${{ vars.MARKET_CLOSE || '16:00' }}
-      SNAPSHOT_HOURS: ${{ vars.SNAPSHOT_HOURS || '0,6,12,18' }}
+      SNAPSHOT_HOURS: ${{ vars.SNAPSHOT_HOURS || '12' }}
       SNAPSHOT_WINDOW_MINUTES: ${{ vars.SNAPSHOT_WINDOW_MINUTES || '45' }}
       HEADLESS: "true"
       SEND_INITIAL_BASELINE: "false"
@@ -84,7 +85,7 @@ jobs:
           elif [[ "${{ github.event.schedule }}" == "*/15 13-21 * * 1-5" ]]; then
             echo "mode=market" >> "$GITHUB_OUTPUT"
           else
-            echo "mode=snapshot" >> "$GITHUB_OUTPUT"
+            echo "mode=offhours" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Run watcher
