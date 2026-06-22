@@ -142,6 +142,13 @@
       "ticker": "8035"
     },
     {
+      "category": "SWINGING",
+      "description": "Nan Ya Plastics Corporation",
+      "exchange": "TWSE",
+      "symbol": "TWSE:1303",
+      "ticker": "1303"
+    },
+    {
       "category": "WATCHLIST",
       "description": "SPDR Gold Shares",
       "exchange": "AMEX",
@@ -749,13 +756,6 @@
       "exchange": "TSE",
       "symbol": "TSE:6963",
       "ticker": "6963"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Nan Ya Plastics Corporation",
-      "exchange": "TWSE",
-      "symbol": "TWSE:1303",
-      "ticker": "1303"
     }
   ],
   "open_full_sent": [],
