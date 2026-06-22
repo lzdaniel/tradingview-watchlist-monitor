@@ -52,6 +52,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Alphabet Inc (Google) Class C",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GOOG",
+      "ticker": "GOOG"
+    },
+    {
+      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -357,13 +364,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FLNC",
       "ticker": "FLNC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Alphabet Inc (Google) Class C",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GOOG",
-      "ticker": "GOOG"
     },
     {
       "category": "WATCHLIST",
