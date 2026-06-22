@@ -1,5 +1,7 @@
 {
-  "close_full_sent": [],
+  "close_full_sent": [
+    "2026-06-22"
+  ],
   "items": [
     {
       "category": "SWINGING",
@@ -588,6 +590,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "International Business Machines Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:IBM",
+      "ticker": "IBM"
     },
     {
       "category": "WATCHLIST",
