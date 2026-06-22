@@ -52,6 +52,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
@@ -98,6 +105,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
       "ticker": "SMTC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "IonQ, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:IONQ",
+      "ticker": "IONQ"
     },
     {
       "category": "SWINGING",
@@ -234,6 +248,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Amazon.com, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMZN",
+      "ticker": "AMZN"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Alpha and Omega Semiconductor Limited",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AOSL",
@@ -301,13 +322,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COHU",
       "ticker": "COHU"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
     },
     {
       "category": "WATCHLIST",
@@ -392,13 +406,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LRCX",
       "ticker": "LRCX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
     },
     {
       "category": "WATCHLIST",
@@ -581,13 +588,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "IonQ, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:IONQ",
-      "ticker": "IONQ"
     },
     {
       "category": "WATCHLIST",
