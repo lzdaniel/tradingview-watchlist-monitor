@@ -3,6 +3,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "Roundhill Memory ETF",
+      "exchange": "CBOE",
+      "symbol": "CBOE:DRAM",
+      "ticker": "DRAM"
+    },
+    {
+      "category": "SWINGING",
       "description": "Kingboard Laminates Holdings Limited",
       "exchange": "HKEX",
       "symbol": "HKEX:1888",
@@ -66,24 +73,24 @@
     },
     {
       "category": "SWINGING",
+      "description": "ON Semiconductor Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ON",
+      "ticker": "ON"
+    },
+    {
+      "category": "SWINGING",
+      "description": "QUALCOMM Incorporated",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:QCOM",
+      "ticker": "QCOM"
+    },
+    {
+      "category": "SWINGING",
       "description": "Semtech Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
       "ticker": "SMTC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Ultra Clean Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:UCTT",
-      "ticker": "UCTT"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Vishay Intertechnology, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VSH",
-      "ticker": "VSH"
     },
     {
       "category": "SWINGING",
@@ -143,13 +150,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "SPDR Gold Shares",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GLD",
-      "ticker": "GLD"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Direxion Daily South Korea Bull 3X ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:KORU",
@@ -168,13 +168,6 @@
       "exchange": "AMEX",
       "symbol": "AMEX:OIH",
       "ticker": "OIH"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Roundhill Memory ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:DRAM",
-      "ticker": "DRAM"
     },
     {
       "category": "WATCHLIST",
@@ -332,6 +325,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Enphase Energy, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ENPH",
+      "ticker": "ENPH"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Eos Energy Enterprises, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:EOSE",
@@ -402,13 +402,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Everspin Technologies, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRAM",
-      "ticker": "MRAM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
@@ -437,13 +430,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "ON Semiconductor Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ON",
-      "ticker": "ON"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Penguin Solutions, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:PENG",
@@ -458,24 +444,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "QUALCOMM Incorporated",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:QCOM",
-      "ticker": "QCOM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Rocket Lab Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RKLB",
       "ticker": "RKLB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "EchoStar Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SATS",
-      "ticker": "SATS"
     },
     {
       "category": "WATCHLIST",
@@ -518,6 +490,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXN",
       "ticker": "TXN"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Ultra Clean Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:UCTT",
+      "ticker": "UCTT"
     },
     {
       "category": "WATCHLIST",
@@ -591,13 +570,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Freeport-McMoRan, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FCX",
-      "ticker": "FCX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "GE Vernova Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:GEV",
@@ -609,6 +581,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "IonQ, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:IONQ",
+      "ticker": "IONQ"
     },
     {
       "category": "WATCHLIST",
@@ -654,13 +633,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Rocket Companies, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RKT",
-      "ticker": "RKT"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Snowflake Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
@@ -679,6 +651,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:TSM",
       "ticker": "TSM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Vishay Intertechnology, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VSH",
+      "ticker": "VSH"
     },
     {
       "category": "WATCHLIST",
