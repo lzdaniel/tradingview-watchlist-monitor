@@ -26,6 +26,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Kulicke and Soffa Industries, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KLIC",
+      "ticker": "KLIC"
+    },
+    {
+      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
@@ -331,13 +338,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
       "ticker": "KLAC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Kulicke and Soffa Industries, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KLIC",
-      "ticker": "KLIC"
     },
     {
       "category": "WATCHLIST",
