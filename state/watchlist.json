@@ -12,13 +12,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Kingboard Laminates Holdings Limited",
-      "exchange": "HKEX",
-      "symbol": "HKEX:1888",
-      "ticker": "1888"
-    },
-    {
-      "category": "SWINGING",
       "description": "SK hynix Inc.",
       "exchange": "KRX",
       "symbol": "KRX:000660",
@@ -198,6 +191,13 @@
       "exchange": "CBOE",
       "symbol": "CBOE:ITB",
       "ticker": "ITB"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Kingboard Laminates Holdings Limited",
+      "exchange": "HKEX",
+      "symbol": "HKEX:1888",
+      "ticker": "1888"
     },
     {
       "category": "WATCHLIST",
