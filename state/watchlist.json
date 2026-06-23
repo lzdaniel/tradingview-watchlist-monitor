@@ -82,6 +82,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "International Business Machines Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:IBM",
+      "ticker": "IBM"
+    },
+    {
+      "category": "SWINGING",
       "description": "IonQ, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:IONQ",
@@ -362,6 +369,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Monolithic Power Systems, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MPWR",
+      "ticker": "MPWR"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
@@ -544,13 +558,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "International Business Machines Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:IBM",
-      "ticker": "IBM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Eli Lilly and Company",
       "exchange": "NYSE",
       "symbol": "NYSE:LLY",
@@ -730,6 +737,13 @@
       "exchange": "TSE",
       "symbol": "TSE:8035",
       "ticker": "8035"
+    },
+    {
+      "category": "未分类",
+      "description": "",
+      "exchange": "CME_MINI",
+      "symbol": "CME_MINI:NQ1!",
+      "ticker": "NQ1!"
     }
   ],
   "open_full_sent": [],
