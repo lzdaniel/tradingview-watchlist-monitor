@@ -19,20 +19,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Applied Materials, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMAT",
-      "ticker": "AMAT"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
@@ -40,31 +26,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "KLA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KLAC",
-      "ticker": "KLAC"
-    },
-    {
-      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
       "ticker": "NVDA"
-    },
-    {
-      "category": "SWINGING",
-      "description": "ON Semiconductor Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ON",
-      "ticker": "ON"
     },
     {
       "category": "SWINGING",
@@ -79,20 +44,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
       "ticker": "SMTC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "International Business Machines Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:IBM",
-      "ticker": "IBM"
-    },
-    {
-      "category": "SWINGING",
-      "description": "IonQ, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:IONQ",
-      "ticker": "IONQ"
     },
     {
       "category": "SWINGING",
@@ -194,6 +145,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Applied Materials, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMAT",
+      "ticker": "AMAT"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -285,6 +243,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
@@ -355,6 +320,20 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "KLA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KLAC",
+      "ticker": "KLAC"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Lumentum Holdings Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
@@ -401,6 +380,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
       "ticker": "NVTS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "ON Semiconductor Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ON",
+      "ticker": "ON"
     },
     {
       "category": "WATCHLIST",
@@ -555,6 +541,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "International Business Machines Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:IBM",
+      "ticker": "IBM"
     },
     {
       "category": "WATCHLIST",
