@@ -138,13 +138,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Mitsui Kinzoku Co., Ltd.",
-      "exchange": "TSE",
-      "symbol": "TSE:5706",
-      "ticker": "5706"
-    },
-    {
-      "category": "SWINGING",
       "description": "Kokusai Electric Corporation",
       "exchange": "TSE",
       "symbol": "TSE:6525",
@@ -691,13 +684,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Ajinomoto Co., Inc.",
-      "exchange": "TSE",
-      "symbol": "TSE:2802",
-      "ticker": "2802"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Asahi Kasei Corporation",
       "exchange": "TSE",
       "symbol": "TSE:3407",
@@ -709,6 +695,13 @@
       "exchange": "TSE",
       "symbol": "TSE:4182",
       "ticker": "4182"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Mitsui Kinzoku Co., Ltd.",
+      "exchange": "TSE",
+      "symbol": "TSE:5706",
+      "ticker": "5706"
     },
     {
       "category": "WATCHLIST",
