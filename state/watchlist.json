@@ -27,13 +27,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Kulicke and Soffa Industries, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KLIC",
-      "ticker": "KLIC"
-    },
-    {
-      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
@@ -52,6 +45,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
       "ticker": "SMTC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
     },
     {
       "category": "SWINGING",
@@ -342,6 +342,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Kulicke and Soffa Industries, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KLIC",
+      "ticker": "KLIC"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Lumentum Holdings Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
@@ -430,13 +437,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
     },
     {
       "category": "WATCHLIST",
@@ -740,7 +740,9 @@
       "ticker": "8035"
     }
   ],
-  "open_full_sent": [],
+  "open_full_sent": [
+    "2026-06-24"
+  ],
   "source_url": "https://www.tradingview.com/watchlists/326877343/",
   "watchlist_name": "TradingView Watchlist"
 }
