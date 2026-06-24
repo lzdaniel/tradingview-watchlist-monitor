@@ -69,13 +69,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "QUALCOMM Incorporated",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:QCOM",
-      "ticker": "QCOM"
-    },
-    {
-      "category": "SWINGING",
       "description": "Semtech Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
@@ -430,6 +423,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:PURR",
       "ticker": "PURR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "QUALCOMM Incorporated",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:QCOM",
+      "ticker": "QCOM"
     },
     {
       "category": "WATCHLIST",
