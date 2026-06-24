@@ -20,6 +20,20 @@
     },
     {
       "category": "SWINGING",
+      "description": "Astera Labs, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ALAB",
+      "ticker": "ALAB"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Amazon.com, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMZN",
+      "ticker": "AMZN"
+    },
+    {
+      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
@@ -27,10 +41,31 @@
     },
     {
       "category": "SWINGING",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
       "ticker": "NVDA"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Penguin Solutions, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:PENG",
+      "ticker": "PENG"
     },
     {
       "category": "SWINGING",
@@ -52,6 +87,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SPCX",
       "ticker": "SPCX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "STMicroelectronics N.V.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:STM",
+      "ticker": "STM"
     },
     {
       "category": "SWINGING",
@@ -146,13 +188,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Astera Labs, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Applied Materials, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMAT",
@@ -171,13 +206,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMKR",
       "ticker": "AMKR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Amazon.com, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMZN",
-      "ticker": "AMZN"
     },
     {
       "category": "WATCHLIST",
@@ -328,13 +356,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -384,13 +405,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Navitas Semiconductor Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
@@ -402,13 +416,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ON",
       "ticker": "ON"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Penguin Solutions, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PENG",
-      "ticker": "PENG"
     },
     {
       "category": "WATCHLIST",
@@ -605,13 +612,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "STMicroelectronics N.V.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:STM",
-      "ticker": "STM"
     },
     {
       "category": "WATCHLIST",
