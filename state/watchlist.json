@@ -13,20 +13,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "SK hynix Inc.",
-      "exchange": "KRX",
-      "symbol": "KRX:000660",
-      "ticker": "000660"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Samsung Electronics Co., Ltd.",
-      "exchange": "KRX",
-      "symbol": "KRX:005930",
-      "ticker": "005930"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -129,6 +115,20 @@
       "exchange": "HKEX",
       "symbol": "HKEX:1888",
       "ticker": "1888"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "SK hynix Inc.",
+      "exchange": "KRX",
+      "symbol": "KRX:000660",
+      "ticker": "000660"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Samsung Electronics Co., Ltd.",
+      "exchange": "KRX",
+      "symbol": "KRX:005930",
+      "ticker": "005930"
     },
     {
       "category": "WATCHLIST",
@@ -738,13 +738,6 @@
       "exchange": "TSE",
       "symbol": "TSE:8035",
       "ticker": "8035"
-    },
-    {
-      "category": "未分类",
-      "description": "",
-      "exchange": "CME_MINI",
-      "symbol": "CME_MINI:NQ1!",
-      "ticker": "NQ1!"
     }
   ],
   "open_full_sent": [],
