@@ -90,6 +90,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
+    },
+    {
+      "category": "SWINGING",
       "description": "STMicroelectronics N.V.",
       "exchange": "NYSE",
       "symbol": "NYSE:STM",
@@ -521,13 +528,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:COHR",
       "ticker": "COHR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Dell Technologies Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DELL",
-      "ticker": "DELL"
     },
     {
       "category": "WATCHLIST",
