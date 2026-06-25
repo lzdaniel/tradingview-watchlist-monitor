@@ -127,6 +127,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "ON Semiconductor Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ON",
+      "ticker": "ON"
+    },
+    {
+      "category": "SWINGING",
       "description": "Penguin Solutions, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:PENG",
@@ -453,13 +460,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
       "ticker": "NVTS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "ON Semiconductor Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ON",
-      "ticker": "ON"
     },
     {
       "category": "WATCHLIST",
