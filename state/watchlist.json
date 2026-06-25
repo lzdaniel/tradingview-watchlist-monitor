@@ -7,6 +7,20 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDXU",
+      "ticker": "GDXU"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Direxion Daily South Korea Bull 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:KORU",
+      "ticker": "KORU"
+    },
+    {
+      "category": "SWINGING",
       "description": "Roundhill Memory ETF",
       "exchange": "CBOE",
       "symbol": "CBOE:DRAM",
@@ -53,6 +67,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
       "ticker": "AMZN"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Datadog, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:DDOG",
+      "ticker": "DDOG"
     },
     {
       "category": "SWINGING",
@@ -133,6 +154,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Ultra Clean Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:UCTT",
+      "ticker": "UCTT"
+    },
+    {
+      "category": "SWINGING",
       "description": "Dell Technologies Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:DELL",
@@ -161,10 +189,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Direxion Daily South Korea Bull 3X ETF",
+      "description": "iShares MSCI Brazil ETF",
       "exchange": "AMEX",
-      "symbol": "AMEX:KORU",
-      "ticker": "KORU"
+      "symbol": "AMEX:EWZ",
+      "ticker": "EWZ"
     },
     {
       "category": "WATCHLIST",
@@ -336,13 +364,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Datadog, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:DDOG",
-      "ticker": "DDOG"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Enphase Energy, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ENPH",
@@ -480,13 +501,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXN",
       "ticker": "TXN"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Ultra Clean Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:UCTT",
-      "ticker": "UCTT"
     },
     {
       "category": "WATCHLIST",
