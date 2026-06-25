@@ -658,13 +658,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Asahi Kasei Corporation",
-      "exchange": "TSE",
-      "symbol": "TSE:3407",
-      "ticker": "3407"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "SUMCO Corporation",
       "exchange": "TSE",
       "symbol": "TSE:3436",
