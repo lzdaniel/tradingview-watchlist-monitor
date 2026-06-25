@@ -84,6 +84,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Robinhood Markets, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HOOD",
+      "ticker": "HOOD"
+    },
+    {
+      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -95,13 +102,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
       "ticker": "KLAC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Kulicke and Soffa Industries, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KLIC",
-      "ticker": "KLIC"
     },
     {
       "category": "SWINGING",
@@ -410,6 +410,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INOD",
       "ticker": "INOD"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Kulicke and Soffa Industries, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KLIC",
+      "ticker": "KLIC"
     },
     {
       "category": "WATCHLIST",
