@@ -324,13 +324,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Century Aluminum Company",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CENX",
-      "ticker": "CENX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "CEVA, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CEVA",
@@ -401,6 +394,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Gilead Sciences, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GILD",
+      "ticker": "GILD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Ichor Holdings",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ICHR",
@@ -440,6 +440,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MPWR",
       "ticker": "MPWR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Moderna, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRNA",
+      "ticker": "MRNA"
     },
     {
       "category": "WATCHLIST",
@@ -601,13 +608,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:F",
       "ticker": "F"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Comfort Systems USA, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FIX",
-      "ticker": "FIX"
     },
     {
       "category": "WATCHLIST",
