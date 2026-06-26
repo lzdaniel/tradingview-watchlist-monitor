@@ -3,7 +3,8 @@
     "2026-06-22",
     "2026-06-23",
     "2026-06-24",
-    "2026-06-25"
+    "2026-06-25",
+    "2026-06-26"
   ],
   "items": [
     {
@@ -155,10 +156,24 @@
     },
     {
       "category": "SWINGING",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "SWINGING",
       "description": "Ultra Clean Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:UCTT",
       "ticker": "UCTT"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
     },
     {
       "category": "SWINGING",
@@ -484,13 +499,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
@@ -544,13 +552,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ATI",
       "ticker": "ATI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
