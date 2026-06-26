@@ -183,13 +183,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Kioxia Holdings Corporation",
-      "exchange": "TSE",
-      "symbol": "TSE:285A",
-      "ticker": "285A"
-    },
-    {
-      "category": "SWINGING",
       "description": "Nan Ya Plastics Corporation",
       "exchange": "TWSE",
       "symbol": "TWSE:1303",
@@ -712,6 +705,13 @@
       "exchange": "SPCFD",
       "symbol": "SPCFD:SPX",
       "ticker": "SPX"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Kioxia Holdings Corporation",
+      "exchange": "TSE",
+      "symbol": "TSE:285A",
+      "ticker": "285A"
     },
     {
       "category": "WATCHLIST",
