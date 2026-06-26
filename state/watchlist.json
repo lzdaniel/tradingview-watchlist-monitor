@@ -155,13 +155,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
-    },
-    {
-      "category": "SWINGING",
       "description": "Ultra Clean Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:UCTT",
@@ -180,13 +173,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
-    },
-    {
-      "category": "SWINGING",
-      "description": "STMicroelectronics N.V.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:STM",
-      "ticker": "STM"
     },
     {
       "category": "SWINGING",
@@ -498,6 +484,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
@@ -677,6 +670,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:RDW",
       "ticker": "RDW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "STMicroelectronics N.V.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:STM",
+      "ticker": "STM"
     },
     {
       "category": "WATCHLIST",
