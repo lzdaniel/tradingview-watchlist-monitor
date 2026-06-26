@@ -8,6 +8,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "iShares MSCI Brazil ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:EWZ",
+      "ticker": "EWZ"
+    },
+    {
+      "category": "SWINGING",
       "description": "MicroSectors Gold Miners 3x Leveraged ETN",
       "exchange": "AMEX",
       "symbol": "AMEX:GDXU",
@@ -194,13 +201,6 @@
       "exchange": "TWSE",
       "symbol": "TWSE:1303",
       "ticker": "1303"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "iShares MSCI Brazil ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:EWZ",
-      "ticker": "EWZ"
     },
     {
       "category": "WATCHLIST",
