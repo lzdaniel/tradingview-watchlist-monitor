@@ -506,13 +506,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Hyperliquid Strategies Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PURR",
-      "ticker": "PURR"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "QUALCOMM Incorporated",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:QCOM",
