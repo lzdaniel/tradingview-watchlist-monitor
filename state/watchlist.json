@@ -72,6 +72,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "AST SpaceMobile, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ASTS",
+      "ticker": "ASTS"
+    },
+    {
+      "category": "SWINGING",
       "description": "Cognex Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CGNX",
@@ -170,6 +177,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Seagate Technology Holdings PLC",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:STX",
+      "ticker": "STX"
+    },
+    {
+      "category": "SWINGING",
       "description": "Ultra Clean Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:UCTT",
@@ -177,17 +191,17 @@
     },
     {
       "category": "SWINGING",
+      "description": "Western Digital Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:WDC",
+      "ticker": "WDC"
+    },
+    {
+      "category": "SWINGING",
       "description": "Bloom Energy Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:BE",
       "ticker": "BE"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Dell Technologies Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DELL",
-      "ticker": "DELL"
     },
     {
       "category": "SWINGING",
@@ -338,17 +352,17 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "AST SpaceMobile, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ASTS",
-      "ticker": "ASTS"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Broadcom Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AVGO",
       "ticker": "AVGO"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Axon Enterprise, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AXON",
+      "ticker": "AXON"
     },
     {
       "category": "WATCHLIST",
@@ -433,13 +447,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FLNC",
       "ticker": "FLNC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Gilead Sciences, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GILD",
-      "ticker": "GILD"
     },
     {
       "category": "WATCHLIST",
@@ -534,13 +541,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Seagate Technology Holdings PLC",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:STX",
-      "ticker": "STX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Tower Semiconductor Ltd.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
@@ -566,13 +566,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:VIAV",
       "ticker": "VIAV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Western Digital Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WDC",
-      "ticker": "WDC"
     },
     {
       "category": "WATCHLIST",
@@ -629,6 +622,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CRS",
       "ticker": "CRS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
     },
     {
       "category": "WATCHLIST",
