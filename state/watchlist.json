@@ -16,13 +16,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDXU",
-      "ticker": "GDXU"
-    },
-    {
-      "category": "SWINGING",
       "description": "Direxion Daily South Korea Bull 3X ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:KORU",
@@ -114,6 +107,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Lam Research Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LRCX",
+      "ticker": "LRCX"
+    },
+    {
+      "category": "SWINGING",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
@@ -156,10 +156,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Space Exploration Technologies Corp",
+      "description": "Sandisk Corporation",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
     },
     {
       "category": "SWINGING",
@@ -198,6 +198,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDXU",
+      "ticker": "GDXU"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Roundhill Meme Stock ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:MEME",
@@ -209,6 +216,20 @@
       "exchange": "AMEX",
       "symbol": "AMEX:OIH",
       "ticker": "OIH"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "State Street SPDR S&P Biotech ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:XBI",
+      "ticker": "XBI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "State Street Health Care Select Sector SPDR ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:XLV",
+      "ticker": "XLV"
     },
     {
       "category": "WATCHLIST",
@@ -373,6 +394,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Entegris, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ENTG",
+      "ticker": "ENTG"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Eos Energy Enterprises, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:EOSE",
@@ -433,13 +461,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
       "ticker": "LITE"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Lam Research Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LRCX",
-      "ticker": "LRCX"
     },
     {
       "category": "WATCHLIST",
@@ -506,10 +527,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Sandisk Corporation",
+      "description": "Space Exploration Technologies Corp",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
     },
     {
       "category": "WATCHLIST",
@@ -524,6 +545,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Twist Bioscience Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TWST",
+      "ticker": "TWST"
     },
     {
       "category": "WATCHLIST",
@@ -601,6 +629,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CRS",
       "ticker": "CRS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Ginkgo Bioworks Holdings, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DNA",
+      "ticker": "DNA"
     },
     {
       "category": "WATCHLIST",
