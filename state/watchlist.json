@@ -205,6 +205,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Caterpillar, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:CAT",
+      "ticker": "CAT"
+    },
+    {
+      "category": "SWINGING",
       "description": "Corning Incorporated",
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
@@ -587,13 +594,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ATI",
       "ticker": "ATI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Caterpillar, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CAT",
-      "ticker": "CAT"
     },
     {
       "category": "WATCHLIST",
