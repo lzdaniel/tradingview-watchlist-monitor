@@ -72,6 +72,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Cognex Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CGNX",
+      "ticker": "CGNX"
+    },
+    {
+      "category": "SWINGING",
       "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
@@ -181,6 +188,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DELL",
       "ticker": "DELL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Corning Incorporated",
+      "exchange": "NYSE",
+      "symbol": "NYSE:GLW",
+      "ticker": "GLW"
     },
     {
       "category": "SWINGING",
@@ -349,13 +363,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CEVA",
       "ticker": "CEVA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Cognex Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CGNX",
-      "ticker": "CGNX"
     },
     {
       "category": "WATCHLIST",
@@ -660,13 +667,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Corning Incorporated",
-      "exchange": "NYSE",
-      "symbol": "NYSE:GLW",
-      "ticker": "GLW"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "International Business Machines Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:IBM",
@@ -844,7 +844,8 @@
   "open_full_sent": [
     "2026-06-24",
     "2026-06-25",
-    "2026-06-26"
+    "2026-06-26",
+    "2026-06-29"
   ],
   "source_url": "https://www.tradingview.com/watchlists/326877343/",
   "watchlist_name": "TradingView Watchlist"
