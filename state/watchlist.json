@@ -87,6 +87,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Enphase Energy, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ENPH",
+      "ticker": "ENPH"
+    },
+    {
+      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
@@ -203,6 +210,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DELL",
       "ticker": "DELL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Onto Innovation Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ONTO",
+      "ticker": "ONTO"
     },
     {
       "category": "SWINGING",
@@ -406,13 +420,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
       "ticker": "CRWV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Enphase Energy, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ENPH",
-      "ticker": "ENPH"
     },
     {
       "category": "WATCHLIST",
@@ -700,13 +707,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:NOK",
       "ticker": "NOK"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Onto Innovation Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ONTO",
-      "ticker": "ONTO"
     },
     {
       "category": "WATCHLIST",
