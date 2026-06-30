@@ -5,7 +5,8 @@
     "2026-06-24",
     "2026-06-25",
     "2026-06-26",
-    "2026-06-29"
+    "2026-06-29",
+    "2026-06-30"
   ],
   "items": [
     {
@@ -42,13 +43,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
       "ticker": "AAPL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Astera Labs, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
     },
     {
       "category": "SWINGING",
@@ -213,6 +207,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "DigitalOcean Holdings, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DOCN",
+      "ticker": "DOCN"
+    },
+    {
+      "category": "SWINGING",
       "description": "Onto Innovation Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:ONTO",
@@ -329,6 +330,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AEHR",
       "ticker": "AEHR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Astera Labs, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ALAB",
+      "ticker": "ALAB"
     },
     {
       "category": "WATCHLIST",
@@ -514,6 +522,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "MKS Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MKSI",
+      "ticker": "MKSI"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Monolithic Power Systems, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MPWR",
@@ -591,6 +606,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Veeco Instruments Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:VECO",
+      "ticker": "VECO"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Viavi Solutions Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:VIAV",
@@ -665,13 +687,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DNA",
       "ticker": "DNA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "DigitalOcean Holdings, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DOCN",
-      "ticker": "DOCN"
     },
     {
       "category": "WATCHLIST",
