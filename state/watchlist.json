@@ -325,6 +325,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Ambarella, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMBA",
+      "ticker": "AMBA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
