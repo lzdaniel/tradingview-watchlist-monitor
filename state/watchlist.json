@@ -297,6 +297,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Mirae Corp",
+      "exchange": "KRX",
+      "symbol": "KRX:025560",
+      "ticker": "025560"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Applied Optoelectronics, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAOI",
