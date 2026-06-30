@@ -94,13 +94,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Robinhood Markets, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HOOD",
-      "ticker": "HOOD"
-    },
-    {
-      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -140,6 +133,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
       "ticker": "NVDA"
+    },
+    {
+      "category": "SWINGING",
+      "description": "ON Semiconductor Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ON",
+      "ticker": "ON"
     },
     {
       "category": "SWINGING",
@@ -206,10 +206,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Corning Incorporated",
+      "description": "",
       "exchange": "NYSE",
-      "symbol": "NYSE:GLW",
-      "ticker": "GLW"
+      "symbol": "NYSE:RBRK",
+      "ticker": "RBRK"
     },
     {
       "category": "SWINGING",
@@ -465,6 +465,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Robinhood Markets, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HOOD",
+      "ticker": "HOOD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Ichor Holdings",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ICHR",
@@ -518,13 +525,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
       "ticker": "NVTS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "ON Semiconductor Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ON",
-      "ticker": "ON"
     },
     {
       "category": "WATCHLIST",
@@ -668,6 +668,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Corning Incorporated",
+      "exchange": "NYSE",
+      "symbol": "NYSE:GLW",
+      "ticker": "GLW"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "International Business Machines Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:IBM",
@@ -742,13 +749,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:WOLF",
       "ticker": "WOLF"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Infineon Technologies AG",
-      "exchange": "OTC",
-      "symbol": "OTC:IFNNY",
-      "ticker": "IFNNY"
     },
     {
       "category": "WATCHLIST",
