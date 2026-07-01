@@ -39,6 +39,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Applied Materials, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMAT",
+      "ticker": "AMAT"
+    },
+    {
+      "category": "SWINGING",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
@@ -50,13 +57,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
       "ticker": "CRDO"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Enphase Energy, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ENPH",
-      "ticker": "ENPH"
     },
     {
       "category": "SWINGING",
@@ -193,13 +193,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Rubrik, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RBRK",
-      "ticker": "RBRK"
-    },
-    {
-      "category": "SWINGING",
       "description": "Snowflake Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
@@ -319,13 +312,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Applied Materials, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMAT",
-      "ticker": "AMAT"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Ambarella, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
@@ -442,6 +428,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
       "ticker": "DDOG"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Enphase Energy, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ENPH",
+      "ticker": "ENPH"
     },
     {
       "category": "WATCHLIST",
@@ -750,6 +743,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ORCL",
       "ticker": "ORCL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Rubrik, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RBRK",
+      "ticker": "RBRK"
     },
     {
       "category": "WATCHLIST",
