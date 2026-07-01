@@ -32,13 +32,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Samsung Electronics Co., Ltd.",
-      "exchange": "KRX",
-      "symbol": "KRX:005930",
-      "ticker": "005930"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -295,6 +288,13 @@
       "exchange": "HKEX",
       "symbol": "HKEX:1888",
       "ticker": "1888"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Samsung Electronics Co., Ltd.",
+      "exchange": "KRX",
+      "symbol": "KRX:005930",
+      "ticker": "005930"
     },
     {
       "category": "WATCHLIST",
