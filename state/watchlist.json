@@ -571,7 +571,7 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Space Exploration Technologies Corp.",
+      "description": "Space Exploration Technologies Corp",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SPCX",
       "ticker": "SPCX"
@@ -820,13 +820,6 @@
       "exchange": "TSE",
       "symbol": "TSE:5706",
       "ticker": "5706"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Fujikura Ltd",
-      "exchange": "TSE",
-      "symbol": "TSE:5803",
-      "ticker": "5803"
     },
     {
       "category": "WATCHLIST",
