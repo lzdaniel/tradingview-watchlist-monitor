@@ -19,31 +19,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Direxion Daily South Korea Bull 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:KORU",
-      "ticker": "KORU"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Roundhill Memory ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:DRAM",
-      "ticker": "DRAM"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
       "ticker": "AAPL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Applied Materials, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMAT",
-      "ticker": "AMAT"
     },
     {
       "category": "SWINGING",
@@ -54,13 +33,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
@@ -68,136 +40,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Ichor Holdings",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ICHR",
-      "ticker": "ICHR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "KLA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KLAC",
-      "ticker": "KLAC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Micron Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MU",
-      "ticker": "MU"
-    },
-    {
-      "category": "SWINGING",
-      "description": "MaxLinear, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MXL",
-      "ticker": "MXL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
-    },
-    {
-      "category": "SWINGING",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
-    },
-    {
-      "category": "SWINGING",
-      "description": "ON Semiconductor Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ON",
-      "ticker": "ON"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Penguin Solutions, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PENG",
-      "ticker": "PENG"
-    },
-    {
-      "category": "SWINGING",
       "description": "Invesco QQQ Trust, Series 1",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:QQQ",
       "ticker": "QQQ"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Semtech Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMTC",
-      "ticker": "SMTC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Ultra Clean Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:UCTT",
-      "ticker": "UCTT"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Caterpillar, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CAT",
-      "ticker": "CAT"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Dell Technologies Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DELL",
-      "ticker": "DELL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "DigitalOcean Holdings, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DOCN",
-      "ticker": "DOCN"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Onto Innovation Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ONTO",
-      "ticker": "ONTO"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Vishay Intertechnology, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VSH",
-      "ticker": "VSH"
     },
     {
       "category": "SWINGING",
@@ -215,6 +61,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Direxion Daily South Korea Bull 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:KORU",
+      "ticker": "KORU"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Roundhill Meme Stock ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:MEME",
@@ -226,6 +79,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:XBI",
       "ticker": "XBI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Roundhill Memory ETF",
+      "exchange": "CBOE",
+      "symbol": "CBOE:DRAM",
+      "ticker": "DRAM"
     },
     {
       "category": "WATCHLIST",
@@ -303,6 +163,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ALAB",
       "ticker": "ALAB"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Applied Materials, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMAT",
+      "ticker": "AMAT"
     },
     {
       "category": "WATCHLIST",
@@ -404,6 +271,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
@@ -481,10 +355,31 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Ichor Holdings",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ICHR",
+      "ticker": "ICHR"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Innodata Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INOD",
       "ticker": "INOD"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "KLA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KLAC",
+      "ticker": "KLAC"
     },
     {
       "category": "WATCHLIST",
@@ -537,10 +432,52 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Micron Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MU",
+      "ticker": "MU"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "MaxLinear, Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MXL",
+      "ticker": "MXL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Navitas Semiconductor Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
       "ticker": "NVTS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "ON Semiconductor Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ON",
+      "ticker": "ON"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Penguin Solutions, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:PENG",
+      "ticker": "PENG"
     },
     {
       "category": "WATCHLIST",
@@ -572,6 +509,20 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Semtech Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SMTC",
+      "ticker": "SMTC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Philadelphia Semiconductor Index",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOX",
@@ -600,6 +551,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Twist Bioscience Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TWST",
@@ -611,6 +569,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXN",
       "ticker": "TXN"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Ultra Clean Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:UCTT",
+      "ticker": "UCTT"
     },
     {
       "category": "WATCHLIST",
@@ -656,6 +621,20 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Caterpillar, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:CAT",
+      "ticker": "CAT"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Ciena Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:CIEN",
@@ -684,10 +663,24 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Ginkgo Bioworks Holdings, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:DNA",
       "ticker": "DNA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "DigitalOcean Holdings, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DOCN",
+      "ticker": "DOCN"
     },
     {
       "category": "WATCHLIST",
@@ -740,6 +733,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Onto Innovation Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ONTO",
+      "ticker": "ONTO"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Oracle Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:ORCL",
@@ -786,6 +786,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:TSM",
       "ticker": "TSM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Vishay Intertechnology, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VSH",
+      "ticker": "VSH"
     },
     {
       "category": "WATCHLIST",
