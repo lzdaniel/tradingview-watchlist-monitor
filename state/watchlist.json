@@ -12,6 +12,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDXU",
+      "ticker": "GDXU"
+    },
+    {
+      "category": "SWINGING",
       "description": "Direxion Daily South Korea Bull 3X ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:KORU",
@@ -198,13 +205,6 @@
       "exchange": "TWSE",
       "symbol": "TWSE:1303",
       "ticker": "1303"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDXU",
-      "ticker": "GDXU"
     },
     {
       "category": "WATCHLIST",
@@ -885,7 +885,8 @@
     "2026-06-26",
     "2026-06-29",
     "2026-06-30",
-    "2026-07-01"
+    "2026-07-01",
+    "2026-07-02"
   ],
   "source_url": "https://www.tradingview.com/watchlists/326877343/",
   "watchlist_name": "TradingView Watchlist"
