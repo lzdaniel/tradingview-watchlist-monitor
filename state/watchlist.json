@@ -600,13 +600,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Alcoa Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:AA",
-      "ticker": "AA"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "ASE Technology Holding Co., Ltd.",
       "exchange": "NYSE",
       "symbol": "NYSE:ASX",
