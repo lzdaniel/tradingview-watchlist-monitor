@@ -728,6 +728,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Johnson & Johnson",
+      "exchange": "NYSE",
+      "symbol": "NYSE:JNJ",
+      "ticker": "JNJ"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Eli Lilly and Company",
       "exchange": "NYSE",
       "symbol": "NYSE:LLY",
