@@ -21,17 +21,17 @@
     },
     {
       "category": "SWINGING",
-      "description": "SK hynix Inc.",
-      "exchange": "KRX",
-      "symbol": "KRX:000660",
-      "ticker": "000660"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
       "ticker": "AAPL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
     },
     {
       "category": "SWINGING",
@@ -42,10 +42,38 @@
     },
     {
       "category": "SWINGING",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
       "ticker": "GOOG"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Microsoft Corp.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MSFT",
+      "ticker": "MSFT"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Micron Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MU",
+      "ticker": "MU"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Netflix, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NFLX",
+      "ticker": "NFLX"
     },
     {
       "category": "SWINGING",
@@ -56,31 +84,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Kioxia Holdings Corporation",
-      "exchange": "TSE",
-      "symbol": "TSE:285A",
-      "ticker": "285A"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Kokusai Electric Corporation",
-      "exchange": "TSE",
-      "symbol": "TSE:6525",
-      "ticker": "6525"
-    },
-    {
-      "category": "SWINGING",
-      "description": "ROHM Company Limited",
-      "exchange": "TSE",
-      "symbol": "TSE:6963",
-      "ticker": "6963"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Taiyo Yuden Co., Ltd.",
-      "exchange": "TSE",
-      "symbol": "TSE:6976",
-      "ticker": "6976"
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
     },
     {
       "category": "WATCHLIST",
@@ -137,6 +144,13 @@
       "exchange": "HKEX",
       "symbol": "HKEX:1888",
       "ticker": "1888"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "SK hynix Inc.",
+      "exchange": "KRX",
+      "symbol": "KRX:000660",
+      "ticker": "000660"
     },
     {
       "category": "WATCHLIST",
@@ -200,13 +214,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
       "ticker": "AMBA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
     },
     {
       "category": "WATCHLIST",
@@ -291,13 +298,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COHU",
       "ticker": "COHU"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
     },
     {
       "category": "WATCHLIST",
@@ -455,13 +455,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Micron Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MU",
-      "ticker": "MU"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "MaxLinear, Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MXL",
@@ -536,13 +529,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
       "ticker": "SMTC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
     },
     {
       "category": "WATCHLIST",
@@ -833,6 +819,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Kioxia Holdings Corporation",
+      "exchange": "TSE",
+      "symbol": "TSE:285A",
+      "ticker": "285A"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "SUMCO Corporation",
       "exchange": "TSE",
       "symbol": "TSE:3436",
@@ -861,6 +854,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Kokusai Electric Corporation",
+      "exchange": "TSE",
+      "symbol": "TSE:6525",
+      "ticker": "6525"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Renesas Electronics Corporation",
       "exchange": "TSE",
       "symbol": "TSE:6723",
@@ -868,17 +868,24 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "ROHM Company Limited",
+      "exchange": "TSE",
+      "symbol": "TSE:6963",
+      "ticker": "6963"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Taiyo Yuden Co., Ltd.",
+      "exchange": "TSE",
+      "symbol": "TSE:6976",
+      "ticker": "6976"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Murata Manufacturing Co., Ltd.",
       "exchange": "TSE",
       "symbol": "TSE:6981",
       "ticker": "6981"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Kokusai Co., Ltd.",
-      "exchange": "TSE",
-      "symbol": "TSE:7722",
-      "ticker": "7722"
     },
     {
       "category": "WATCHLIST",
