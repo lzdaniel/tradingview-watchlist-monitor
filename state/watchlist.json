@@ -43,6 +43,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Datadog, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:DDOG",
+      "ticker": "DDOG"
+    },
+    {
+      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
@@ -82,6 +89,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:QQQ",
       "ticker": "QQQ"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Rubrik, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RBRK",
+      "ticker": "RBRK"
     },
     {
       "category": "WATCHLIST",
@@ -316,13 +330,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Datadog, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:DDOG",
-      "ticker": "DDOG"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Enphase Energy, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ENPH",
@@ -502,6 +509,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RKLB",
       "ticker": "RKLB"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "SharonAI Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SHAZ",
+      "ticker": "SHAZ"
     },
     {
       "category": "WATCHLIST",
@@ -754,13 +768,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ORCL",
       "ticker": "ORCL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Rubrik, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RBRK",
-      "ticker": "RBRK"
     },
     {
       "category": "WATCHLIST",
