@@ -15,13 +15,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Direxion Daily Semiconductor Bear 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:SOXS",
-      "ticker": "SOXS"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -57,6 +50,20 @@
     },
     {
       "category": "SWINGING",
+      "description": "Micron Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MU",
+      "ticker": "MU"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "SWINGING",
       "description": "Netflix, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NFLX",
@@ -64,10 +71,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Rubrik, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RBRK",
-      "ticker": "RBRK"
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
     },
     {
       "category": "WATCHLIST",
@@ -96,6 +103,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:MEME",
       "ticker": "MEME"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Direxion Daily Semiconductor Bear 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:SOXS",
+      "ticker": "SOXS"
     },
     {
       "category": "WATCHLIST",
@@ -365,6 +379,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "JFrog Ltd.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FROG",
+      "ticker": "FROG"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Robinhood Markets, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HOOD",
@@ -449,24 +470,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Micron Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MU",
-      "ticker": "MU"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "MaxLinear, Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MXL",
       "ticker": "MXL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
     },
     {
       "category": "WATCHLIST",
@@ -544,13 +551,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
       "ticker": "SMTC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
     },
     {
       "category": "WATCHLIST",
@@ -775,6 +775,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ORCL",
       "ticker": "ORCL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Rubrik, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RBRK",
+      "ticker": "RBRK"
     },
     {
       "category": "WATCHLIST",
