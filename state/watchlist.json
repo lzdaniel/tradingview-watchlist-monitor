@@ -15,6 +15,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "Direxion Daily Semiconductor Bear 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:SOXS",
+      "ticker": "SOXS"
+    },
+    {
+      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -22,24 +29,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
-    },
-    {
-      "category": "SWINGING",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
       "ticker": "AMZN"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
     },
     {
       "category": "SWINGING",
@@ -61,20 +54,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
       "ticker": "MSFT"
-    },
-    {
-      "category": "SWINGING",
-      "description": "MaxLinear, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MXL",
-      "ticker": "MXL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
     },
     {
       "category": "SWINGING",
@@ -232,6 +211,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Amkor Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMKR",
@@ -313,6 +299,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COHU",
       "ticker": "COHU"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
     },
     {
       "category": "WATCHLIST",
@@ -467,6 +460,20 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
       "ticker": "MU"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "MaxLinear, Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MXL",
+      "ticker": "MXL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
     },
     {
       "category": "WATCHLIST",
