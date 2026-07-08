@@ -11,7 +11,8 @@
     "2026-07-02",
     "2026-07-03",
     "2026-07-06",
-    "2026-07-07"
+    "2026-07-07",
+    "2026-07-08"
   ],
   "items": [
     {
@@ -107,10 +108,24 @@
     },
     {
       "category": "SWINGING",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
+    },
+    {
+      "category": "SWINGING",
       "description": "Sandisk Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Ultra Clean Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:UCTT",
+      "ticker": "UCTT"
     },
     {
       "category": "WATCHLIST",
@@ -478,13 +493,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Navitas Semiconductor Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
@@ -601,13 +609,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXN",
       "ticker": "TXN"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Ultra Clean Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:UCTT",
-      "ticker": "UCTT"
     },
     {
       "category": "WATCHLIST",
