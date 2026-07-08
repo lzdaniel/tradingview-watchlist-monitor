@@ -58,6 +58,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "MaxLinear, Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MXL",
+      "ticker": "MXL"
+    },
+    {
+      "category": "SWINGING",
       "description": "Nebius Group N.V.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NBIS",
@@ -468,13 +475,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRVL",
       "ticker": "MRVL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "MaxLinear, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MXL",
-      "ticker": "MXL"
     },
     {
       "category": "WATCHLIST",
