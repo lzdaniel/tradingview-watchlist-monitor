@@ -16,6 +16,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "Roundhill Memory ETF",
+      "exchange": "CBOE",
+      "symbol": "CBOE:DRAM",
+      "ticker": "DRAM"
+    },
+    {
+      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -125,13 +132,6 @@
       "exchange": "AMEX",
       "symbol": "AMEX:XBI",
       "ticker": "XBI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Roundhill Memory ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:DRAM",
-      "ticker": "DRAM"
     },
     {
       "category": "WATCHLIST",
