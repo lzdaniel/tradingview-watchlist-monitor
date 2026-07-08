@@ -37,6 +37,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
       "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
@@ -328,13 +335,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COHU",
       "ticker": "COHU"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
     },
     {
       "category": "WATCHLIST",
