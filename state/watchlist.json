@@ -51,6 +51,20 @@
     },
     {
       "category": "SWINGING",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
+    },
+    {
+      "category": "SWINGING",
       "description": "Microsoft Corp.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
@@ -415,13 +429,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -468,13 +475,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
     },
     {
       "category": "WATCHLIST",
