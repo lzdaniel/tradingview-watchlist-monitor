@@ -122,6 +122,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "ASE Technology Holding Co., Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ASX",
+      "ticker": "ASX"
+    },
+    {
+      "category": "SWINGING",
       "description": "BlackBerry Limited",
       "exchange": "NYSE",
       "symbol": "NYSE:BB",
@@ -672,13 +679,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:WDC",
       "ticker": "WDC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "ASE Technology Holding Co., Ltd.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ASX",
-      "ticker": "ASX"
     },
     {
       "category": "WATCHLIST",
