@@ -24,6 +24,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "SK hynix Inc.",
+      "exchange": "KRX",
+      "symbol": "KRX:000660",
+      "ticker": "000660"
+    },
+    {
+      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -192,13 +199,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "SK hynix Inc.",
-      "exchange": "KRX",
-      "symbol": "KRX:000660",
-      "ticker": "000660"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Samsung Electronics Co., Ltd.",
       "exchange": "KRX",
       "symbol": "KRX:005930",
@@ -238,6 +238,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AEHR",
       "ticker": "AEHR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Akamai Technologies, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AKAM",
+      "ticker": "AKAM"
     },
     {
       "category": "WATCHLIST",
