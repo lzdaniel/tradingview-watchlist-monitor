@@ -59,13 +59,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Alphabet Inc (Google) Class C",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GOOG",
-      "ticker": "GOOG"
-    },
-    {
-      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -77,13 +70,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRVL",
       "ticker": "MRVL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Microsoft Corp.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSFT",
-      "ticker": "MSFT"
     },
     {
       "category": "SWINGING",
@@ -108,17 +94,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Netflix, Inc.",
+      "description": "Rivian Automotive, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NFLX",
-      "ticker": "NFLX"
-    },
-    {
-      "category": "SWINGING",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
+      "symbol": "NASDAQ:RIVN",
+      "ticker": "RIVN"
     },
     {
       "category": "SWINGING",
@@ -129,10 +108,38 @@
     },
     {
       "category": "SWINGING",
+      "description": "Tempus AI, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TEM",
+      "ticker": "TEM"
+    },
+    {
+      "category": "SWINGING",
       "description": "Ultra Clean Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:UCTT",
       "ticker": "UCTT"
+    },
+    {
+      "category": "SWINGING",
+      "description": "BlackBerry Limited",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BB",
+      "ticker": "BB"
+    },
+    {
+      "category": "SWINGING",
+      "description": "DigitalOcean Holdings, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DOCN",
+      "ticker": "DOCN"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Oracle Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ORCL",
+      "ticker": "ORCL"
     },
     {
       "category": "WATCHLIST",
@@ -430,6 +437,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Alphabet Inc (Google) Class C",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GOOG",
+      "ticker": "GOOG"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Robinhood Markets, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HOOD",
@@ -497,6 +511,27 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Microsoft Corp.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MSFT",
+      "ticker": "MSFT"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Netflix, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NFLX",
+      "ticker": "NFLX"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
     },
     {
       "category": "WATCHLIST",
@@ -710,13 +745,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "DigitalOcean Holdings, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DOCN",
-      "ticker": "DOCN"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "FORD MTR CO DEL",
       "exchange": "NYSE",
       "symbol": "NYSE:F",
@@ -780,13 +808,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Oracle Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ORCL",
-      "ticker": "ORCL"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Rubrik, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:RBRK",
@@ -805,6 +826,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:RDW",
       "ticker": "RDW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Rocket Companies, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RKT",
+      "ticker": "RKT"
     },
     {
       "category": "WATCHLIST",
