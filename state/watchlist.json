@@ -96,6 +96,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "DigitalOcean Holdings, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DOCN",
+      "ticker": "DOCN"
+    },
+    {
+      "category": "SWINGING",
       "description": "Freeport-McMoRan, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:FCX",
@@ -635,13 +642,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Tempus AI, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TEM",
-      "ticker": "TEM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Tower Semiconductor Ltd.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
@@ -765,13 +765,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DNA",
       "ticker": "DNA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "DigitalOcean Holdings, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DOCN",
-      "ticker": "DOCN"
     },
     {
       "category": "WATCHLIST",
