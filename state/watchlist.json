@@ -88,6 +88,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
+    },
+    {
+      "category": "SWINGING",
       "description": "Freeport-McMoRan, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:FCX",
@@ -694,13 +701,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BB",
       "ticker": "BB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
