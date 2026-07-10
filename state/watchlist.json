@@ -299,6 +299,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Cerebras Systems Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CBRS",
+      "ticker": "CBRS"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "CEVA, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CEVA",
