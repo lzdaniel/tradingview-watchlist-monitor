@@ -75,6 +75,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "MaxLinear, Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MXL",
+      "ticker": "MXL"
+    },
+    {
+      "category": "SWINGING",
       "description": "Nebius Group N.V.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NBIS",
@@ -82,10 +89,24 @@
     },
     {
       "category": "SWINGING",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
+    },
+    {
+      "category": "SWINGING",
       "description": "Rivian Automotive, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RIVN",
       "ticker": "RIVN"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Sezzle Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SEZL",
+      "ticker": "SEZL"
     },
     {
       "category": "SWINGING",
@@ -110,17 +131,17 @@
     },
     {
       "category": "SWINGING",
-      "description": "DigitalOcean Holdings, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DOCN",
-      "ticker": "DOCN"
-    },
-    {
-      "category": "SWINGING",
       "description": "Freeport-McMoRan, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:FCX",
       "ticker": "FCX"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "iShares MSCI South Korea ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:EWY",
+      "ticker": "EWY"
     },
     {
       "category": "WATCHLIST",
@@ -516,13 +537,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "MaxLinear, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MXL",
-      "ticker": "MXL"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Netflix, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NFLX",
@@ -534,13 +548,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NTAP",
       "ticker": "NTAP"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
     },
     {
       "category": "WATCHLIST",
@@ -593,13 +600,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Sezzle Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SEZL",
-      "ticker": "SEZL"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "SharonAI Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SHAZ",
@@ -614,7 +614,7 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "SK hynix Inc. - American Depository Shares",
+      "description": "SK hynix Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SKHY",
       "ticker": "SKHY"
@@ -786,6 +786,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DNA",
       "ticker": "DNA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "DigitalOcean Holdings, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DOCN",
+      "ticker": "DOCN"
     },
     {
       "category": "WATCHLIST",
