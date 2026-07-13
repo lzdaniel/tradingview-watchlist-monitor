@@ -989,6 +989,13 @@
       "exchange": "TWSE",
       "symbol": "TWSE:1303",
       "ticker": "1303"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Yageo Corporation",
+      "exchange": "TWSE",
+      "symbol": "TWSE:2327",
+      "ticker": "2327"
     }
   ],
   "open_full_sent": [
