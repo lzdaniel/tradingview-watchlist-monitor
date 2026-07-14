@@ -20,13 +20,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDXU",
-      "ticker": "GDXU"
-    },
-    {
-      "category": "SWINGING",
       "description": "Roundhill Magnificent Seven ETF",
       "exchange": "CBOE",
       "symbol": "CBOE:MAGS",
@@ -157,6 +150,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:EWY",
       "ticker": "EWY"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDXU",
+      "ticker": "GDXU"
     },
     {
       "category": "WATCHLIST",
@@ -815,6 +815,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "International Business Machines Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:IBM",
+      "ticker": "IBM"
     },
     {
       "category": "WATCHLIST",
