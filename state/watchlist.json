@@ -21,13 +21,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Roundhill Memory ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:DRAM",
-      "ticker": "DRAM"
-    },
-    {
-      "category": "SWINGING",
       "description": "Roundhill Magnificent Seven ETF",
       "exchange": "CBOE",
       "symbol": "CBOE:MAGS",
@@ -77,6 +70,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "SWINGING",
       "description": "Microsoft Corp.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
@@ -119,6 +119,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
       "description": "SoFi Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
@@ -133,6 +140,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Ultra Clean Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:UCTT",
+      "ticker": "UCTT"
+    },
+    {
+      "category": "SWINGING",
       "description": "Bloom Energy Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:BE",
@@ -144,6 +158,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DELL",
       "ticker": "DELL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "STMicroelectronics N.V.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:STM",
+      "ticker": "STM"
     },
     {
       "category": "WATCHLIST",
@@ -182,6 +203,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Direxion Daily Semiconductor Bull 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:SOXL",
+      "ticker": "SOXL"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Direxion Daily Semiconductor Bear 3X ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:SOXS",
@@ -193,6 +221,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:XBI",
       "ticker": "XBI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Roundhill Memory ETF",
+      "exchange": "CBOE",
+      "symbol": "CBOE:DRAM",
+      "ticker": "DRAM"
     },
     {
       "category": "WATCHLIST",
@@ -357,6 +392,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Chime Financial, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CHYM",
+      "ticker": "CHYM"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Cohu, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COHU",
@@ -466,13 +508,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INOD",
       "ticker": "INOD"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
     },
     {
       "category": "WATCHLIST",
@@ -651,13 +686,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Philadelphia Semiconductor Index",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOX",
@@ -697,13 +725,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXN",
       "ticker": "TXN"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Ultra Clean Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:UCTT",
-      "ticker": "UCTT"
     },
     {
       "category": "WATCHLIST",
@@ -921,13 +942,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "STMicroelectronics N.V.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:STM",
-      "ticker": "STM"
     },
     {
       "category": "WATCHLIST",
