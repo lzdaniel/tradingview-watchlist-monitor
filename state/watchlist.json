@@ -146,13 +146,6 @@
       "ticker": "DELL"
     },
     {
-      "category": "SWINGING",
-      "description": "Freeport-McMoRan, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FCX",
-      "ticker": "FCX"
-    },
-    {
       "category": "WATCHLIST",
       "description": "iShares MSCI South Korea ETF",
       "exchange": "AMEX",
@@ -630,6 +623,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "GraniteShares 2x Short SK Hynix Daily ETF",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SKDD",
+      "ticker": "SKDD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "SK hynix Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SKHY",
@@ -749,6 +749,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Alibaba Group Holdings Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BABA",
+      "ticker": "BABA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "BlackBerry Limited",
       "exchange": "NYSE",
       "symbol": "NYSE:BB",
@@ -809,6 +816,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:F",
       "ticker": "F"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Freeport-McMoRan, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:FCX",
+      "ticker": "FCX"
     },
     {
       "category": "WATCHLIST",
