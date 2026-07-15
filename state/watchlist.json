@@ -98,20 +98,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Rivian Automotive, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RIVN",
-      "ticker": "RIVN"
-    },
-    {
-      "category": "SWINGING",
       "description": "Sezzle Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SEZL",
@@ -588,6 +574,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Navitas Semiconductor Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
@@ -634,6 +627,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:QQQ",
       "ticker": "QQQ"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Rivian Automotive, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:RIVN",
+      "ticker": "RIVN"
     },
     {
       "category": "WATCHLIST",
