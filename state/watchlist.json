@@ -36,13 +36,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
-    },
-    {
-      "category": "SWINGING",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
@@ -64,10 +57,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "MaxLinear, Inc",
+      "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MXL",
-      "ticker": "MXL"
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
     },
     {
       "category": "SWINGING",
@@ -75,20 +68,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Dell Technologies Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DELL",
-      "ticker": "DELL"
     },
     {
       "category": "WATCHLIST",
@@ -243,6 +222,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
       "ticker": "AMBA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
     },
     {
       "category": "WATCHLIST",
@@ -519,6 +505,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "MaxLinear, Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MXL",
+      "ticker": "MXL"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Nebius Group N.V.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NBIS",
@@ -537,13 +530,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NTAP",
       "ticker": "NTAP"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
     },
     {
       "category": "WATCHLIST",
@@ -694,6 +680,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Twist Bioscience Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TWST",
@@ -810,6 +803,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CRS",
       "ticker": "CRS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
     },
     {
       "category": "WATCHLIST",
