@@ -64,13 +64,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Robinhood Markets, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HOOD",
-      "ticker": "HOOD"
-    },
-    {
-      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -99,24 +92,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Sezzle Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SEZL",
-      "ticker": "SEZL"
-    },
-    {
-      "category": "SWINGING",
       "description": "Sandisk Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
-    },
-    {
-      "category": "SWINGING",
-      "description": "SoFi Technologies, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SOFI",
-      "ticker": "SOFI"
     },
     {
       "category": "SWINGING",
@@ -484,6 +463,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Robinhood Markets, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HOOD",
+      "ticker": "HOOD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Ichor Holdings",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ICHR",
@@ -645,6 +631,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Sezzle Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SEZL",
+      "ticker": "SEZL"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "SharonAI Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SHAZ",
@@ -684,6 +677,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
       "ticker": "SMTC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "SoFi Technologies, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SOFI",
+      "ticker": "SOFI"
     },
     {
       "category": "WATCHLIST",
