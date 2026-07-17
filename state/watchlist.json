@@ -23,13 +23,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Roundhill Magnificent Seven ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:MAGS",
-      "ticker": "MAGS"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -55,13 +48,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
       "ticker": "MU"
-    },
-    {
-      "category": "SWINGING",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
     },
     {
       "category": "SWINGING",
@@ -146,6 +132,13 @@
       "exchange": "CBOE",
       "symbol": "CBOE:ITB",
       "ticker": "ITB"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Roundhill Magnificent Seven ETF",
+      "exchange": "CBOE",
+      "symbol": "CBOE:MAGS",
+      "ticker": "MAGS"
     },
     {
       "category": "WATCHLIST",
@@ -531,6 +524,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NTAP",
       "ticker": "NTAP"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
     },
     {
       "category": "WATCHLIST",
