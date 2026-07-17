@@ -842,6 +842,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "FIGMA INC",
+      "exchange": "NYSE",
+      "symbol": "NYSE:FIG",
+      "ticker": "FIG"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "GE Vernova Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:GEV",
