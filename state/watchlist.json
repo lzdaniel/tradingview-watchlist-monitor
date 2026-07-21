@@ -32,10 +32,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Advanced Micro Devices Inc",
+      "description": "Akamai Technologies, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
+      "symbol": "NASDAQ:AKAM",
+      "ticker": "AKAM"
     },
     {
       "category": "SWINGING",
@@ -85,6 +85,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BE",
       "ticker": "BE"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Coherent Corp.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:COHR",
+      "ticker": "COHR"
     },
     {
       "category": "WATCHLIST",
@@ -221,13 +228,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Akamai Technologies, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AKAM",
-      "ticker": "AKAM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Astera Labs, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ALAB",
@@ -246,6 +246,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
       "ticker": "AMBA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
     },
     {
       "category": "WATCHLIST",
@@ -792,13 +799,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CLS",
       "ticker": "CLS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Coherent Corp.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:COHR",
-      "ticker": "COHR"
     },
     {
       "category": "WATCHLIST",
