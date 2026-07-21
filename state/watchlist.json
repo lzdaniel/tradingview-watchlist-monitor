@@ -24,6 +24,69 @@
   ],
   "items": [
     {
+      "category": "SWINGING",
+      "description": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Lumentum Holdings Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LITE",
+      "ticker": "LITE"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Micron Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MU",
+      "ticker": "MU"
+    },
+    {
+      "category": "SWINGING",
+      "description": "MaxLinear, Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MXL",
+      "ticker": "MXL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
+    },
+    {
       "category": "WATCHLIST",
       "description": "iShares MSCI South Korea ETF",
       "exchange": "AMEX",
@@ -137,13 +200,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -190,13 +246,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
       "ticker": "AMBA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
     },
     {
       "category": "WATCHLIST",
@@ -417,13 +466,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -435,13 +477,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLIC",
       "ticker": "KLIC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Lumentum Holdings Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LITE",
-      "ticker": "LITE"
     },
     {
       "category": "WATCHLIST",
@@ -484,27 +519,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
       "ticker": "MSFT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Micron Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MU",
-      "ticker": "MU"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "MaxLinear, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MXL",
-      "ticker": "MXL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
     },
     {
       "category": "WATCHLIST",
@@ -641,13 +655,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "SoFi Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
@@ -764,13 +771,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BB",
       "ticker": "BB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
