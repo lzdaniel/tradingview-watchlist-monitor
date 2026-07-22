@@ -82,6 +82,13 @@
       "ticker": "COHR"
     },
     {
+      "category": "SWINGING",
+      "description": "STMicroelectronics N.V.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:STM",
+      "ticker": "STM"
+    },
+    {
       "category": "WATCHLIST",
       "description": "iShares MSCI South Korea ETF",
       "exchange": "AMEX",
@@ -129,6 +136,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:SOXS",
       "ticker": "SOXS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "United States Oil Fund",
+      "exchange": "AMEX",
+      "symbol": "AMEX:USO",
+      "ticker": "USO"
     },
     {
       "category": "WATCHLIST",
@@ -699,6 +713,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "iShares PHLX SOX Semiconductor Sector Index Fund",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SOXX",
+      "ticker": "SOXX"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Space Exploration Technologies Corp",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SPCX",
@@ -969,13 +990,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "STMicroelectronics N.V.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:STM",
-      "ticker": "STM"
     },
     {
       "category": "WATCHLIST",
