@@ -26,20 +26,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Akamai Technologies, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AKAM",
-      "ticker": "AKAM"
-    },
-    {
-      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -51,13 +37,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
       "ticker": "LITE"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Micron Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MU",
-      "ticker": "MU"
     },
     {
       "category": "SWINGING",
@@ -79,6 +58,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Texas Instruments Incorporated",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TXN",
+      "ticker": "TXN"
     },
     {
       "category": "SWINGING",
@@ -208,6 +194,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -226,6 +219,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AEHR",
       "ticker": "AEHR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Akamai Technologies, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AKAM",
+      "ticker": "AKAM"
     },
     {
       "category": "WATCHLIST",
@@ -331,6 +331,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CBRS",
       "ticker": "CBRS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Century Aluminum Company",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CENX",
+      "ticker": "CENX"
     },
     {
       "category": "WATCHLIST",
@@ -530,6 +537,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Micron Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MU",
+      "ticker": "MU"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Netflix, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NFLX",
@@ -649,6 +663,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Super Micro Computer, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SMCI",
+      "ticker": "SMCI"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "VanEck Semiconductor ETF",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMH",
@@ -712,13 +733,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Texas Instruments Incorporated",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TXN",
-      "ticker": "TXN"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Ultra Clean Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:UCTT",
@@ -744,6 +758,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:WDC",
       "ticker": "WDC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Alcoa Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:AA",
+      "ticker": "AA"
     },
     {
       "category": "WATCHLIST",
