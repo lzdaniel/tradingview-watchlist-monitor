@@ -27,6 +27,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "SWINGING",
       "description": "MaxLinear, Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MXL",
@@ -38,6 +45,20 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NBIS",
       "ticker": "NBIS"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
@@ -447,13 +468,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -664,13 +678,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "SoFi Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
@@ -801,13 +808,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BB",
       "ticker": "BB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
