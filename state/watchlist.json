@@ -27,20 +27,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Lumentum Holdings Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LITE",
-      "ticker": "LITE"
-    },
-    {
-      "category": "SWINGING",
       "description": "MaxLinear, Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MXL",
@@ -52,41 +38,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NBIS",
       "ticker": "NBIS"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Texas Instruments Incorporated",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TXN",
-      "ticker": "TXN"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Coherent Corp.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:COHR",
-      "ticker": "COHR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "STMicroelectronics N.V.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:STM",
-      "ticker": "STM"
     },
     {
       "category": "WATCHLIST",
@@ -496,6 +447,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -507,6 +465,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLIC",
       "ticker": "KLIC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Lumentum Holdings Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LITE",
+      "ticker": "LITE"
     },
     {
       "category": "WATCHLIST",
@@ -699,6 +664,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "SoFi Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
@@ -752,6 +724,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TWST",
       "ticker": "TWST"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Texas Instruments Incorporated",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TXN",
+      "ticker": "TXN"
     },
     {
       "category": "WATCHLIST",
@@ -825,6 +804,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Caterpillar, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:CAT",
@@ -843,6 +829,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CLS",
       "ticker": "CLS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Coherent Corp.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:COHR",
+      "ticker": "COHR"
     },
     {
       "category": "WATCHLIST",
@@ -990,6 +983,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "STMicroelectronics N.V.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:STM",
+      "ticker": "STM"
     },
     {
       "category": "WATCHLIST",
