@@ -23,7 +23,8 @@
     "2026-07-20",
     "2026-07-21",
     "2026-07-22",
-    "2026-07-23"
+    "2026-07-23",
+    "2026-07-24"
   ],
   "items": [
     {
@@ -42,24 +43,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
-    },
-    {
-      "category": "SWINGING",
       "description": "Sandisk Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
@@ -539,6 +526,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Netflix, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NFLX",
@@ -809,6 +803,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BB",
       "ticker": "BB"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
