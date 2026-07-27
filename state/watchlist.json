@@ -28,27 +28,6 @@
   ],
   "items": [
     {
-      "category": "SWINGING",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "MaxLinear, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MXL",
-      "ticker": "MXL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
       "category": "WATCHLIST",
       "description": "iShares MSCI South Korea ETF",
       "exchange": "AMEX",
@@ -470,6 +449,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -537,6 +523,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
       "ticker": "MU"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "MaxLinear, Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MXL",
+      "ticker": "MXL"
     },
     {
       "category": "WATCHLIST",
@@ -687,6 +680,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "SoFi Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
@@ -813,13 +813,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "BlackBerry Limited",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BB",
-      "ticker": "BB"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Bloom Energy Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:BE",
@@ -890,6 +883,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "DaVita Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DVA",
+      "ticker": "DVA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "FORD MTR CO DEL",
       "exchange": "NYSE",
       "symbol": "NYSE:F",
@@ -922,6 +922,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Hewlett Packard Enterprise Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HPE",
+      "ticker": "HPE"
     },
     {
       "category": "WATCHLIST",
