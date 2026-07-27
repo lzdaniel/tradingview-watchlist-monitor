@@ -134,6 +134,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Tradr 2X Long SNDK Daily ETF",
+      "exchange": "CBOE",
+      "symbol": "CBOE:SNXX",
+      "ticker": "SNXX"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Xiaomi Corporation Class B",
       "exchange": "HKEX",
       "symbol": "HKEX:1810",
@@ -491,6 +498,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "MongoDB, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MDB",
+      "ticker": "MDB"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "MKS Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MKSI",
@@ -740,13 +754,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSLA",
       "ticker": "TSLA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Twist Bioscience Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TWST",
-      "ticker": "TWST"
     },
     {
       "category": "WATCHLIST",
