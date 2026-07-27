@@ -57,6 +57,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "KraneShares CSI China Internet ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:KWEB",
+      "ticker": "KWEB"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Roundhill Meme Stock ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:MEME",
