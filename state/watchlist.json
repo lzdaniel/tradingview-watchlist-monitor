@@ -85,6 +85,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Direxion Daily Homebuilders & Supplies Bull 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:NAIL",
+      "ticker": "NAIL"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Direxion Daily Semiconductor Bull 3X ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:SOXL",
@@ -138,6 +145,13 @@
       "exchange": "CBOE",
       "symbol": "CBOE:MAGS",
       "ticker": "MAGS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Xiaomi Corporation Class B",
+      "exchange": "HKEX",
+      "symbol": "HKEX:1810",
+      "ticker": "1810"
     },
     {
       "category": "WATCHLIST",
