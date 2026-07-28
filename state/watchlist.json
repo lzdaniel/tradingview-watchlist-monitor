@@ -408,6 +408,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Five9, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FIVN",
+      "ticker": "FIVN"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Flex Ltd.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FLEX",
@@ -954,6 +961,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Samsara Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:IOT",
+      "ticker": "IOT"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Johnson & Johnson",
       "exchange": "NYSE",
       "symbol": "NYSE:JNJ",
@@ -979,6 +993,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:NOK",
       "ticker": "NOK"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "ServiceNow, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NOW",
+      "ticker": "NOW"
     },
     {
       "category": "WATCHLIST",
@@ -1056,6 +1077,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:WOLF",
       "ticker": "WOLF"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Zeta Global Holdings Corp.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ZETA",
+      "ticker": "ZETA"
     },
     {
       "category": "WATCHLIST",
