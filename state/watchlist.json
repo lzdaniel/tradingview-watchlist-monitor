@@ -29,18 +29,81 @@
   ],
   "items": [
     {
+      "category": "SWINGING",
+      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDXU",
+      "ticker": "GDXU"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Amkor Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMKR",
+      "ticker": "AMKR"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Datadog, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:DDOG",
+      "ticker": "DDOG"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Alphabet Inc (Google) Class C",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GOOG",
+      "ticker": "GOOG"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Microsoft Corp.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MSFT",
+      "ticker": "MSFT"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Snowflake Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SNOW",
+      "ticker": "SNOW"
+    },
+    {
       "category": "WATCHLIST",
       "description": "iShares MSCI South Korea ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:EWY",
       "ticker": "EWY"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDXU",
-      "ticker": "GDXU"
     },
     {
       "category": "WATCHLIST",
@@ -240,13 +303,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Amkor Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMKR",
-      "ticker": "AMKR"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
@@ -352,13 +408,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
@@ -370,13 +419,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
       "ticker": "CRWV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Datadog, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:DDOG",
-      "ticker": "DDOG"
     },
     {
       "category": "WATCHLIST",
@@ -440,13 +482,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FROG",
       "ticker": "FROG"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Alphabet Inc (Google) Class C",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GOOG",
-      "ticker": "GOOG"
     },
     {
       "category": "WATCHLIST",
@@ -541,13 +576,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Microsoft Corp.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSFT",
-      "ticker": "MSFT"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
@@ -559,13 +587,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MXL",
       "ticker": "MXL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
     },
     {
       "category": "WATCHLIST",
@@ -737,13 +758,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
@@ -755,13 +769,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
     },
     {
       "category": "WATCHLIST",
@@ -1042,13 +1049,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:RKT",
       "ticker": "RKT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Snowflake Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:SNOW",
-      "ticker": "SNOW"
     },
     {
       "category": "WATCHLIST",
