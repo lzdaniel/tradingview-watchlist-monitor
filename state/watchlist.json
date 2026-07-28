@@ -1059,13 +1059,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Taiwan Semiconductor Manufacturing Company Ltd.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:TSM",
-      "ticker": "TSM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Vishay Intertechnology, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:VSH",
