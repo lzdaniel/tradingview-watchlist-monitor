@@ -80,6 +80,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
+    },
+    {
+      "category": "SWINGING",
       "description": "Snowflake Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
@@ -840,13 +847,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BABA",
       "ticker": "BABA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
