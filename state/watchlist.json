@@ -38,17 +38,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Amkor Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMKR",
-      "ticker": "AMKR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
+      "description": "Xiaomi Corporation Class B",
+      "exchange": "HKEX",
+      "symbol": "HKEX:1810",
+      "ticker": "1810"
     },
     {
       "category": "SWINGING",
@@ -70,13 +63,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
       "ticker": "MSFT"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
     },
     {
       "category": "SWINGING",
@@ -206,13 +192,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Xiaomi Corporation Class B",
-      "exchange": "HKEX",
-      "symbol": "HKEX:1810",
-      "ticker": "1810"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Kingboard Laminates Holdings Limited",
       "exchange": "HKEX",
       "symbol": "HKEX:1888",
@@ -301,6 +280,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
       "ticker": "AMD"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Amkor Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMKR",
+      "ticker": "AMKR"
     },
     {
       "category": "WATCHLIST",
@@ -406,6 +392,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COHU",
       "ticker": "COHU"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
     },
     {
       "category": "WATCHLIST",
@@ -588,6 +581,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MXL",
       "ticker": "MXL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
     },
     {
       "category": "WATCHLIST",
