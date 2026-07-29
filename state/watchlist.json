@@ -59,6 +59,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
+    },
+    {
+      "category": "SWINGING",
       "description": "Space Exploration Technologies Corp",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SPCX",
@@ -66,17 +73,17 @@
     },
     {
       "category": "SWINGING",
-      "description": "Tesla, Inc.",
+      "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
+      "symbol": "NASDAQ:STX",
+      "ticker": "STX"
     },
     {
       "category": "SWINGING",
-      "description": "Bloom Energy Corporation",
+      "description": "Hewlett Packard Enterprise Company",
       "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
+      "symbol": "NYSE:HPE",
+      "ticker": "HPE"
     },
     {
       "category": "SWINGING",
@@ -451,13 +458,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Five9, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FIVN",
-      "ticker": "FIVN"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Flex Ltd.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FLEX",
@@ -612,13 +612,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Navitas Semiconductor Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
@@ -766,17 +759,17 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Seagate Technology Holdings PLC",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:STX",
-      "ticker": "STX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Tower Semiconductor Ltd.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
     },
     {
       "category": "WATCHLIST",
@@ -847,6 +840,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BABA",
       "ticker": "BABA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
     },
     {
       "category": "WATCHLIST",
@@ -952,13 +952,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Hewlett Packard Enterprise Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HPE",
-      "ticker": "HPE"
     },
     {
       "category": "WATCHLIST",
