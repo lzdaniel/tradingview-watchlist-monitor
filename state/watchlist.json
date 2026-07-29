@@ -31,13 +31,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDXU",
-      "ticker": "GDXU"
-    },
-    {
-      "category": "SWINGING",
       "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
@@ -66,6 +59,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
@@ -84,6 +84,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
       "ticker": "STX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
     },
     {
       "category": "SWINGING",
@@ -112,6 +119,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:EWY",
       "ticker": "EWY"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDXU",
+      "ticker": "GDXU"
     },
     {
       "category": "WATCHLIST",
@@ -598,13 +612,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Netflix, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NFLX",
@@ -777,13 +784,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
     },
     {
       "category": "WATCHLIST",
