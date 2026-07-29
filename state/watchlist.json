@@ -38,13 +38,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Xiaomi Corporation Class B",
-      "exchange": "HKEX",
-      "symbol": "HKEX:1810",
-      "ticker": "1810"
-    },
-    {
-      "category": "SWINGING",
       "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
@@ -196,6 +189,13 @@
       "exchange": "CBOE",
       "symbol": "CBOE:SNXX",
       "ticker": "SNXX"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Xiaomi Corporation Class B",
+      "exchange": "HKEX",
+      "symbol": "HKEX:1810",
+      "ticker": "1810"
     },
     {
       "category": "WATCHLIST",
