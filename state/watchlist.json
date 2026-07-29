@@ -52,6 +52,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "SWINGING",
       "description": "Microsoft Corp.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
@@ -77,6 +84,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
       "ticker": "STX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Western Digital Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:WDC",
+      "ticker": "WDC"
     },
     {
       "category": "SWINGING",
@@ -507,13 +521,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -759,6 +766,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Teradyne, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TER",
+      "ticker": "TER"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Tower Semiconductor Ltd.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
@@ -798,13 +812,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:VIAV",
       "ticker": "VIAV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Western Digital Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WDC",
-      "ticker": "WDC"
     },
     {
       "category": "WATCHLIST",
