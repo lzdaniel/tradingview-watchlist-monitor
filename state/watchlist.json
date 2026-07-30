@@ -32,6 +32,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDXU",
+      "ticker": "GDXU"
+    },
+    {
+      "category": "SWINGING",
       "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
@@ -74,31 +81,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
-    },
-    {
-      "category": "SWINGING",
       "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
       "ticker": "STX"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Western Digital Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WDC",
-      "ticker": "WDC"
     },
     {
       "category": "SWINGING",
@@ -120,13 +106,6 @@
       "exchange": "AMEX",
       "symbol": "AMEX:EWY",
       "ticker": "EWY"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDXU",
-      "ticker": "GDXU"
     },
     {
       "category": "WATCHLIST",
@@ -536,6 +515,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "IREN LIMITED",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:IREN",
+      "ticker": "IREN"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -774,6 +760,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Teradyne, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TER",
@@ -785,6 +778,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
     },
     {
       "category": "WATCHLIST",
@@ -813,6 +813,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:VIAV",
       "ticker": "VIAV"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Western Digital Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:WDC",
+      "ticker": "WDC"
     },
     {
       "category": "WATCHLIST",
