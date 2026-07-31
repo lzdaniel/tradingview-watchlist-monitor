@@ -54,6 +54,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Datadog, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:DDOG",
+      "ticker": "DDOG"
+    },
+    {
+      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
@@ -450,13 +457,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
       "ticker": "CRWV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Datadog, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:DDOG",
-      "ticker": "DDOG"
     },
     {
       "category": "WATCHLIST",
