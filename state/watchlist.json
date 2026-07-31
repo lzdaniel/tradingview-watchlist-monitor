@@ -47,24 +47,17 @@
     },
     {
       "category": "SWINGING",
-      "description": "AXT Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AXTI",
-      "ticker": "AXTI"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Cerebras Systems Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CBRS",
-      "ticker": "CBRS"
-    },
-    {
-      "category": "SWINGING",
       "description": "Credo Technology Group Holding Ltd",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
       "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Alphabet Inc (Google) Class C",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GOOG",
+      "ticker": "GOOG"
     },
     {
       "category": "SWINGING",
@@ -121,13 +114,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BABA",
       "ticker": "BABA"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Oracle Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ORCL",
-      "ticker": "ORCL"
     },
     {
       "category": "SWINGING",
@@ -397,6 +383,20 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "AXT Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AXTI",
+      "ticker": "AXTI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Cerebras Systems Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CBRS",
+      "ticker": "CBRS"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Century Aluminum Company",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CENX",
@@ -422,6 +422,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CHYM",
       "ticker": "CHYM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Cipher Digital Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CIFR",
+      "ticker": "CIFR"
     },
     {
       "category": "WATCHLIST",
@@ -506,13 +513,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FROG",
       "ticker": "FROG"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Alphabet Inc (Google) Class C",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GOOG",
-      "ticker": "GOOG"
     },
     {
       "category": "WATCHLIST",
@@ -1038,6 +1038,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ONTO",
       "ticker": "ONTO"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Oracle Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ORCL",
+      "ticker": "ORCL"
     },
     {
       "category": "WATCHLIST",
