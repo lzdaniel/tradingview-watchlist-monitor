@@ -61,10 +61,24 @@
     },
     {
       "category": "SWINGING",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
       "ticker": "INTC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
     },
     {
       "category": "SWINGING",
@@ -100,6 +114,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:WDC",
       "ticker": "WDC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Alibaba Group Holdings Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BABA",
+      "ticker": "BABA"
     },
     {
       "category": "SWINGING",
@@ -411,13 +432,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
@@ -583,13 +597,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
     },
     {
       "category": "WATCHLIST",
@@ -856,13 +863,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ATI",
       "ticker": "ATI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Alibaba Group Holdings Ltd.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BABA",
-      "ticker": "BABA"
     },
     {
       "category": "WATCHLIST",
