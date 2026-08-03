@@ -35,13 +35,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDXU",
-      "ticker": "GDXU"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -151,6 +144,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:EWY",
       "ticker": "EWY"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDXU",
+      "ticker": "GDXU"
     },
     {
       "category": "WATCHLIST",
