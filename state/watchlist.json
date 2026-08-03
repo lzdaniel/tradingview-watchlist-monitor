@@ -69,13 +69,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "SWINGING",
       "description": "IREN LIMITED",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:IREN",
@@ -115,13 +108,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
       "ticker": "STX"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
     },
     {
       "category": "SWINGING",
@@ -531,6 +517,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Fortinet, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FTNT",
+      "ticker": "FTNT"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Robinhood Markets, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HOOD",
@@ -549,6 +542,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INOD",
       "ticker": "INOD"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
     },
     {
       "category": "WATCHLIST",
@@ -801,6 +801,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
     },
     {
       "category": "WATCHLIST",
