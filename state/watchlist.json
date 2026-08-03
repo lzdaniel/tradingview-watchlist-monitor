@@ -55,6 +55,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "CrowdStrike Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRWD",
+      "ticker": "CRWD"
+    },
+    {
+      "category": "SWINGING",
       "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
@@ -111,10 +118,17 @@
     },
     {
       "category": "SWINGING",
-      "description": "Western Digital Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WDC",
-      "ticker": "WDC"
+      "description": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Oracle Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ORCL",
+      "ticker": "ORCL"
     },
     {
       "category": "SWINGING",
@@ -444,13 +458,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
       "ticker": "CRDO"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "CrowdStrike Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRWD",
-      "ticker": "CRWD"
     },
     {
       "category": "WATCHLIST",
@@ -839,6 +846,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Western Digital Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:WDC",
+      "ticker": "WDC"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "TeraWulf Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:WULF",
@@ -927,13 +941,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CRS",
       "ticker": "CRS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Dell Technologies Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DELL",
-      "ticker": "DELL"
     },
     {
       "category": "WATCHLIST",
@@ -1053,13 +1060,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ONTO",
       "ticker": "ONTO"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Oracle Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ORCL",
-      "ticker": "ORCL"
     },
     {
       "category": "WATCHLIST",
