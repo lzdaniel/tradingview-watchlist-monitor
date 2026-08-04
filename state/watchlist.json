@@ -35,13 +35,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -49,10 +42,17 @@
     },
     {
       "category": "SWINGING",
-      "description": "Coinbase Global, Inc.",
+      "description": "Aehr Test Systems",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:COIN",
-      "ticker": "COIN"
+      "symbol": "NASDAQ:AEHR",
+      "ticker": "AEHR"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Arm Holdings plc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ARM",
+      "ticker": "ARM"
     },
     {
       "category": "SWINGING",
@@ -81,6 +81,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
       "ticker": "GOOG"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
     },
     {
       "category": "SWINGING",
@@ -126,10 +133,17 @@
     },
     {
       "category": "SWINGING",
-      "description": "Seagate Technology Holdings PLC",
+      "description": "Rocket Lab Corporation",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:STX",
-      "ticker": "STX"
+      "symbol": "NASDAQ:RKLB",
+      "ticker": "RKLB"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
     },
     {
       "category": "SWINGING",
@@ -140,10 +154,24 @@
     },
     {
       "category": "SWINGING",
+      "description": "Hewlett Packard Enterprise Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HPE",
+      "ticker": "HPE"
+    },
+    {
+      "category": "SWINGING",
       "description": "Oracle Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:ORCL",
       "ticker": "ORCL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Rubrik, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RBRK",
+      "ticker": "RBRK"
     },
     {
       "category": "SWINGING",
@@ -301,17 +329,17 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "ACM Research, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ACMR",
       "ticker": "ACMR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Aehr Test Systems",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AEHR",
-      "ticker": "AEHR"
     },
     {
       "category": "WATCHLIST",
@@ -378,13 +406,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Arm Holdings plc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARM",
-      "ticker": "ARM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "ASML Holding N.V. - New York Registry Shares",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ASML",
@@ -417,6 +438,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AXTI",
       "ticker": "AXTI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Bitdeer Technologies Group",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:BTDR",
+      "ticker": "BTDR"
     },
     {
       "category": "WATCHLIST",
@@ -560,13 +588,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -700,13 +721,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Sezzle Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SEZL",
@@ -791,10 +805,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Space Exploration Technologies Corp",
+      "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
+      "symbol": "NASDAQ:STX",
+      "ticker": "STX"
     },
     {
       "category": "WATCHLIST",
@@ -1001,13 +1015,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Hewlett Packard Enterprise Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HPE",
-      "ticker": "HPE"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "International Business Machines Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:IBM",
@@ -1026,6 +1033,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:JNJ",
       "ticker": "JNJ"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Keysight Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:KEYS",
+      "ticker": "KEYS"
     },
     {
       "category": "WATCHLIST",
@@ -1061,13 +1075,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ONTO",
       "ticker": "ONTO"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Rubrik, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RBRK",
-      "ticker": "RBRK"
     },
     {
       "category": "WATCHLIST",
