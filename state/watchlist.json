@@ -35,6 +35,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -291,13 +298,6 @@
       "exchange": "KRX",
       "symbol": "KRX:009150",
       "ticker": "009150"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
     },
     {
       "category": "WATCHLIST",
