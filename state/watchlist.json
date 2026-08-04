@@ -30,7 +30,8 @@
     "2026-07-29",
     "2026-07-30",
     "2026-07-31",
-    "2026-08-03"
+    "2026-08-03",
+    "2026-08-04"
   ],
   "items": [
     {
@@ -39,13 +40,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
       "ticker": "AAPL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Arm Holdings plc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARM",
-      "ticker": "ARM"
     },
     {
       "category": "SWINGING",
@@ -84,20 +78,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "IREN LIMITED",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:IREN",
-      "ticker": "IREN"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
-    },
-    {
-      "category": "SWINGING",
       "description": "Microsoft Corp.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
@@ -119,38 +99,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Palantir Technologies Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PLTR",
-      "ticker": "PLTR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Dell Technologies Inc.",
+      "description": "Arista Networks, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:DELL",
-      "ticker": "DELL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Hewlett Packard Enterprise Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HPE",
-      "ticker": "HPE"
+      "symbol": "NYSE:ANET",
+      "ticker": "ANET"
     },
     {
       "category": "SWINGING",
@@ -406,6 +358,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Arm Holdings plc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ARM",
+      "ticker": "ARM"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "ASML Holding N.V. - New York Registry Shares",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ASML",
@@ -438,13 +397,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AXTI",
       "ticker": "AXTI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Bitdeer Technologies Group",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:BTDR",
-      "ticker": "BTDR"
     },
     {
       "category": "WATCHLIST",
@@ -588,6 +540,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "IREN LIMITED",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:IREN",
+      "ticker": "IREN"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -641,6 +600,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
     },
     {
       "category": "WATCHLIST",
@@ -700,6 +666,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Palantir Technologies Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:PLTR",
+      "ticker": "PLTR"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "QUALCOMM Incorporated",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:QCOM",
@@ -718,6 +691,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RIVN",
       "ticker": "RIVN"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Rocket Lab Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:RKLB",
+      "ticker": "RKLB"
     },
     {
       "category": "WATCHLIST",
@@ -805,6 +785,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
@@ -882,13 +869,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Arista Networks, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ANET",
-      "ticker": "ANET"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "ASE Technology Holding Co., Ltd.",
       "exchange": "NYSE",
       "symbol": "NYSE:ASX",
@@ -959,6 +939,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Ginkgo Bioworks Holdings, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:DNA",
@@ -1012,6 +999,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Hewlett Packard Enterprise Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HPE",
+      "ticker": "HPE"
     },
     {
       "category": "WATCHLIST",
