@@ -112,6 +112,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Palantir Technologies Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:PLTR",
+      "ticker": "PLTR"
+    },
+    {
+      "category": "SWINGING",
       "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
@@ -669,13 +676,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:PENG",
       "ticker": "PENG"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Palantir Technologies Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PLTR",
-      "ticker": "PLTR"
     },
     {
       "category": "WATCHLIST",
