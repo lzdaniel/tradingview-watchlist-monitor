@@ -50,13 +50,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Fortinet, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FTNT",
-      "ticker": "FTNT"
-    },
-    {
-      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class C",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOG",
@@ -166,6 +159,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:KWEB",
       "ticker": "KWEB"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Direxion Daily S&P Biotech Bull 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:LABU",
+      "ticker": "LABU"
     },
     {
       "category": "WATCHLIST",
@@ -530,6 +530,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FROG",
       "ticker": "FROG"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Fortinet, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FTNT",
+      "ticker": "FTNT"
     },
     {
       "category": "WATCHLIST",
