@@ -36,10 +36,31 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "VanEck Gold Miners ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDX",
+      "ticker": "GDX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Direxion Daily S&P Biotech Bull 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:LABU",
+      "ticker": "LABU"
+    },
+    {
+      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
       "ticker": "AAPL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
     },
     {
       "category": "SWINGING",
@@ -50,10 +71,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Alphabet Inc (Google) Class C",
+      "description": "Alphabet Inc (Google) Class A",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GOOG",
-      "ticker": "GOOG"
+      "symbol": "NASDAQ:GOOGL",
+      "ticker": "GOOGL"
     },
     {
       "category": "SWINGING",
@@ -96,6 +117,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SPCX",
       "ticker": "SPCX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Hewlett Packard Enterprise Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HPE",
+      "ticker": "HPE"
     },
     {
       "category": "SWINGING",
@@ -159,13 +187,6 @@
       "exchange": "AMEX",
       "symbol": "AMEX:KWEB",
       "ticker": "KWEB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Direxion Daily S&P Biotech Bull 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:LABU",
-      "ticker": "LABU"
     },
     {
       "category": "WATCHLIST",
@@ -327,13 +348,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
       "ticker": "AMBA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
     },
     {
       "category": "WATCHLIST",
@@ -1016,13 +1030,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Hewlett Packard Enterprise Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HPE",
-      "ticker": "HPE"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "International Business Machines Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:IBM",
@@ -1125,6 +1132,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:VSH",
       "ticker": "VSH"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Victorias Secret & Co.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VSXY",
+      "ticker": "VSXY"
     },
     {
       "category": "WATCHLIST",
