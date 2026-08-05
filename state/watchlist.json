@@ -99,6 +99,20 @@
     },
     {
       "category": "SWINGING",
+      "description": "Rocket Lab Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:RKLB",
+      "ticker": "RKLB"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "SWINGING",
       "description": "Arista Networks, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:ANET",
@@ -694,13 +708,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Sezzle Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SEZL",
@@ -782,13 +789,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOXX",
       "ticker": "SOXX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
     },
     {
       "category": "WATCHLIST",
