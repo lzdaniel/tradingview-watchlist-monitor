@@ -31,7 +31,8 @@
     "2026-07-30",
     "2026-07-31",
     "2026-08-03",
-    "2026-08-04"
+    "2026-08-04",
+    "2026-08-05"
   ],
   "items": [
     {
@@ -40,13 +41,6 @@
       "exchange": "AMEX",
       "symbol": "AMEX:GDX",
       "ticker": "GDX"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Direxion Daily S&P Biotech Bull 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:LABU",
-      "ticker": "LABU"
     },
     {
       "category": "SWINGING",
@@ -61,6 +55,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
       "ticker": "AMD"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Amazon.com, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMZN",
+      "ticker": "AMZN"
     },
     {
       "category": "SWINGING",
@@ -127,13 +128,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Newmont Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NEM",
-      "ticker": "NEM"
-    },
-    {
-      "category": "SWINGING",
       "description": "Oracle Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:ORCL",
@@ -187,6 +181,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:KWEB",
       "ticker": "KWEB"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Direxion Daily S&P Biotech Bull 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:LABU",
+      "ticker": "LABU"
     },
     {
       "category": "WATCHLIST",
@@ -257,13 +258,6 @@
       "exchange": "CBOE",
       "symbol": "CBOE:MAGS",
       "ticker": "MAGS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Tradr 2X Long SNDK Daily ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:SNXX",
-      "ticker": "SNXX"
     },
     {
       "category": "WATCHLIST",
@@ -355,13 +349,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMKR",
       "ticker": "AMKR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Amazon.com, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMZN",
-      "ticker": "AMZN"
     },
     {
       "category": "WATCHLIST",
@@ -750,13 +737,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "GraniteShares 2x Short SK Hynix Daily ETF",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SKDD",
-      "ticker": "SKDD"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "SK hynix Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SKHY",
@@ -1062,6 +1042,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:LLY",
       "ticker": "LLY"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Newmont Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NEM",
+      "ticker": "NEM"
     },
     {
       "category": "WATCHLIST",
