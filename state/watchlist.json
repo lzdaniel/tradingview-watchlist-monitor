@@ -37,13 +37,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "VanEck Gold Miners ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDX",
-      "ticker": "GDX"
-    },
-    {
-      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -128,6 +121,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Newmont Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NEM",
+      "ticker": "NEM"
+    },
+    {
+      "category": "SWINGING",
       "description": "Oracle Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:ORCL",
@@ -153,6 +153,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:EWY",
       "ticker": "EWY"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "VanEck Gold Miners ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GDX",
+      "ticker": "GDX"
     },
     {
       "category": "WATCHLIST",
@@ -1042,13 +1049,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:LLY",
       "ticker": "LLY"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Newmont Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NEM",
-      "ticker": "NEM"
     },
     {
       "category": "WATCHLIST",
