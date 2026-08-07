@@ -122,13 +122,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Strategy Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSTR",
-      "ticker": "MSTR"
-    },
-    {
-      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
@@ -651,6 +644,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Strategy Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MSTR",
+      "ticker": "MSTR"
     },
     {
       "category": "WATCHLIST",
