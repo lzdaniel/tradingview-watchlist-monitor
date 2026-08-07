@@ -59,6 +59,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Backblaze, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:BLZE",
+      "ticker": "BLZE"
+    },
+    {
+      "category": "SWINGING",
       "description": "Credo Technology Group Holding Ltd",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
