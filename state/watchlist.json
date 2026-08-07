@@ -58,6 +58,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
@@ -76,6 +83,20 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
       "ticker": "INTC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Lumentum Holdings Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LITE",
+      "ticker": "LITE"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
     },
     {
       "category": "SWINGING",
@@ -107,10 +128,52 @@
     },
     {
       "category": "SWINGING",
+      "description": "Semtech Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SMTC",
+      "ticker": "SMTC"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
       "description": "Space Exploration Technologies Corp",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SPCX",
       "ticker": "SPCX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Seagate Technology Holdings PLC",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:STX",
+      "ticker": "STX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Tractor Supply Company",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSCO",
+      "ticker": "TSCO"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Arista Networks, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ANET",
+      "ticker": "ANET"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
     },
     {
       "category": "SWINGING",
@@ -125,20 +188,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:NEM",
       "ticker": "NEM"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Oracle Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ORCL",
-      "ticker": "ORCL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Rubrik, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RBRK",
-      "ticker": "RBRK"
     },
     {
       "category": "SWINGING",
@@ -464,13 +513,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "CoreWeave, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
@@ -590,13 +632,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Lumentum Holdings Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LITE",
-      "ticker": "LITE"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Lam Research Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LRCX",
@@ -629,13 +664,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
     },
     {
       "category": "WATCHLIST",
@@ -765,20 +793,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Semtech Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMTC",
-      "ticker": "SMTC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "SoFi Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
@@ -797,13 +811,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOXX",
       "ticker": "SOXX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Seagate Technology Holdings PLC",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:STX",
-      "ticker": "STX"
     },
     {
       "category": "WATCHLIST",
@@ -877,13 +884,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Arista Networks, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ANET",
-      "ticker": "ANET"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "ASE Technology Holding Co., Ltd.",
       "exchange": "NYSE",
       "symbol": "NYSE:ASX",
@@ -951,13 +951,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CRS",
       "ticker": "CRS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Dell Technologies Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DELL",
-      "ticker": "DELL"
     },
     {
       "category": "WATCHLIST",
@@ -1080,6 +1073,20 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Oracle Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ORCL",
+      "ticker": "ORCL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Rubrik, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RBRK",
+      "ticker": "RBRK"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Reddit, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:RDDT",
@@ -1112,6 +1119,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:TWLO",
       "ticker": "TWLO"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Unity Software Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:U",
+      "ticker": "U"
     },
     {
       "category": "WATCHLIST",
