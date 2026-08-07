@@ -59,13 +59,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Coinbase Global, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:COIN",
-      "ticker": "COIN"
-    },
-    {
-      "category": "SWINGING",
       "description": "Credo Technology Group Holding Ltd",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
@@ -77,6 +70,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
       "ticker": "CRWD"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Alphabet Inc (Google) Class A",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GOOGL",
+      "ticker": "GOOGL"
     },
     {
       "category": "SWINGING",
@@ -479,6 +479,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Coinbase Global, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:COIN",
+      "ticker": "COIN"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "CoreWeave, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
@@ -553,13 +560,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FTNT",
       "ticker": "FTNT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Alphabet Inc (Google) Class A",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GOOGL",
-      "ticker": "GOOGL"
     },
     {
       "category": "WATCHLIST",
