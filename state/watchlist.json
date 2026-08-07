@@ -87,6 +87,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Robinhood Markets, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HOOD",
+      "ticker": "HOOD"
+    },
+    {
+      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -175,6 +182,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:HPE",
       "ticker": "HPE"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Oklo Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:OKLO",
+      "ticker": "OKLO"
     },
     {
       "category": "WATCHLIST",
@@ -567,13 +581,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FTNT",
       "ticker": "FTNT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Robinhood Markets, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HOOD",
-      "ticker": "HOOD"
     },
     {
       "category": "WATCHLIST",
