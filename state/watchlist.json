@@ -830,6 +830,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Tempus AI, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TEM",
+      "ticker": "TEM"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Teradyne, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TER",
@@ -841,6 +848,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSLA",
       "ticker": "TSLA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Twist Bioscience Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TWST",
+      "ticker": "TWST"
     },
     {
       "category": "WATCHLIST",
