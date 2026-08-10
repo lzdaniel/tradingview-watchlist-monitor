@@ -95,13 +95,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Fastly, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FSLY",
-      "ticker": "FSLY"
-    },
-    {
-      "category": "SWINGING",
       "description": "Alphabet Inc (Google) Class A",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOGL",
@@ -134,6 +127,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRVL",
       "ticker": "MRVL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
     },
     {
       "category": "SWINGING",
@@ -515,6 +515,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Fastly, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FSLY",
+      "ticker": "FSLY"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Guardant Health, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GH",
@@ -638,13 +645,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NTRA",
       "ticker": "NTRA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
     },
     {
       "category": "WATCHLIST",
