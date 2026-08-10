@@ -34,29 +34,16 @@
     "2026-08-04",
     "2026-08-05",
     "2026-08-06",
-    "2026-08-07"
+    "2026-08-07",
+    "2026-08-10"
   ],
   "items": [
-    {
-      "category": "SWINGING",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
-    },
     {
       "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
       "ticker": "AAPL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Astera Labs, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
     },
     {
       "category": "SWINGING",
@@ -74,13 +61,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "SWINGING",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
@@ -92,6 +72,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DSP",
       "ticker": "DSP"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Guardant Health, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GH",
+      "ticker": "GH"
     },
     {
       "category": "SWINGING",
@@ -113,13 +100,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
       "ticker": "INTC"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Lumentum Holdings Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LITE",
-      "ticker": "LITE"
     },
     {
       "category": "SWINGING",
@@ -284,6 +264,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "ACM Research, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ACMR",
@@ -302,6 +289,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AKAM",
       "ticker": "AKAM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Astera Labs, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ALAB",
+      "ticker": "ALAB"
     },
     {
       "category": "WATCHLIST",
@@ -445,6 +439,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "CoreWeave, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
@@ -515,13 +516,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Guardant Health, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GH",
-      "ticker": "GH"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Ichor Holdings",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ICHR",
@@ -547,6 +541,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
       "ticker": "KLAC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Lumentum Holdings Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LITE",
+      "ticker": "LITE"
     },
     {
       "category": "WATCHLIST",
