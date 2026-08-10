@@ -67,13 +67,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Backblaze, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:BLZE",
-      "ticker": "BLZE"
-    },
-    {
-      "category": "SWINGING",
       "description": "Credo Technology Group Holding Ltd",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
@@ -130,13 +123,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
-    },
-    {
-      "category": "SWINGING",
       "description": "Rocket Lab Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RKLB",
@@ -169,6 +155,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Twist Bioscience Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TWST",
+      "ticker": "TWST"
     },
     {
       "category": "SWINGING",
@@ -407,6 +400,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AXTI",
       "ticker": "AXTI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Backblaze, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:BLZE",
+      "ticker": "BLZE"
     },
     {
       "category": "WATCHLIST",
@@ -655,6 +655,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "NVIDIA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NVDA",
+      "ticker": "NVDA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Navitas Semiconductor Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVTS",
@@ -806,13 +813,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSLA",
       "ticker": "TSLA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Twist Bioscience Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TWST",
-      "ticker": "TWST"
     },
     {
       "category": "WATCHLIST",
