@@ -39,6 +39,13 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
@@ -78,6 +85,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
       "ticker": "CRWD"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Fastly, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FSLY",
+      "ticker": "FSLY"
     },
     {
       "category": "SWINGING",
@@ -130,17 +144,17 @@
     },
     {
       "category": "SWINGING",
-      "description": "Semtech Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMTC",
-      "ticker": "SMTC"
-    },
-    {
-      "category": "SWINGING",
       "description": "Space Exploration Technologies Corp",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SPCX",
       "ticker": "SPCX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Tempus AI, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TEM",
+      "ticker": "TEM"
     },
     {
       "category": "SWINGING",
@@ -172,10 +186,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Oklo Inc.",
+      "description": "ServiceNow, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:OKLO",
-      "ticker": "OKLO"
+      "symbol": "NYSE:NOW",
+      "ticker": "NOW"
     },
     {
       "category": "WATCHLIST",
@@ -225,6 +239,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:XBI",
       "ticker": "XBI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "State Street Utilities Select Sector SPDR ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:XLU",
+      "ticker": "XLU"
     },
     {
       "category": "WATCHLIST",
@@ -281,13 +302,6 @@
       "exchange": "KRX",
       "symbol": "KRX:009150",
       "ticker": "009150"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
     },
     {
       "category": "WATCHLIST",
@@ -781,13 +795,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Tempus AI, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TEM",
-      "ticker": "TEM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Teradyne, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TER",
@@ -1047,10 +1054,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "ServiceNow, Inc.",
+      "description": "Oklo Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:NOW",
-      "ticker": "NOW"
+      "symbol": "NYSE:OKLO",
+      "ticker": "OKLO"
     },
     {
       "category": "WATCHLIST",
