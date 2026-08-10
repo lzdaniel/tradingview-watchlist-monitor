@@ -116,13 +116,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Strategy Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSTR",
-      "ticker": "MSTR"
-    },
-    {
-      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
@@ -200,24 +193,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "MicroSectors Gold Miners 3x Leveraged ETN",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDXU",
-      "ticker": "GDXU"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "SPDR Gold Shares",
       "exchange": "AMEX",
       "symbol": "AMEX:GLD",
       "ticker": "GLD"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Direxion Daily South Korea Bull 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:KORU",
-      "ticker": "KORU"
     },
     {
       "category": "WATCHLIST",
@@ -228,38 +207,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Direxion Daily S&P Biotech Bull 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:LABU",
-      "ticker": "LABU"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Roundhill Meme Stock ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:MEME",
-      "ticker": "MEME"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Direxion Daily Homebuilders & Supplies Bull 3X ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:NAIL",
       "ticker": "NAIL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Direxion Daily Semiconductor Bull 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:SOXL",
-      "ticker": "SOXL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Direxion Daily Semiconductor Bear 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:SOXS",
-      "ticker": "SOXS"
     },
     {
       "category": "WATCHLIST",
@@ -543,13 +494,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Flex Ltd.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FLEX",
-      "ticker": "FLEX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Fluence Energy, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FLNC",
@@ -571,10 +515,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Fortinet, Inc.",
+      "description": "Guardant Health, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FTNT",
-      "ticker": "FTNT"
+      "symbol": "NASDAQ:GH",
+      "ticker": "GH"
     },
     {
       "category": "WATCHLIST",
@@ -603,13 +547,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
       "ticker": "KLAC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Kulicke and Soffa Industries, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KLIC",
-      "ticker": "KLIC"
     },
     {
       "category": "WATCHLIST",
@@ -655,6 +592,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Strategy Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MSTR",
+      "ticker": "MSTR"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
@@ -687,6 +631,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NTAP",
       "ticker": "NTAP"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Natera, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NTRA",
+      "ticker": "NTRA"
     },
     {
       "category": "WATCHLIST",
@@ -746,17 +697,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Sezzle Inc.",
+      "description": "Schrodinger, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SEZL",
-      "ticker": "SEZL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "SharonAI Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SHAZ",
-      "ticker": "SHAZ"
+      "symbol": "NASDAQ:SDGR",
+      "ticker": "SDGR"
     },
     {
       "category": "WATCHLIST",
@@ -799,6 +743,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
       "ticker": "SOFI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "SOPHiA GENETICS SA",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SOPH",
+      "ticker": "SOPH"
     },
     {
       "category": "WATCHLIST",
@@ -858,6 +809,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "10x Genomics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TXG",
+      "ticker": "TXG"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Texas Instruments Incorporated",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXN",
@@ -886,17 +844,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Western Digital Corporation",
+      "description": "GeneDx Holdings Corp.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WDC",
-      "ticker": "WDC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "TeraWulf Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WULF",
-      "ticker": "WULF"
+      "symbol": "NASDAQ:WGS",
+      "ticker": "WGS"
     },
     {
       "category": "WATCHLIST",
@@ -1177,13 +1128,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:UBER",
       "ticker": "UBER"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Vishay Intertechnology, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VSH",
-      "ticker": "VSH"
     },
     {
       "category": "WATCHLIST",
