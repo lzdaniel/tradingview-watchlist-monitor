@@ -53,6 +53,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Astera Labs, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ALAB",
+      "ticker": "ALAB"
+    },
+    {
+      "category": "SWINGING",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -78,6 +85,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
       "ticker": "CRWD"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Viant Technology Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:DSP",
+      "ticker": "DSP"
     },
     {
       "category": "SWINGING",
@@ -123,20 +137,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
-    },
-    {
-      "category": "SWINGING",
       "description": "Tempus AI, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEM",
@@ -148,13 +148,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSCO",
       "ticker": "TSCO"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Tower Semiconductor Ltd.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSEM",
-      "ticker": "TSEM"
     },
     {
       "category": "SWINGING",
@@ -316,13 +309,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AKAM",
       "ticker": "AKAM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Astera Labs, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
     },
     {
       "category": "WATCHLIST",
@@ -718,6 +704,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Rocket Lab Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:RKLB",
+      "ticker": "RKLB"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Schrodinger, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SDGR",
@@ -788,6 +781,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
@@ -806,6 +806,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TER",
       "ticker": "TER"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Tower Semiconductor Ltd.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSEM",
+      "ticker": "TSEM"
     },
     {
       "category": "WATCHLIST",
