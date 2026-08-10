@@ -116,13 +116,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Microsoft Corp.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSFT",
-      "ticker": "MSFT"
-    },
-    {
-      "category": "SWINGING",
       "description": "Strategy Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSTR",
@@ -652,6 +645,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Microsoft Corp.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MSFT",
+      "ticker": "MSFT"
     },
     {
       "category": "WATCHLIST",
