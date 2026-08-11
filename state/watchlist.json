@@ -47,13 +47,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Unusual Machines, Inc.",
-      "exchange": "AMEX",
-      "symbol": "AMEX:UMAC",
-      "ticker": "UMAC"
-    },
-    {
-      "category": "SWINGING",
       "description": "State Street Utilities Select Sector SPDR ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:XLU",
@@ -135,13 +128,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
     },
     {
       "category": "SWINGING",
@@ -247,6 +233,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:NAIL",
       "ticker": "NAIL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Unusual Machines, Inc.",
+      "exchange": "AMEX",
+      "symbol": "AMEX:UMAC",
+      "ticker": "UMAC"
     },
     {
       "category": "WATCHLIST",
@@ -828,6 +821,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOXX",
       "ticker": "SOXX"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
     },
     {
       "category": "WATCHLIST",
