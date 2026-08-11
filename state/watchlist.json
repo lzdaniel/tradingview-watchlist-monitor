@@ -187,6 +187,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Unusual Machines, Inc.",
+      "exchange": "AMEX",
+      "symbol": "AMEX:UMAC",
+      "ticker": "UMAC"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "United States Oil Fund",
       "exchange": "AMEX",
       "symbol": "AMEX:USO",
@@ -541,6 +548,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
       "ticker": "KLAC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Kratos Defense & Security Solutions, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KTOS",
+      "ticker": "KTOS"
     },
     {
       "category": "WATCHLIST",
