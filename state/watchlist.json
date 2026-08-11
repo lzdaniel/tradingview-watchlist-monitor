@@ -82,6 +82,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Lam Research Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LRCX",
+      "ticker": "LRCX"
+    },
+    {
+      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
@@ -569,13 +576,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
       "ticker": "LITE"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Lam Research Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LRCX",
-      "ticker": "LRCX"
     },
     {
       "category": "WATCHLIST",
@@ -1297,7 +1297,8 @@
     "2026-08-04",
     "2026-08-05",
     "2026-08-07",
-    "2026-08-10"
+    "2026-08-10",
+    "2026-08-11"
   ],
   "source_url": "https://www.tradingview.com/watchlists/326877343/",
   "watchlist_name": "TradingView Watchlist"
