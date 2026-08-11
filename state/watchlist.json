@@ -68,6 +68,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
@@ -110,6 +117,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Rocket Lab Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:RKLB",
+      "ticker": "RKLB"
+    },
+    {
+      "category": "SWINGING",
       "description": "SK hynix Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SKHY",
@@ -121,6 +135,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
     },
     {
       "category": "SWINGING",
@@ -156,6 +177,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DELL",
       "ticker": "DELL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "General Motors Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:GM",
+      "ticker": "GM"
     },
     {
       "category": "SWINGING",
@@ -481,13 +509,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "CoreWeave, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
@@ -754,13 +775,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Schrodinger, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SDGR",
@@ -814,13 +828,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOXX",
       "ticker": "SOXX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
     },
     {
       "category": "WATCHLIST",
@@ -1031,13 +1038,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GLW",
       "ticker": "GLW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "General Motors Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:GM",
-      "ticker": "GM"
     },
     {
       "category": "WATCHLIST",
