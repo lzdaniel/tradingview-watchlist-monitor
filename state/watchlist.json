@@ -110,6 +110,20 @@
     },
     {
       "category": "SWINGING",
+      "description": "SK hynix Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SKHY",
+      "ticker": "SKHY"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Sandisk Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SNDK",
+      "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
       "description": "Tempus AI, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEM",
@@ -740,13 +754,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "SK hynix Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SKHY",
-      "ticker": "SKHY"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Super Micro Computer, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMCI",
@@ -758,13 +765,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMH",
       "ticker": "SMH"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
     },
     {
       "category": "WATCHLIST",
