@@ -40,6 +40,20 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "iShares Russell 2000 Index Fund",
+      "exchange": "AMEX",
+      "symbol": "AMEX:IWM",
+      "ticker": "IWM"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Unusual Machines, Inc.",
+      "exchange": "AMEX",
+      "symbol": "AMEX:UMAC",
+      "ticker": "UMAC"
+    },
+    {
+      "category": "SWINGING",
       "description": "State Street Utilities Select Sector SPDR ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:XLU",
@@ -117,10 +131,24 @@
     },
     {
       "category": "SWINGING",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
+    },
+    {
+      "category": "SWINGING",
       "description": "Twist Bioscience Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TWST",
       "ticker": "TWST"
+    },
+    {
+      "category": "SWINGING",
+      "description": "10x Genomics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TXG",
+      "ticker": "TXG"
     },
     {
       "category": "SWINGING",
@@ -135,6 +163,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:HPE",
       "ticker": "HPE"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Eli Lilly and Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:LLY",
+      "ticker": "LLY"
     },
     {
       "category": "SWINGING",
@@ -184,13 +219,6 @@
       "exchange": "AMEX",
       "symbol": "AMEX:NAIL",
       "ticker": "NAIL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Unusual Machines, Inc.",
-      "exchange": "AMEX",
-      "symbol": "AMEX:UMAC",
-      "ticker": "UMAC"
     },
     {
       "category": "WATCHLIST",
@@ -831,20 +859,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "10x Genomics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TXG",
-      "ticker": "TXG"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Texas Instruments Incorporated",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXN",
@@ -1020,6 +1034,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "General Motors Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:GM",
+      "ticker": "GM"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "International Business Machines Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:IBM",
@@ -1045,13 +1066,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:KEYS",
       "ticker": "KEYS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Eli Lilly and Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:LLY",
-      "ticker": "LLY"
     },
     {
       "category": "WATCHLIST",
