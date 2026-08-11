@@ -40,24 +40,17 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "State Street Utilities Select Sector SPDR ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:XLU",
+      "ticker": "XLU"
+    },
+    {
+      "category": "SWINGING",
       "description": "Apple Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAPL",
       "ticker": "AAPL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Amazon.com, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMZN",
-      "ticker": "AMZN"
     },
     {
       "category": "SWINGING",
@@ -68,24 +61,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Viant Technology Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:DSP",
-      "ticker": "DSP"
-    },
-    {
-      "category": "SWINGING",
       "description": "Guardant Health, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GH",
       "ticker": "GH"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Alphabet Inc (Google) Class A",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GOOGL",
-      "ticker": "GOOGL"
     },
     {
       "category": "SWINGING",
@@ -131,13 +110,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Tractor Supply Company",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSCO",
-      "ticker": "TSCO"
-    },
-    {
-      "category": "SWINGING",
       "description": "Twist Bioscience Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TWST",
@@ -163,6 +135,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:NOW",
       "ticker": "NOW"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Wayfair Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:W",
+      "ticker": "W"
     },
     {
       "category": "WATCHLIST",
@@ -219,13 +198,6 @@
       "exchange": "AMEX",
       "symbol": "AMEX:XBI",
       "ticker": "XBI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "State Street Utilities Select Sector SPDR ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:XLU",
-      "ticker": "XLU"
     },
     {
       "category": "WATCHLIST",
@@ -334,10 +306,24 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Amkor Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMKR",
       "ticker": "AMKR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Amazon.com, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMZN",
+      "ticker": "AMZN"
     },
     {
       "category": "WATCHLIST",
@@ -534,6 +520,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FSLY",
       "ticker": "FSLY"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Alphabet Inc (Google) Class A",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GOOGL",
+      "ticker": "GOOGL"
     },
     {
       "category": "WATCHLIST",
@@ -821,6 +814,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TER",
       "ticker": "TER"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Tractor Supply Company",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSCO",
+      "ticker": "TSCO"
     },
     {
       "category": "WATCHLIST",
