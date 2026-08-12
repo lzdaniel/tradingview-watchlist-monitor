@@ -69,10 +69,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Advanced Micro Devices Inc",
+      "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
+      "symbol": "NASDAQ:AMZN",
+      "ticker": "AMZN"
     },
     {
       "category": "SWINGING",
@@ -94,13 +94,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GH",
       "ticker": "GH"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Robinhood Markets, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HOOD",
-      "ticker": "HOOD"
     },
     {
       "category": "SWINGING",
@@ -139,6 +132,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Super Micro Computer, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SMCI",
+      "ticker": "SMCI"
+    },
+    {
+      "category": "SWINGING",
       "description": "Sandisk Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
@@ -150,13 +150,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEM",
       "ticker": "TEM"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
     },
     {
       "category": "SWINGING",
@@ -199,13 +192,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:LLY",
       "ticker": "LLY"
-    },
-    {
-      "category": "SWINGING",
-      "description": "ServiceNow, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NOW",
-      "ticker": "NOW"
     },
     {
       "category": "SWINGING",
@@ -370,17 +356,17 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Amkor Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMKR",
       "ticker": "AMKR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Amazon.com, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMZN",
-      "ticker": "AMZN"
     },
     {
       "category": "WATCHLIST",
@@ -577,6 +563,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOGL",
       "ticker": "GOOGL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Robinhood Markets, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HOOD",
+      "ticker": "HOOD"
     },
     {
       "category": "WATCHLIST",
@@ -783,13 +776,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Super Micro Computer, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMCI",
-      "ticker": "SMCI"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "VanEck Semiconductor ETF",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMH",
@@ -864,6 +850,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
     },
     {
       "category": "WATCHLIST",
@@ -1088,6 +1081,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:NOK",
       "ticker": "NOK"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "ServiceNow, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NOW",
+      "ticker": "NOW"
     },
     {
       "category": "WATCHLIST",
