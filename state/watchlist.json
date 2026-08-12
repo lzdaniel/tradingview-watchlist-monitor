@@ -69,6 +69,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
+    },
+    {
+      "category": "SWINGING",
       "description": "Credo Technology Group Holding Ltd",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
@@ -360,13 +367,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
       "ticker": "AMBA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
     },
     {
       "category": "WATCHLIST",
