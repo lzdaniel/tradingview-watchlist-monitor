@@ -132,6 +132,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Schrodinger, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SDGR",
+      "ticker": "SDGR"
+    },
+    {
+      "category": "SWINGING",
       "description": "SK hynix Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SKHY",
@@ -143,6 +150,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SNDK",
       "ticker": "SNDK"
+    },
+    {
+      "category": "SWINGING",
+      "description": "SOPHiA GENETICS SA",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SOPH",
+      "ticker": "SOPH"
     },
     {
       "category": "SWINGING",
@@ -192,6 +206,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:LLY",
       "ticker": "LLY"
+    },
+    {
+      "category": "SWINGING",
+      "description": "McDonald's Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:MCD",
+      "ticker": "MCD"
     },
     {
       "category": "SWINGING",
@@ -741,13 +762,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Schrodinger, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SDGR",
-      "ticker": "SDGR"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Shopify Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SHOP",
@@ -773,13 +787,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
       "ticker": "SOFI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "SOPHiA GENETICS SA",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SOPH",
-      "ticker": "SOPH"
     },
     {
       "category": "WATCHLIST",
@@ -871,13 +878,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:VIAV",
       "ticker": "VIAV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Wendy's Company (The)",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WEN",
-      "ticker": "WEN"
     },
     {
       "category": "WATCHLIST",
