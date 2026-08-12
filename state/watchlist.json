@@ -36,7 +36,8 @@
     "2026-08-06",
     "2026-08-07",
     "2026-08-10",
-    "2026-08-11"
+    "2026-08-11",
+    "2026-08-12"
   ],
   "items": [
     {
@@ -178,6 +179,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXG",
       "ticker": "TXG"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Coherent Corp.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:COHR",
+      "ticker": "COHR"
     },
     {
       "category": "SWINGING",
@@ -521,6 +529,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
       "ticker": "CRWV"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Cisco Systems, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CSCO",
+      "ticker": "CSCO"
     },
     {
       "category": "WATCHLIST",
@@ -955,13 +970,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CLS",
       "ticker": "CLS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Coherent Corp.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:COHR",
-      "ticker": "COHR"
     },
     {
       "category": "WATCHLIST",
