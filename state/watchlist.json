@@ -55,6 +55,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
+    },
+    {
+      "category": "SWINGING",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
@@ -129,13 +136,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SKHY",
       "ticker": "SKHY"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Super Micro Computer, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMCI",
-      "ticker": "SMCI"
     },
     {
       "category": "SWINGING",
@@ -265,13 +265,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "State Street Utilities Select Sector SPDR ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:XLU",
-      "ticker": "XLU"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Roundhill Memory ETF",
       "exchange": "CBOE",
       "symbol": "CBOE:DRAM",
@@ -374,13 +367,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
       "ticker": "AMBA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
     },
     {
       "category": "WATCHLIST",
@@ -699,13 +685,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Netflix, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NFLX",
-      "ticker": "NFLX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "NetApp, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NTAP",
@@ -717,13 +696,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NTRA",
       "ticker": "NTRA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Navitas Semiconductor Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVTS",
-      "ticker": "NVTS"
     },
     {
       "category": "WATCHLIST",
@@ -780,6 +752,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SHOP",
       "ticker": "SHOP"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Super Micro Computer, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SMCI",
+      "ticker": "SMCI"
     },
     {
       "category": "WATCHLIST",
@@ -892,6 +871,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:VIAV",
       "ticker": "VIAV"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Wendy's Company (The)",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:WEN",
+      "ticker": "WEN"
     },
     {
       "category": "WATCHLIST",
@@ -1091,13 +1077,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Oklo Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:OKLO",
-      "ticker": "OKLO"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Onto Innovation Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:ONTO",
@@ -1193,13 +1172,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:WOLF",
       "ticker": "WOLF"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Zeta Global Holdings Corp.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ZETA",
-      "ticker": "ZETA"
     },
     {
       "category": "WATCHLIST",
