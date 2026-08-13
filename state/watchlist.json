@@ -98,6 +98,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Penguin Solutions, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:PENG",
+      "ticker": "PENG"
+    },
+    {
+      "category": "SWINGING",
       "description": "Palantir Technologies Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:PLTR",
@@ -697,13 +704,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ON",
       "ticker": "ON"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Penguin Solutions, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PENG",
-      "ticker": "PENG"
     },
     {
       "category": "WATCHLIST",
