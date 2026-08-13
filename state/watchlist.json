@@ -49,13 +49,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "AST SpaceMobile, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ASTS",
-      "ticker": "ASTS"
-    },
-    {
-      "category": "SWINGING",
       "description": "Cerebras Systems Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CBRS",
@@ -88,20 +81,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LRCX",
       "ticker": "LRCX"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Moderna, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRNA",
-      "ticker": "MRNA"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
     },
     {
       "category": "SWINGING",
@@ -161,6 +140,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Tesla, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSLA",
+      "ticker": "TSLA"
+    },
+    {
+      "category": "SWINGING",
       "description": "Twist Bioscience Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TWST",
@@ -200,6 +186,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:NOW",
       "ticker": "NOW"
+    },
+    {
+      "category": "SWINGING",
+      "description": "UiPath, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:PATH",
+      "ticker": "PATH"
     },
     {
       "category": "WATCHLIST",
@@ -256,13 +249,6 @@
       "exchange": "AMEX",
       "symbol": "AMEX:USO",
       "ticker": "USO"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "State Street SPDR S&P Biotech ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:XBI",
-      "ticker": "XBI"
     },
     {
       "category": "WATCHLIST",
@@ -417,6 +403,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ASML",
       "ticker": "ASML"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "AST SpaceMobile, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ASTS",
+      "ticker": "ASTS"
     },
     {
       "category": "WATCHLIST",
@@ -644,6 +637,20 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Moderna, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRNA",
+      "ticker": "MRNA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Microsoft Corp.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
@@ -809,13 +816,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSEM",
       "ticker": "TSEM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
     },
     {
       "category": "WATCHLIST",
@@ -1068,13 +1068,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:P",
       "ticker": "P"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "UiPath, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:PATH",
-      "ticker": "PATH"
     },
     {
       "category": "WATCHLIST",
