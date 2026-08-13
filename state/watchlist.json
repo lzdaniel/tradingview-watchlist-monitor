@@ -42,13 +42,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Amazon.com, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMZN",
-      "ticker": "AMZN"
-    },
-    {
-      "category": "SWINGING",
       "description": "Arm Holdings plc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ARM",
@@ -396,6 +389,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMKR",
       "ticker": "AMKR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Amazon.com, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMZN",
+      "ticker": "AMZN"
     },
     {
       "category": "WATCHLIST",
@@ -1068,6 +1068,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:P",
       "ticker": "P"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "UiPath, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:PATH",
+      "ticker": "PATH"
     },
     {
       "category": "WATCHLIST",
