@@ -42,20 +42,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "iShares Russell 2000 Index Fund",
-      "exchange": "AMEX",
-      "symbol": "AMEX:IWM",
-      "ticker": "IWM"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Aehr Test Systems",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AEHR",
-      "ticker": "AEHR"
-    },
-    {
-      "category": "SWINGING",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -67,6 +53,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
       "ticker": "AMZN"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Arm Holdings plc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ARM",
+      "ticker": "ARM"
     },
     {
       "category": "SWINGING",
@@ -91,10 +84,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "Guardant Health, Inc.",
+      "description": "Hertz Global Holdings, Inc",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GH",
-      "ticker": "GH"
+      "symbol": "NASDAQ:HTZ",
+      "ticker": "HTZ"
     },
     {
       "category": "SWINGING",
@@ -109,6 +102,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LRCX",
       "ticker": "LRCX"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Moderna, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRNA",
+      "ticker": "MRNA"
     },
     {
       "category": "SWINGING",
@@ -140,13 +140,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Schrodinger, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SDGR",
-      "ticker": "SDGR"
-    },
-    {
-      "category": "SWINGING",
       "description": "SK hynix Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SKHY",
@@ -161,10 +154,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "SOPHiA GENETICS SA",
+      "description": "Atlassian Corporation",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SOPH",
-      "ticker": "SOPH"
+      "symbol": "NASDAQ:TEAM",
+      "ticker": "TEAM"
     },
     {
       "category": "SWINGING",
@@ -179,13 +172,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TWST",
       "ticker": "TWST"
-    },
-    {
-      "category": "SWINGING",
-      "description": "10x Genomics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TXG",
-      "ticker": "TXG"
     },
     {
       "category": "SWINGING",
@@ -214,13 +200,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:HPE",
       "ticker": "HPE"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Eli Lilly and Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:LLY",
-      "ticker": "LLY"
     },
     {
       "category": "SWINGING",
@@ -263,6 +242,13 @@
       "exchange": "AMEX",
       "symbol": "AMEX:GLD",
       "ticker": "GLD"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "iShares Russell 2000 Index Fund",
+      "exchange": "AMEX",
+      "symbol": "AMEX:IWM",
+      "ticker": "IWM"
     },
     {
       "category": "WATCHLIST",
@@ -378,6 +364,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Aehr Test Systems",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AEHR",
+      "ticker": "AEHR"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Akamai Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AKAM",
@@ -424,13 +417,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:APP",
       "ticker": "APP"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Arm Holdings plc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARM",
-      "ticker": "ARM"
     },
     {
       "category": "WATCHLIST",
@@ -483,13 +469,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "CEVA, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CEVA",
-      "ticker": "CEVA"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Cognex Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CGNX",
@@ -501,13 +480,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CHYM",
       "ticker": "CHYM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Cipher Digital Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CIFR",
-      "ticker": "CIFR"
     },
     {
       "category": "WATCHLIST",
@@ -602,6 +574,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Guardant Health, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GH",
+      "ticker": "GH"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Alphabet Inc (Google) Class A",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOGL",
@@ -613,13 +592,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HOOD",
       "ticker": "HOOD"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Hertz Global Holdings, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HTZ",
-      "ticker": "HTZ"
     },
     {
       "category": "WATCHLIST",
@@ -686,13 +658,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Moderna, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRNA",
-      "ticker": "MRNA"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Marvell Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRVL",
@@ -704,13 +669,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
       "ticker": "MSFT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Strategy Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSTR",
-      "ticker": "MSTR"
     },
     {
       "category": "WATCHLIST",
@@ -784,6 +742,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Schrodinger, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SDGR",
+      "ticker": "SDGR"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Shopify Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SHOP",
@@ -809,6 +774,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SOFI",
       "ticker": "SOFI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "SOPHiA GENETICS SA",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SOPH",
+      "ticker": "SOPH"
     },
     {
       "category": "WATCHLIST",
@@ -840,13 +812,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Atlassian Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TEAM",
-      "ticker": "TEAM"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Teradyne, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TER",
@@ -872,6 +837,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TSLA",
       "ticker": "TSLA"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "10x Genomics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TXG",
+      "ticker": "TXG"
     },
     {
       "category": "WATCHLIST",
@@ -956,13 +928,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CAT",
       "ticker": "CAT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Chubb Limited",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CB",
-      "ticker": "CB"
     },
     {
       "category": "WATCHLIST",
@@ -1068,6 +1033,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:KEYS",
       "ticker": "KEYS"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Eli Lilly and Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:LLY",
+      "ticker": "LLY"
     },
     {
       "category": "WATCHLIST",
