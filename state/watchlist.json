@@ -175,13 +175,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "General Motors Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:GM",
-      "ticker": "GM"
-    },
-    {
-      "category": "SWINGING",
       "description": "Hewlett Packard Enterprise Company",
       "exchange": "NYSE",
       "symbol": "NYSE:HPE",
@@ -193,13 +186,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:NOW",
       "ticker": "NOW"
-    },
-    {
-      "category": "SWINGING",
-      "description": "UiPath, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:PATH",
-      "ticker": "PATH"
     },
     {
       "category": "WATCHLIST",
@@ -1068,6 +1054,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:P",
       "ticker": "P"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "UiPath, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:PATH",
+      "ticker": "PATH"
     },
     {
       "category": "WATCHLIST",
