@@ -42,13 +42,6 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
-    },
-    {
-      "category": "SWINGING",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
@@ -60,6 +53,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ARM",
       "ticker": "ARM"
+    },
+    {
+      "category": "SWINGING",
+      "description": "AST SpaceMobile, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ASTS",
+      "ticker": "ASTS"
     },
     {
       "category": "SWINGING",
@@ -84,13 +84,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Hertz Global Holdings, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HTZ",
-      "ticker": "HTZ"
-    },
-    {
-      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -109,6 +102,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
     },
     {
       "category": "SWINGING",
@@ -203,24 +203,10 @@
     },
     {
       "category": "SWINGING",
-      "description": "McDonald's Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:MCD",
-      "ticker": "MCD"
-    },
-    {
-      "category": "SWINGING",
       "description": "ServiceNow, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:NOW",
       "ticker": "NOW"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Wayfair Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:W",
-      "ticker": "W"
     },
     {
       "category": "WATCHLIST",
@@ -399,6 +385,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Advanced Micro Devices Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Amkor Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMKR",
@@ -424,13 +417,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ASML",
       "ticker": "ASML"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "AST SpaceMobile, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ASTS",
-      "ticker": "ASTS"
     },
     {
       "category": "WATCHLIST",
@@ -655,13 +641,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MPWR",
       "ticker": "MPWR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
     },
     {
       "category": "WATCHLIST",
