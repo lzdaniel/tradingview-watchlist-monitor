@@ -78,6 +78,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Lam Research Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LRCX",
+      "ticker": "LRCX"
+    },
+    {
+      "category": "SWINGING",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
@@ -540,13 +547,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Guardant Health, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GH",
-      "ticker": "GH"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Alphabet Inc (Google) Class A",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOGL",
@@ -600,13 +600,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
       "ticker": "LITE"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Lam Research Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LRCX",
-      "ticker": "LRCX"
     },
     {
       "category": "WATCHLIST",
@@ -869,13 +862,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "ATI Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ATI",
-      "ticker": "ATI"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Alibaba Group Holdings Ltd.",
       "exchange": "NYSE",
       "symbol": "NYSE:BABA",
@@ -964,13 +950,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:GEV",
       "ticker": "GEV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Corning Incorporated",
-      "exchange": "NYSE",
-      "symbol": "NYSE:GLW",
-      "ticker": "GLW"
     },
     {
       "category": "WATCHLIST",
