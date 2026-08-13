@@ -70,6 +70,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Cerebras Systems Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CBRS",
+      "ticker": "CBRS"
+    },
+    {
+      "category": "SWINGING",
       "description": "Credo Technology Group Holding Ltd",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
@@ -469,13 +476,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Cerebras Systems Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CBRS",
-      "ticker": "CBRS"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Century Aluminum Company",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CENX",
@@ -613,6 +613,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HOOD",
       "ticker": "HOOD"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Hertz Global Holdings, Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HTZ",
+      "ticker": "HTZ"
     },
     {
       "category": "WATCHLIST",
@@ -1166,13 +1173,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:U",
       "ticker": "U"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Uber Technologies, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:UBER",
-      "ticker": "UBER"
     },
     {
       "category": "WATCHLIST",
