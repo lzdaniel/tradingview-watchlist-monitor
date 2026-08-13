@@ -78,13 +78,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Lam Research Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LRCX",
-      "ticker": "LRCX"
-    },
-    {
-      "category": "SWINGING",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
@@ -600,6 +593,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
       "ticker": "LITE"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Lam Research Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LRCX",
+      "ticker": "LRCX"
     },
     {
       "category": "WATCHLIST",
