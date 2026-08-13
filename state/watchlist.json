@@ -1064,6 +1064,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Marathon Petroleum Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:MPC",
+      "ticker": "MPC"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Newmont Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:NEM",
@@ -1166,6 +1173,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:UBER",
       "ticker": "UBER"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Valero Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VLO",
+      "ticker": "VLO"
     },
     {
       "category": "WATCHLIST",
