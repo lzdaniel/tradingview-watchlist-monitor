@@ -71,6 +71,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Innodata Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INOD",
+      "ticker": "INOD"
+    },
+    {
+      "category": "SWINGING",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
@@ -173,6 +180,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Twilio Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:TWLO",
+      "ticker": "TWLO"
     },
     {
       "category": "WATCHLIST",
@@ -544,13 +558,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ICHR",
       "ticker": "ICHR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Innodata Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INOD",
-      "ticker": "INOD"
     },
     {
       "category": "WATCHLIST",
@@ -1055,13 +1062,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:STM",
       "ticker": "STM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Twilio Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:TWLO",
-      "ticker": "TWLO"
     },
     {
       "category": "WATCHLIST",
