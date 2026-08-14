@@ -85,6 +85,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Lumentum Holdings Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LITE",
+      "ticker": "LITE"
+    },
+    {
+      "category": "SWINGING",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
@@ -117,13 +124,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RKLB",
       "ticker": "RKLB"
-    },
-    {
-      "category": "SWINGING",
-      "description": "SK hynix Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SKHY",
-      "ticker": "SKHY"
     },
     {
       "category": "SWINGING",
@@ -582,13 +582,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Lumentum Holdings Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LITE",
-      "ticker": "LITE"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Lam Research Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LRCX",
@@ -691,6 +684,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SHOP",
       "ticker": "SHOP"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "SK hynix Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SKHY",
+      "ticker": "SKHY"
     },
     {
       "category": "WATCHLIST",
