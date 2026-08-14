@@ -43,17 +43,17 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "Applovin Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:APP",
-      "ticker": "APP"
-    },
-    {
-      "category": "SWINGING",
       "description": "Arm Holdings plc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ARM",
       "ticker": "ARM"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Broadcom Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AVGO",
+      "ticker": "AVGO"
     },
     {
       "category": "SWINGING",
@@ -372,10 +372,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Alpha and Omega Semiconductor Limited",
+      "description": "Applovin Corporation",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AOSL",
-      "ticker": "AOSL"
+      "symbol": "NASDAQ:APP",
+      "ticker": "APP"
     },
     {
       "category": "WATCHLIST",
@@ -390,13 +390,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ASTS",
       "ticker": "ASTS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Broadcom Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AVGO",
-      "ticker": "AVGO"
     },
     {
       "category": "WATCHLIST",
@@ -705,6 +698,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMH",
       "ticker": "SMH"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Semtech Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SMTC",
+      "ticker": "SMTC"
     },
     {
       "category": "WATCHLIST",
