@@ -267,13 +267,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Kingboard Laminates Holdings Limited",
-      "exchange": "HKEX",
-      "symbol": "HKEX:1888",
-      "ticker": "1888"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "SK hynix Inc.",
       "exchange": "KRX",
       "symbol": "KRX:000660",
@@ -617,13 +610,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Monolithic Power Systems, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MPWR",
-      "ticker": "MPWR"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Moderna, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
@@ -859,6 +845,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ASX",
       "ticker": "ASX"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "ATI Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ATI",
+      "ticker": "ATI"
     },
     {
       "category": "WATCHLIST",
@@ -1135,41 +1128,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "SUMCO Corporation",
-      "exchange": "TSE",
-      "symbol": "TSE:3436",
-      "ticker": "3436"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Mitsui Kinzoku Co., Ltd.",
-      "exchange": "TSE",
-      "symbol": "TSE:5706",
-      "ticker": "5706"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Kokusai Electric Corporation",
-      "exchange": "TSE",
-      "symbol": "TSE:6525",
-      "ticker": "6525"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Renesas Electronics Corporation",
-      "exchange": "TSE",
-      "symbol": "TSE:6723",
-      "ticker": "6723"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "ROHM Company Limited",
-      "exchange": "TSE",
-      "symbol": "TSE:6963",
-      "ticker": "6963"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Taiyo Yuden Co., Ltd.",
       "exchange": "TSE",
       "symbol": "TSE:6976",
@@ -1181,20 +1139,6 @@
       "exchange": "TSE",
       "symbol": "TSE:6981",
       "ticker": "6981"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Tokyo Electron Ltd.",
-      "exchange": "TSE",
-      "symbol": "TSE:8035",
-      "ticker": "8035"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Nan Ya Plastics Corporation",
-      "exchange": "TWSE",
-      "symbol": "TWSE:1303",
-      "ticker": "1303"
     }
   ],
   "open_full_sent": [
