@@ -652,20 +652,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Natera, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NTRA",
-      "ticker": "NTRA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "NXP Semiconductors N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NXPI",
-      "ticker": "NXPI"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "ON Semiconductor Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ON",
@@ -1027,13 +1013,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:P",
       "ticker": "P"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "UiPath, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:PATH",
-      "ticker": "PATH"
     },
     {
       "category": "WATCHLIST",
