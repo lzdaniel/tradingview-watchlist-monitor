@@ -50,13 +50,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Broadcom Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AVGO",
-      "ticker": "AVGO"
-    },
-    {
-      "category": "SWINGING",
       "description": "Cerebras Systems Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CBRS",
@@ -134,10 +127,24 @@
     },
     {
       "category": "SWINGING",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "SWINGING",
       "description": "Atlassian Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEAM",
       "ticker": "TEAM"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Tractor Supply Company",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSCO",
+      "ticker": "TSCO"
     },
     {
       "category": "SWINGING",
@@ -736,13 +743,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Seagate Technology Holdings PLC",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:STX",
@@ -761,13 +761,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TER",
       "ticker": "TER"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Tractor Supply Company",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSCO",
-      "ticker": "TSCO"
     },
     {
       "category": "WATCHLIST",
