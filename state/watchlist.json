@@ -422,6 +422,20 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Bitdeer Technologies Group",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:BTDR",
+      "ticker": "BTDR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "CDW Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CDW",
+      "ticker": "CDW"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Century Aluminum Company",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CENX",
@@ -524,6 +538,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FORM",
       "ticker": "FORM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Fox Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FOX",
+      "ticker": "FOX"
     },
     {
       "category": "WATCHLIST",
@@ -898,6 +919,20 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Delta Air Lines, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DAL",
+      "ticker": "DAL"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "D.R. Horton, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DHI",
+      "ticker": "DHI"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Ginkgo Bioworks Holdings, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:DNA",
@@ -937,6 +972,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:FIG",
       "ticker": "FIG"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Fluor Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:FLR",
+      "ticker": "FLR"
     },
     {
       "category": "WATCHLIST",
