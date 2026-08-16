@@ -324,6 +324,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "ADMA Biologics Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ADMA",
+      "ticker": "ADMA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Aehr Test Systems",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AEHR",
@@ -674,10 +681,24 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Natera, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NTRA",
+      "ticker": "NTRA"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "ON Semiconductor Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ON",
       "ticker": "ON"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Protagonist Therapeutics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:PTGX",
+      "ticker": "PTGX"
     },
     {
       "category": "WATCHLIST",
@@ -699,6 +720,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RIVN",
       "ticker": "RIVN"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Revolution Medicines, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:RVMD",
+      "ticker": "RVMD"
     },
     {
       "category": "WATCHLIST",
@@ -1112,13 +1140,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:U",
       "ticker": "U"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Universal Technical Institute Inc",
-      "exchange": "NYSE",
-      "symbol": "NYSE:UTI",
-      "ticker": "UTI"
     },
     {
       "category": "WATCHLIST",
