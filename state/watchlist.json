@@ -527,6 +527,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Figure Technology Solutions, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FIGR",
+      "ticker": "FIGR"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Fluence Energy, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FLNC",
