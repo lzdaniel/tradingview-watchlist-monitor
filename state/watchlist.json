@@ -1108,6 +1108,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Universal Technical Institute Inc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:UTI",
+      "ticker": "UTI"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Valero Energy Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:VLO",
