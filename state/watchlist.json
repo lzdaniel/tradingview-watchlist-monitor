@@ -72,6 +72,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Astera Labs, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ALAB",
+      "ticker": "ALAB"
+    },
+    {
+      "category": "SWINGING",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -328,13 +335,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AKAM",
       "ticker": "AKAM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Astera Labs, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
     },
     {
       "category": "WATCHLIST",
@@ -877,6 +877,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "VNET Group, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:VNET",
+      "ticker": "VNET"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "GeneDx Holdings Corp.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:WGS",
@@ -1189,6 +1196,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:VLO",
       "ticker": "VLO"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Vertiv Holdings, LLC",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VRT",
+      "ticker": "VRT"
     },
     {
       "category": "WATCHLIST",
