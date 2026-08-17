@@ -226,13 +226,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "KraneShares CSI China Internet ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:KWEB",
-      "ticker": "KWEB"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "Direxion Daily Homebuilders & Supplies Bull 3X ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:NAIL",
@@ -986,13 +979,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CRS",
       "ticker": "CRS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Delta Air Lines, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DAL",
-      "ticker": "DAL"
     },
     {
       "category": "WATCHLIST",
