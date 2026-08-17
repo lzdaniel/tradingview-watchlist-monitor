@@ -1101,6 +1101,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Nike, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NKE",
+      "ticker": "NKE"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Nokia Corporation Sponsored",
       "exchange": "NYSE",
       "symbol": "NYSE:NOK",
