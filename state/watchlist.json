@@ -211,6 +211,13 @@
       "ticker": "TWLO"
     },
     {
+      "category": "SWINGING",
+      "description": "XPeng Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:XPEV",
+      "ticker": "XPEV"
+    },
+    {
       "category": "WATCHLIST",
       "description": "VanEck Gold Miners ETF",
       "exchange": "AMEX",
@@ -1203,13 +1210,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:WOLF",
       "ticker": "WOLF"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "XPeng Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:XPEV",
-      "ticker": "XPEV"
     },
     {
       "category": "WATCHLIST",
