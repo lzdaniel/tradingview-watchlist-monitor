@@ -44,6 +44,34 @@
   "items": [
     {
       "category": "SWINGING",
+      "description": "iShares MSCI South Korea ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:EWY",
+      "ticker": "EWY"
+    },
+    {
+      "category": "SWINGING",
+      "description": "SPDR Gold Shares",
+      "exchange": "AMEX",
+      "symbol": "AMEX:GLD",
+      "ticker": "GLD"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Direxion Daily Homebuilders & Supplies Bull 3X ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:NAIL",
+      "ticker": "NAIL"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Advanced Energy Industries, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AEIS",
+      "ticker": "AEIS"
+    },
+    {
+      "category": "SWINGING",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -184,13 +212,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "iShares MSCI South Korea ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:EWY",
-      "ticker": "EWY"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "VanEck Gold Miners ETF",
       "exchange": "AMEX",
       "symbol": "AMEX:GDX",
@@ -198,24 +219,10 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "SPDR Gold Shares",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GLD",
-      "ticker": "GLD"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "iShares Russell 2000 Index Fund",
       "exchange": "AMEX",
       "symbol": "AMEX:IWM",
       "ticker": "IWM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Direxion Daily Homebuilders & Supplies Bull 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:NAIL",
-      "ticker": "NAIL"
     },
     {
       "category": "WATCHLIST",
@@ -307,13 +314,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AEHR",
       "ticker": "AEHR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Advanced Energy Industries, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AEIS",
-      "ticker": "AEIS"
     },
     {
       "category": "WATCHLIST",
@@ -1203,6 +1203,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:WOLF",
       "ticker": "WOLF"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "XPeng Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:XPEV",
+      "ticker": "XPEV"
     },
     {
       "category": "WATCHLIST",
