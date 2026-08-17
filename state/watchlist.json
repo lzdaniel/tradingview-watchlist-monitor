@@ -338,6 +338,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Advanced Energy Industries, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AEIS",
+      "ticker": "AEIS"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Akamai Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AKAM",
@@ -419,6 +426,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AXTI",
       "ticker": "AXTI"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Baker Hughes Company",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:BKR",
+      "ticker": "BKR"
     },
     {
       "category": "WATCHLIST",
@@ -576,6 +590,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Gilead Sciences, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GILD",
+      "ticker": "GILD"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Alphabet Inc (Google) Class A",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOGL",
@@ -608,6 +629,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
       "ticker": "KLAC"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Kulicke and Soffa Industries, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KLIC",
+      "ticker": "KLIC"
     },
     {
       "category": "WATCHLIST",
@@ -947,6 +975,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Cummins Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:CMI",
+      "ticker": "CMI"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Carpenter Technology Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:CRS",
@@ -979,6 +1014,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DOCN",
       "ticker": "DOCN"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Dow Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DOW",
+      "ticker": "DOW"
     },
     {
       "category": "WATCHLIST",
@@ -1056,6 +1098,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:LLY",
       "ticker": "LLY"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "LyondellBasell Industries NV",
+      "exchange": "NYSE",
+      "symbol": "NYSE:LYB",
+      "ticker": "LYB"
     },
     {
       "category": "WATCHLIST",
@@ -1147,6 +1196,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:VLO",
       "ticker": "VLO"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Vishay Intertechnology, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VSH",
+      "ticker": "VSH"
     },
     {
       "category": "WATCHLIST",
