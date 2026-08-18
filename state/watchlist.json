@@ -52,6 +52,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "SWINGING",
       "description": "Applied Materials, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMAT",
@@ -77,13 +84,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
       "ticker": "CRWD"
-    },
-    {
-      "category": "SWINGING",
-      "description": "CoreWeave, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRWV",
-      "ticker": "CRWV"
     },
     {
       "category": "SWINGING",
@@ -168,13 +168,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:COHR",
       "ticker": "COHR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Snowflake Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:SNOW",
-      "ticker": "SNOW"
     },
     {
       "category": "SWINGING",
@@ -266,13 +259,6 @@
       "exchange": "KRX",
       "symbol": "KRX:009150",
       "ticker": "009150"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
     },
     {
       "category": "WATCHLIST",
@@ -455,6 +441,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRDO",
       "ticker": "CRDO"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "CoreWeave, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRWV",
+      "ticker": "CRWV"
     },
     {
       "category": "WATCHLIST",
@@ -1169,6 +1162,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:RKT",
       "ticker": "RKT"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Snowflake Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SNOW",
+      "ticker": "SNOW"
     },
     {
       "category": "WATCHLIST",
