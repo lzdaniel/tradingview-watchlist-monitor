@@ -52,20 +52,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Advanced Energy Industries, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AEIS",
-      "ticker": "AEIS"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Astera Labs, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
-    },
-    {
-      "category": "SWINGING",
       "description": "Applied Materials, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMAT",
@@ -84,6 +70,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ARM",
       "ticker": "ARM"
+    },
+    {
+      "category": "SWINGING",
+      "description": "AXT Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AXTI",
+      "ticker": "AXTI"
     },
     {
       "category": "SWINGING",
@@ -112,13 +105,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FIGR",
       "ticker": "FIGR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Innodata Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INOD",
-      "ticker": "INOD"
     },
     {
       "category": "SWINGING",
@@ -339,10 +325,24 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Advanced Energy Industries, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AEIS",
+      "ticker": "AEIS"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Akamai Technologies, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AKAM",
       "ticker": "AKAM"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Astera Labs, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ALAB",
+      "ticker": "ALAB"
     },
     {
       "category": "WATCHLIST",
@@ -392,13 +392,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AXON",
       "ticker": "AXON"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "AXT Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AXTI",
-      "ticker": "AXTI"
     },
     {
       "category": "WATCHLIST",
@@ -574,6 +567,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ICHR",
       "ticker": "ICHR"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Innodata Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INOD",
+      "ticker": "INOD"
     },
     {
       "category": "WATCHLIST",
