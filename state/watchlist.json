@@ -45,24 +45,10 @@
   "items": [
     {
       "category": "SWINGING",
-      "description": "iShares MSCI South Korea ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:EWY",
-      "ticker": "EWY"
-    },
-    {
-      "category": "SWINGING",
       "description": "SPDR Gold Shares",
       "exchange": "AMEX",
       "symbol": "AMEX:GLD",
       "ticker": "GLD"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Direxion Daily Homebuilders & Supplies Bull 3X ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:NAIL",
-      "ticker": "NAIL"
     },
     {
       "category": "SWINGING",
@@ -157,6 +143,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "SWINGING",
       "description": "NVIDIA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NVDA",
@@ -231,6 +224,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:TWLO",
       "ticker": "TWLO"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "iShares MSCI South Korea ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:EWY",
+      "ticker": "EWY"
     },
     {
       "category": "WATCHLIST",
@@ -651,13 +651,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MXL",
       "ticker": "MXL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
     },
     {
       "category": "WATCHLIST",
@@ -1285,7 +1278,8 @@
     "2026-08-11",
     "2026-08-12",
     "2026-08-14",
-    "2026-08-17"
+    "2026-08-17",
+    "2026-08-18"
   ],
   "source_url": "https://www.tradingview.com/watchlists/326877343/",
   "watchlist_name": "TradingView Watchlist"
