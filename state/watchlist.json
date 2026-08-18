@@ -80,6 +80,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Applied Materials, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMAT",
+      "ticker": "AMAT"
+    },
+    {
+      "category": "SWINGING",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -226,13 +233,6 @@
       "ticker": "TWLO"
     },
     {
-      "category": "SWINGING",
-      "description": "XPeng Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:XPEV",
-      "ticker": "XPEV"
-    },
-    {
       "category": "WATCHLIST",
       "description": "VanEck Gold Miners ETF",
       "exchange": "AMEX",
@@ -343,13 +343,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AKAM",
       "ticker": "AKAM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Applied Materials, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMAT",
-      "ticker": "AMAT"
     },
     {
       "category": "WATCHLIST",
