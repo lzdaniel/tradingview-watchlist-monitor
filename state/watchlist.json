@@ -80,6 +80,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "SWINGING",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
@@ -105,6 +112,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
       "ticker": "LITE"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Microsoft Corp.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MSFT",
+      "ticker": "MSFT"
     },
     {
       "category": "SWINGING",
@@ -437,13 +451,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "CoreWeave, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
@@ -623,13 +630,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRVL",
       "ticker": "MRVL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Microsoft Corp.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSFT",
-      "ticker": "MSFT"
     },
     {
       "category": "WATCHLIST",
