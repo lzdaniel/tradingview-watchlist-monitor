@@ -60,13 +60,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "Applied Materials, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMAT",
-      "ticker": "AMAT"
-    },
-    {
-      "category": "SWINGING",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -88,13 +81,6 @@
     },
     {
       "category": "SWINGING",
-      "description": "CrowdStrike Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRWD",
-      "ticker": "CRWD"
-    },
-    {
-      "category": "SWINGING",
       "description": "Figure Technology Solutions, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FIGR",
@@ -113,6 +99,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LITE",
       "ticker": "LITE"
+    },
+    {
+      "category": "SWINGING",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
     },
     {
       "category": "SWINGING",
@@ -148,13 +141,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:PLTR",
       "ticker": "PLTR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
     },
     {
       "category": "SWINGING",
@@ -319,6 +305,13 @@
     },
     {
       "category": "WATCHLIST",
+      "description": "Applied Materials, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMAT",
+      "ticker": "AMAT"
+    },
+    {
+      "category": "WATCHLIST",
       "description": "Ambarella, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMBA",
@@ -442,6 +435,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COIN",
       "ticker": "COIN"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "CrowdStrike Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRWD",
+      "ticker": "CRWD"
     },
     {
       "category": "WATCHLIST",
@@ -620,13 +620,6 @@
     },
     {
       "category": "WATCHLIST",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
-    },
-    {
-      "category": "WATCHLIST",
       "description": "MaxLinear, Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MXL",
@@ -687,6 +680,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RIVN",
       "ticker": "RIVN"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Rocket Lab Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:RKLB",
+      "ticker": "RKLB"
     },
     {
       "category": "WATCHLIST",
@@ -1280,7 +1280,8 @@
     "2026-08-12",
     "2026-08-14",
     "2026-08-17",
-    "2026-08-18"
+    "2026-08-18",
+    "2026-08-19"
   ],
   "source_url": "https://www.tradingview.com/watchlists/326877343/",
   "watchlist_name": "TradingView Watchlist"
