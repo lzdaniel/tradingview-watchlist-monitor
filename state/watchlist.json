@@ -192,13 +192,6 @@
       "ticker": "STM"
     },
     {
-      "category": "SWINGING",
-      "description": "Twilio Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:TWLO",
-      "ticker": "TWLO"
-    },
-    {
       "category": "WATCHLIST",
       "description": "iShares MSCI South Korea ETF",
       "exchange": "AMEX",
@@ -1170,6 +1163,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
+    },
+    {
+      "category": "WATCHLIST",
+      "description": "Twilio Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:TWLO",
+      "ticker": "TWLO"
     },
     {
       "category": "WATCHLIST",
