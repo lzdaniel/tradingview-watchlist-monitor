@@ -67,6 +67,13 @@
     },
     {
       "category": "SWINGING",
+      "description": "Arm Holdings plc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ARM",
+      "ticker": "ARM"
+    },
+    {
+      "category": "SWINGING",
       "description": "Cerebras Systems Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CBRS",
@@ -337,13 +344,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:APP",
       "ticker": "APP"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Arm Holdings plc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARM",
-      "ticker": "ARM"
     },
     {
       "category": "WATCHLIST",
