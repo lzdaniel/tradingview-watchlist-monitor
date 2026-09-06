@@ -45,1201 +45,291 @@
   ],
   "items": [
     {
-      "category": "SWINGING",
-      "description": "SPDR Gold Shares",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GLD",
-      "ticker": "GLD"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Cerebras Systems Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CBRS",
-      "ticker": "CBRS"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Figure Technology Solutions, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FIGR",
-      "ticker": "FIGR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Lumentum Holdings Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LITE",
-      "ticker": "LITE"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
-    },
-    {
-      "category": "SWINGING",
-      "description": "NVIDIA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NVDA",
-      "ticker": "NVDA"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Palantir Technologies Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PLTR",
-      "ticker": "PLTR"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Space Exploration Technologies Corp",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SPCX",
-      "ticker": "SPCX"
-    },
-    {
-      "category": "SWINGING",
-      "description": "Tractor Supply Company",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSCO",
-      "ticker": "TSCO"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "iShares MSCI South Korea ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:EWY",
-      "ticker": "EWY"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "VanEck Gold Miners ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:GDX",
-      "ticker": "GDX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "iShares Russell 2000 Index Fund",
-      "exchange": "AMEX",
-      "symbol": "AMEX:IWM",
-      "ticker": "IWM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "United States Oil Fund",
-      "exchange": "AMEX",
-      "symbol": "AMEX:USO",
-      "ticker": "USO"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Roundhill Memory ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:DRAM",
-      "ticker": "DRAM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "iShares Expanded Tech-Software Sector ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:IGV",
-      "ticker": "IGV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "iShares U.S. Home Construction ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:ITB",
-      "ticker": "ITB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Roundhill Magnificent Seven ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:MAGS",
-      "ticker": "MAGS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "SK hynix Inc.",
-      "exchange": "KRX",
-      "symbol": "KRX:000660",
-      "ticker": "000660"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Samsung Electronics Co., Ltd.",
-      "exchange": "KRX",
-      "symbol": "KRX:005930",
-      "ticker": "005930"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Samsung Electro-Mechanics Co., Ltd",
-      "exchange": "KRX",
-      "symbol": "KRX:009150",
-      "ticker": "009150"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Apple Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAPL",
-      "ticker": "AAPL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "ACM Research, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ACMR",
-      "ticker": "ACMR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "ADMA Biologics Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ADMA",
-      "ticker": "ADMA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Aehr Test Systems",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AEHR",
-      "ticker": "AEHR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Advanced Energy Industries, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AEIS",
-      "ticker": "AEIS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Akamai Technologies, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AKAM",
-      "ticker": "AKAM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Astera Labs, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Applied Materials, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMAT",
-      "ticker": "AMAT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Ambarella, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMBA",
-      "ticker": "AMBA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Advanced Micro Devices Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMD",
-      "ticker": "AMD"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Amkor Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMKR",
-      "ticker": "AMKR"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
       "ticker": "AMZN"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Applovin Corporation",
+      "category": "LONG",
+      "description": "Aya Gold & Silver Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:APP",
-      "ticker": "APP"
+      "symbol": "NASDAQ:AYA",
+      "ticker": "AYA"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Arm Holdings plc",
+      "category": "LONG",
+      "description": "Maplebear Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARM",
-      "ticker": "ARM"
+      "symbol": "NASDAQ:CART",
+      "ticker": "CART"
     },
     {
-      "category": "WATCHLIST",
-      "description": "ASML Holding N.V. - New York Registry Shares",
+      "category": "LONG",
+      "description": "Cerebras Systems Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ASML",
-      "ticker": "ASML"
+      "symbol": "NASDAQ:CBRS",
+      "ticker": "CBRS"
     },
     {
-      "category": "WATCHLIST",
-      "description": "AST SpaceMobile, Inc.",
+      "category": "LONG",
+      "description": "The Chefs' Warehouse, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ASTS",
-      "ticker": "ASTS"
+      "symbol": "NASDAQ:CHEF",
+      "ticker": "CHEF"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Axon Enterprise, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AXON",
-      "ticker": "AXON"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "AXT Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AXTI",
-      "ticker": "AXTI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Baker Hughes Company",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:BKR",
-      "ticker": "BKR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Backblaze, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:BLZE",
-      "ticker": "BLZE"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Bitdeer Technologies Group",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:BTDR",
-      "ticker": "BTDR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "CDW Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CDW",
-      "ticker": "CDW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Century Aluminum Company",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CENX",
-      "ticker": "CENX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Cognex Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CGNX",
-      "ticker": "CGNX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Chime Financial, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CHYM",
-      "ticker": "CHYM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Cohu, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:COHU",
-      "ticker": "COHU"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Coinbase Global, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COIN",
       "ticker": "COIN"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "CrowdStrike Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
       "ticker": "CRWD"
     },
     {
-      "category": "WATCHLIST",
-      "description": "CoreWeave, Inc.",
+      "category": "LONG",
+      "description": "Expedia Group, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRWV",
-      "ticker": "CRWV"
+      "symbol": "NASDAQ:EXPE",
+      "ticker": "EXPE"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Cisco Systems, Inc.",
+      "category": "LONG",
+      "description": "Five9, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CSCO",
-      "ticker": "CSCO"
+      "symbol": "NASDAQ:FIVN",
+      "ticker": "FIVN"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Datadog, Inc.",
+      "category": "LONG",
+      "description": "Guardant Health, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:DDOG",
-      "ticker": "DDOG"
+      "symbol": "NASDAQ:GH",
+      "ticker": "GH"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Enphase Energy, Inc.",
+      "category": "LONG",
+      "description": "GitLab Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ENPH",
-      "ticker": "ENPH"
+      "symbol": "NASDAQ:GTLB",
+      "ticker": "GTLB"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Entegris, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ENTG",
-      "ticker": "ENTG"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Eos Energy Enterprises, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:EOSE",
-      "ticker": "EOSE"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "FuelCell Energy, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FCEL",
-      "ticker": "FCEL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Fluence Energy, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FLNC",
-      "ticker": "FLNC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "FormFactor, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FORM",
-      "ticker": "FORM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Fox Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FOX",
-      "ticker": "FOX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "JFrog Ltd.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FROG",
-      "ticker": "FROG"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Fastly, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FSLY",
-      "ticker": "FSLY"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Gilead Sciences, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GILD",
-      "ticker": "GILD"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Alphabet Inc (Google) Class A",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GOOGL",
-      "ticker": "GOOGL"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Robinhood Markets, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HOOD",
       "ticker": "HOOD"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Ichor Holdings",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ICHR",
-      "ticker": "ICHR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Innodata Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INOD",
-      "ticker": "INOD"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Intel Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:INTC",
-      "ticker": "INTC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "IREN LIMITED",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:IREN",
-      "ticker": "IREN"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "KLA Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KLAC",
-      "ticker": "KLAC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Kulicke and Soffa Industries, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KLIC",
-      "ticker": "KLIC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Kratos Defense & Security Solutions, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KTOS",
-      "ticker": "KTOS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Lam Research Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LRCX",
-      "ticker": "LRCX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "MongoDB, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MDB",
-      "ticker": "MDB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "MKS Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MKSI",
-      "ticker": "MKSI"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Moderna, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
     },
     {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Microsoft Corp.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MSFT",
       "ticker": "MSFT"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Micron Technology, Inc.",
+      "category": "LONG",
+      "description": "Strategy Inc",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MU",
-      "ticker": "MU"
+      "symbol": "NASDAQ:MSTR",
+      "ticker": "MSTR"
     },
     {
-      "category": "WATCHLIST",
-      "description": "MaxLinear, Inc",
+      "category": "LONG",
+      "description": "Okta, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MXL",
-      "ticker": "MXL"
+      "symbol": "NASDAQ:OKTA",
+      "ticker": "OKTA"
     },
     {
-      "category": "WATCHLIST",
-      "description": "NetApp, Inc.",
+      "category": "LONG",
+      "description": "Ross Stores, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NTAP",
-      "ticker": "NTAP"
+      "symbol": "NASDAQ:ROST",
+      "ticker": "ROST"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Natera, Inc.",
+      "category": "LONG",
+      "description": "Star Bulk Carriers Corp.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NTRA",
-      "ticker": "NTRA"
+      "symbol": "NASDAQ:SBLK",
+      "ticker": "SBLK"
     },
     {
-      "category": "WATCHLIST",
-      "description": "ON Semiconductor Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ON",
-      "ticker": "ON"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Penguin Solutions, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PENG",
-      "ticker": "PENG"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Protagonist Therapeutics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PTGX",
-      "ticker": "PTGX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "QUALCOMM Incorporated",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:QCOM",
-      "ticker": "QCOM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Invesco QQQ Trust, Series 1",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:QQQ",
-      "ticker": "QQQ"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Rivian Automotive, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RIVN",
-      "ticker": "RIVN"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Revolution Medicines, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RVMD",
-      "ticker": "RVMD"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Schrodinger, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SDGR",
-      "ticker": "SDGR"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Shopify Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SHOP",
       "ticker": "SHOP"
     },
     {
-      "category": "WATCHLIST",
-      "description": "SK hynix Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SKHY",
-      "ticker": "SKHY"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Super Micro Computer, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMCI",
-      "ticker": "SMCI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "VanEck Semiconductor ETF",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMH",
-      "ticker": "SMH"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Semtech Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMTC",
-      "ticker": "SMTC"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "SoFi Technologies, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SOFI",
-      "ticker": "SOFI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "SOPHiA GENETICS SA",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SOPH",
-      "ticker": "SOPH"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Philadelphia Semiconductor Index",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SOX",
-      "ticker": "SOX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "iShares PHLX SOX Semiconductor Sector Index Fund",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SOXX",
-      "ticker": "SOXX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Seagate Technology Holdings PLC",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:STX",
-      "ticker": "STX"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Atlassian Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEAM",
       "ticker": "TEAM"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Tempus AI, Inc.",
+      "category": "LONG",
+      "description": "ServiceTitan, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TEM",
-      "ticker": "TEM"
+      "symbol": "NASDAQ:TTAN",
+      "ticker": "TTAN"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Teradyne, Inc.",
+      "category": "LONG",
+      "description": "Ulta Beauty, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TER",
-      "ticker": "TER"
+      "symbol": "NASDAQ:ULTA",
+      "ticker": "ULTA"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Tower Semiconductor Ltd.",
+      "category": "LONG",
+      "description": "Workday, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSEM",
-      "ticker": "TSEM"
+      "symbol": "NASDAQ:WDAY",
+      "ticker": "WDAY"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Tesla, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSLA",
-      "ticker": "TSLA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Twist Bioscience Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TWST",
-      "ticker": "TWST"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "10x Genomics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TXG",
-      "ticker": "TXG"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Texas Instruments Incorporated",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TXN",
-      "ticker": "TXN"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Ultra Clean Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:UCTT",
-      "ticker": "UCTT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Veeco Instruments Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:VECO",
-      "ticker": "VECO"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Viavi Solutions Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:VIAV",
-      "ticker": "VIAV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "VNET Group, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:VNET",
-      "ticker": "VNET"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "GeneDx Holdings Corp.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WGS",
-      "ticker": "WGS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Alcoa Corporation",
+      "category": "LONG",
+      "description": "Abercrombie & Fitch Company",
       "exchange": "NYSE",
-      "symbol": "NYSE:AA",
-      "ticker": "AA"
+      "symbol": "NYSE:ANF",
+      "ticker": "ANF"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Arista Networks, Inc.",
+      "category": "LONG",
+      "description": "BitMine Immersion Technologies, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:ANET",
-      "ticker": "ANET"
+      "symbol": "NYSE:BMNR",
+      "ticker": "BMNR"
     },
     {
-      "category": "WATCHLIST",
-      "description": "ASE Technology Holding Co., Ltd.",
+      "category": "LONG",
+      "description": "Circle Internet Group, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:ASX",
-      "ticker": "ASX"
+      "symbol": "NYSE:CRCL",
+      "ticker": "CRCL"
     },
     {
-      "category": "WATCHLIST",
-      "description": "ATI Inc.",
+      "category": "LONG",
+      "description": "Dollar General Corporation",
       "exchange": "NYSE",
-      "symbol": "NYSE:ATI",
-      "ticker": "ATI"
+      "symbol": "NYSE:DG",
+      "ticker": "DG"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Alibaba Group Holdings Ltd.",
+      "category": "LONG",
+      "description": "HF Sinclair Corporation",
       "exchange": "NYSE",
-      "symbol": "NYSE:BABA",
-      "ticker": "BABA"
+      "symbol": "NYSE:DINO",
+      "ticker": "DINO"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Bloom Energy Corporation",
+      "category": "LONG",
+      "description": "Brinker International, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
+      "symbol": "NYSE:EAT",
+      "ticker": "EAT"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Caterpillar, Inc.",
+      "category": "LONG",
+      "description": "e.l.f. Beauty, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:CAT",
-      "ticker": "CAT"
+      "symbol": "NYSE:ELF",
+      "ticker": "ELF"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Ciena Corporation",
+      "category": "LONG",
+      "description": "Hecla Mining Company",
       "exchange": "NYSE",
-      "symbol": "NYSE:CIEN",
-      "ticker": "CIEN"
+      "symbol": "NYSE:HL",
+      "ticker": "HL"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Celestica, Inc.",
+      "category": "LONG",
+      "description": "Hinge Health, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:CLS",
-      "ticker": "CLS"
+      "symbol": "NYSE:HNGE",
+      "ticker": "HNGE"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Cummins Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CMI",
-      "ticker": "CMI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Coherent Corp.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:COHR",
-      "ticker": "COHR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Carpenter Technology Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CRS",
-      "ticker": "CRS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Dell Technologies Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DELL",
-      "ticker": "DELL"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "D.R. Horton, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DHI",
-      "ticker": "DHI"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Ginkgo Bioworks Holdings, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DNA",
-      "ticker": "DNA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "DigitalOcean Holdings, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DOCN",
-      "ticker": "DOCN"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Dow Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DOW",
-      "ticker": "DOW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "DaVita Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DVA",
-      "ticker": "DVA"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "FORD MTR CO DEL",
-      "exchange": "NYSE",
-      "symbol": "NYSE:F",
-      "ticker": "F"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Freeport-McMoRan, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FCX",
-      "ticker": "FCX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "FIGMA INC",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FIG",
-      "ticker": "FIG"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Fluor Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FLR",
-      "ticker": "FLR"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "GE Vernova Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:GEV",
-      "ticker": "GEV"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Hewlett Packard Enterprise Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HPE",
-      "ticker": "HPE"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "International Business Machines Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:IBM",
-      "ticker": "IBM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Samsara Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:IOT",
-      "ticker": "IOT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Johnson & Johnson",
-      "exchange": "NYSE",
-      "symbol": "NYSE:JNJ",
-      "ticker": "JNJ"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Keysight Technologies Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:KEYS",
-      "ticker": "KEYS"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Eli Lilly and Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:LLY",
-      "ticker": "LLY"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "LyondellBasell Industries NV",
-      "exchange": "NYSE",
-      "symbol": "NYSE:LYB",
-      "ticker": "LYB"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Marathon Petroleum Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:MPC",
       "ticker": "MPC"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Newmont Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NEM",
-      "ticker": "NEM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Cloudflare, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NET",
-      "ticker": "NET"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Nike, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NKE",
-      "ticker": "NKE"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Nokia Corporation Sponsored",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NOK",
-      "ticker": "NOK"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "ServiceNow, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:NOW",
       "ticker": "NOW"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Onto Innovation Inc.",
+      "category": "LONG",
+      "description": "PBF Energy Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:ONTO",
-      "ticker": "ONTO"
+      "symbol": "NYSE:PBF",
+      "ticker": "PBF"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Oracle Corporation",
+      "category": "LONG",
+      "description": "Phillips 66",
       "exchange": "NYSE",
-      "symbol": "NYSE:ORCL",
-      "ticker": "ORCL"
+      "symbol": "NYSE:PSX",
+      "ticker": "PSX"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Everpure, Inc.",
+      "category": "LONG",
+      "description": "D/B/A Sibanye-Stillwater Limited",
       "exchange": "NYSE",
-      "symbol": "NYSE:P",
-      "ticker": "P"
+      "symbol": "NYSE:SBSW",
+      "ticker": "SBSW"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Rubrik, Inc.",
+      "category": "LONG",
+      "description": "SLB Limited",
       "exchange": "NYSE",
-      "symbol": "NYSE:RBRK",
-      "ticker": "RBRK"
+      "symbol": "NYSE:SLB",
+      "ticker": "SLB"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Reddit, Inc.",
+      "category": "LONG",
+      "description": "Veeva Systems Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:RDDT",
-      "ticker": "RDDT"
+      "symbol": "NYSE:VEEV",
+      "ticker": "VEEV"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Redwire Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RDW",
-      "ticker": "RDW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Rocket Companies, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RKT",
-      "ticker": "RKT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Snowflake Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:SNOW",
-      "ticker": "SNOW"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "STMicroelectronics N.V.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:STM",
-      "ticker": "STM"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Twilio Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:TWLO",
-      "ticker": "TWLO"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Unity Software Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:U",
-      "ticker": "U"
-    },
-    {
-      "category": "WATCHLIST",
+      "category": "LONG",
       "description": "Valero Energy Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:VLO",
       "ticker": "VLO"
     },
     {
-      "category": "WATCHLIST",
-      "description": "Vertiv Holdings, LLC",
+      "category": "LONG",
+      "description": "Zeta Global Holdings Corp.",
       "exchange": "NYSE",
-      "symbol": "NYSE:VRT",
-      "ticker": "VRT"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Vishay Intertechnology, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VSH",
-      "ticker": "VSH"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Victorias Secret & Co.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VSXY",
-      "ticker": "VSXY"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Wolfspeed, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:WOLF",
-      "ticker": "WOLF"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "S&P 500",
-      "exchange": "SPCFD",
-      "symbol": "SPCFD:SPX",
-      "ticker": "SPX"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Kioxia Holdings Corporation",
-      "exchange": "TSE",
-      "symbol": "TSE:285A",
-      "ticker": "285A"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Taiyo Yuden Co., Ltd.",
-      "exchange": "TSE",
-      "symbol": "TSE:6976",
-      "ticker": "6976"
-    },
-    {
-      "category": "WATCHLIST",
-      "description": "Murata Manufacturing Co., Ltd.",
-      "exchange": "TSE",
-      "symbol": "TSE:6981",
-      "ticker": "6981"
+      "symbol": "NYSE:ZETA",
+      "ticker": "ZETA"
     }
   ],
   "open_full_sent": [
@@ -1283,6 +373,6 @@
     "2026-08-18",
     "2026-08-19"
   ],
-  "source_url": "https://www.tradingview.com/watchlists/326877343/",
+  "source_url": "https://www.tradingview.com/watchlists/336308594/",
   "watchlist_name": "TradingView Watchlist"
 }
