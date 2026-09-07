@@ -46,24 +46,10 @@
   "items": [
     {
       "category": "LONG",
-      "description": "Amazon.com, Inc.",
+      "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AMZN",
-      "ticker": "AMZN"
-    },
-    {
-      "category": "LONG",
-      "description": "Aya Gold & Silver Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AYA",
-      "ticker": "AYA"
-    },
-    {
-      "category": "LONG",
-      "description": "Maplebear Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CART",
-      "ticker": "CART"
+      "symbol": "NASDAQ:AMD",
+      "ticker": "AMD"
     },
     {
       "category": "LONG",
@@ -74,10 +60,17 @@
     },
     {
       "category": "LONG",
-      "description": "The Chefs' Warehouse, Inc.",
+      "description": "CareDx, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CHEF",
-      "ticker": "CHEF"
+      "symbol": "NASDAQ:CDNA",
+      "ticker": "CDNA"
+    },
+    {
+      "category": "LONG",
+      "description": "Chime Financial, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CHYM",
+      "ticker": "CHYM"
     },
     {
       "category": "LONG",
@@ -95,24 +88,10 @@
     },
     {
       "category": "LONG",
-      "description": "Expedia Group, Inc.",
+      "description": "GigaCloud Technology Inc",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:EXPE",
-      "ticker": "EXPE"
-    },
-    {
-      "category": "LONG",
-      "description": "Five9, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FIVN",
-      "ticker": "FIVN"
-    },
-    {
-      "category": "LONG",
-      "description": "Guardant Health, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GH",
-      "ticker": "GH"
+      "symbol": "NASDAQ:GCT",
+      "ticker": "GCT"
     },
     {
       "category": "LONG",
@@ -130,17 +109,24 @@
     },
     {
       "category": "LONG",
+      "description": "Ethos Technologies Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LIFE",
+      "ticker": "LIFE"
+    },
+    {
+      "category": "LONG",
+      "description": "Magnite, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MGNI",
+      "ticker": "MGNI"
+    },
+    {
+      "category": "LONG",
       "description": "Moderna, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
-    },
-    {
-      "category": "LONG",
-      "description": "Microsoft Corp.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSFT",
-      "ticker": "MSFT"
     },
     {
       "category": "LONG",
@@ -158,20 +144,6 @@
     },
     {
       "category": "LONG",
-      "description": "Ross Stores, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ROST",
-      "ticker": "ROST"
-    },
-    {
-      "category": "LONG",
-      "description": "Star Bulk Carriers Corp.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SBLK",
-      "ticker": "SBLK"
-    },
-    {
-      "category": "LONG",
       "description": "Shopify Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SHOP",
@@ -179,10 +151,24 @@
     },
     {
       "category": "LONG",
+      "description": "Semtech Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SMTC",
+      "ticker": "SMTC"
+    },
+    {
+      "category": "LONG",
       "description": "Atlassian Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEAM",
       "ticker": "TEAM"
+    },
+    {
+      "category": "LONG",
+      "description": "Tempus AI, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TEM",
+      "ticker": "TEM"
     },
     {
       "category": "LONG",
@@ -200,17 +186,17 @@
     },
     {
       "category": "LONG",
-      "description": "Workday, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:WDAY",
-      "ticker": "WDAY"
-    },
-    {
-      "category": "LONG",
       "description": "Abercrombie & Fitch Company",
       "exchange": "NYSE",
       "symbol": "NYSE:ANF",
       "ticker": "ANF"
+    },
+    {
+      "category": "LONG",
+      "description": "ASE Technology Holding Co., Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ASX",
+      "ticker": "ASX"
     },
     {
       "category": "LONG",
@@ -235,27 +221,6 @@
     },
     {
       "category": "LONG",
-      "description": "HF Sinclair Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DINO",
-      "ticker": "DINO"
-    },
-    {
-      "category": "LONG",
-      "description": "Brinker International, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:EAT",
-      "ticker": "EAT"
-    },
-    {
-      "category": "LONG",
-      "description": "e.l.f. Beauty, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ELF",
-      "ticker": "ELF"
-    },
-    {
-      "category": "LONG",
       "description": "Hecla Mining Company",
       "exchange": "NYSE",
       "symbol": "NYSE:HL",
@@ -270,17 +235,17 @@
     },
     {
       "category": "LONG",
-      "description": "Marathon Petroleum Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:MPC",
-      "ticker": "MPC"
-    },
-    {
-      "category": "LONG",
       "description": "ServiceNow, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:NOW",
       "ticker": "NOW"
+    },
+    {
+      "category": "LONG",
+      "description": "Oscar Health, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:OSCR",
+      "ticker": "OSCR"
     },
     {
       "category": "LONG",
@@ -291,24 +256,10 @@
     },
     {
       "category": "LONG",
-      "description": "Phillips 66",
+      "description": "Twilio Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:PSX",
-      "ticker": "PSX"
-    },
-    {
-      "category": "LONG",
-      "description": "D/B/A Sibanye-Stillwater Limited",
-      "exchange": "NYSE",
-      "symbol": "NYSE:SBSW",
-      "ticker": "SBSW"
-    },
-    {
-      "category": "LONG",
-      "description": "SLB Limited",
-      "exchange": "NYSE",
-      "symbol": "NYSE:SLB",
-      "ticker": "SLB"
+      "symbol": "NYSE:TWLO",
+      "ticker": "TWLO"
     },
     {
       "category": "LONG",
@@ -319,17 +270,10 @@
     },
     {
       "category": "LONG",
-      "description": "Valero Energy Corporation",
+      "description": "Versigent PLC",
       "exchange": "NYSE",
-      "symbol": "NYSE:VLO",
-      "ticker": "VLO"
-    },
-    {
-      "category": "LONG",
-      "description": "Zeta Global Holdings Corp.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ZETA",
-      "ticker": "ZETA"
+      "symbol": "NYSE:VGNT",
+      "ticker": "VGNT"
     }
   ],
   "open_full_sent": [
