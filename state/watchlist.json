@@ -103,6 +103,13 @@
     },
     {
       "category": "LONG",
+      "description": "First Solar, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FSLR",
+      "ticker": "FSLR"
+    },
+    {
+      "category": "LONG",
       "description": "GigaCloud Technology Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GCT",
