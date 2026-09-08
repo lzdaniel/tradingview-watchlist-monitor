@@ -117,13 +117,6 @@
     },
     {
       "category": "LONG",
-      "description": "GitLab Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GTLB",
-      "ticker": "GTLB"
-    },
-    {
-      "category": "LONG",
       "description": "Robinhood Markets, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HOOD",
