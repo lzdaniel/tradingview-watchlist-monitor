@@ -54,6 +54,13 @@
     },
     {
       "category": "LONG",
+      "description": "Almonty Industries Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ALM",
+      "ticker": "ALM"
+    },
+    {
+      "category": "LONG",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -75,13 +82,6 @@
     },
     {
       "category": "LONG",
-      "description": "Chime Financial, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CHYM",
-      "ticker": "CHYM"
-    },
-    {
-      "category": "LONG",
       "description": "Coinbase Global, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COIN",
@@ -93,6 +93,20 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
       "ticker": "CRWD"
+    },
+    {
+      "category": "LONG",
+      "description": "Draganfly Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:DPRO",
+      "ticker": "DPRO"
+    },
+    {
+      "category": "LONG",
+      "description": "Figure Technology Solutions, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FIGR",
+      "ticker": "FIGR"
     },
     {
       "category": "LONG",
@@ -194,17 +208,10 @@
     },
     {
       "category": "LONG",
-      "description": "ServiceTitan, Inc.",
+      "description": "Xometry, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TTAN",
-      "ticker": "TTAN"
-    },
-    {
-      "category": "LONG",
-      "description": "Ulta Beauty, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ULTA",
-      "ticker": "ULTA"
+      "symbol": "NASDAQ:XMTR",
+      "ticker": "XMTR"
     },
     {
       "category": "LONG",
@@ -212,6 +219,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ANF",
       "ticker": "ANF"
+    },
+    {
+      "category": "LONG",
+      "description": "Arlo Technologies, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ARLO",
+      "ticker": "ARLO"
     },
     {
       "category": "LONG",
@@ -240,13 +254,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DG",
       "ticker": "DG"
-    },
-    {
-      "category": "LONG",
-      "description": "Hecla Mining Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HL",
-      "ticker": "HL"
     },
     {
       "category": "LONG",
