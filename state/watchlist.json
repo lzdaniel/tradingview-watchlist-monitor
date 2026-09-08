@@ -68,13 +68,6 @@
     },
     {
       "category": "LONG",
-      "description": "Cerebras Systems Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CBRS",
-      "ticker": "CBRS"
-    },
-    {
-      "category": "LONG",
       "description": "CareDx, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CDNA",
@@ -166,13 +159,6 @@
     },
     {
       "category": "LONG",
-      "description": "Shopify Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SHOP",
-      "ticker": "SHOP"
-    },
-    {
-      "category": "LONG",
       "description": "Semtech Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SMTC",
@@ -240,13 +226,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CRCL",
       "ticker": "CRCL"
-    },
-    {
-      "category": "LONG",
-      "description": "Dollar General Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DG",
-      "ticker": "DG"
     },
     {
       "category": "LONG",
