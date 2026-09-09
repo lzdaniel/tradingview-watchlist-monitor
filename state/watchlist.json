@@ -104,10 +104,10 @@
     },
     {
       "category": "LONG",
-      "description": "First Solar, Inc.",
+      "description": "Fastly, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FSLR",
-      "ticker": "FSLR"
+      "symbol": "NASDAQ:FSLY",
+      "ticker": "FSLY"
     },
     {
       "category": "LONG",
@@ -206,13 +206,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ANF",
       "ticker": "ANF"
-    },
-    {
-      "category": "LONG",
-      "description": "Arlo Technologies, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ARLO",
-      "ticker": "ARLO"
     },
     {
       "category": "LONG",
