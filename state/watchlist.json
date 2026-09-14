@@ -58,13 +58,6 @@
     },
     {
       "category": "LONG",
-      "description": "Almonty Industries Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALM",
-      "ticker": "ALM"
-    },
-    {
-      "category": "LONG",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
@@ -139,13 +132,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LIFE",
       "ticker": "LIFE"
-    },
-    {
-      "category": "LONG",
-      "description": "Lattice Semiconductor Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LSCC",
-      "ticker": "LSCC"
     },
     {
       "category": "LONG",
@@ -233,6 +219,13 @@
     },
     {
       "category": "LONG",
+      "description": "Arista Networks, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ANET",
+      "ticker": "ANET"
+    },
+    {
+      "category": "LONG",
       "description": "Abercrombie & Fitch Company",
       "exchange": "NYSE",
       "symbol": "NYSE:ANF",
@@ -261,6 +254,13 @@
     },
     {
       "category": "LONG",
+      "description": "Centene Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:CNC",
+      "ticker": "CNC"
+    },
+    {
+      "category": "LONG",
       "description": "Circle Internet Group, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:CRCL",
@@ -286,13 +286,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:OSCR",
       "ticker": "OSCR"
-    },
-    {
-      "category": "LONG",
-      "description": "PBF Energy Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:PBF",
-      "ticker": "PBF"
     },
     {
       "category": "LONG",
