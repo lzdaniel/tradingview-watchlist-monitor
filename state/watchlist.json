@@ -79,6 +79,13 @@
     },
     {
       "category": "LONG",
+      "description": "Chime Financial, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CHYM",
+      "ticker": "CHYM"
+    },
+    {
+      "category": "LONG",
       "description": "Coinbase Global, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COIN",
@@ -97,13 +104,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DPRO",
       "ticker": "DPRO"
-    },
-    {
-      "category": "LONG",
-      "description": "Figure Technology Solutions, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FIGR",
-      "ticker": "FIGR"
     },
     {
       "category": "LONG",
@@ -128,10 +128,24 @@
     },
     {
       "category": "LONG",
+      "description": "Intel Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:INTC",
+      "ticker": "INTC"
+    },
+    {
+      "category": "LONG",
       "description": "Ethos Technologies Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:LIFE",
       "ticker": "LIFE"
+    },
+    {
+      "category": "LONG",
+      "description": "Lattice Semiconductor Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LSCC",
+      "ticker": "LSCC"
     },
     {
       "category": "LONG",
@@ -146,6 +160,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MRNA",
       "ticker": "MRNA"
+    },
+    {
+      "category": "LONG",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
     },
     {
       "category": "LONG",
@@ -170,10 +191,17 @@
     },
     {
       "category": "LONG",
-      "description": "Semtech Corporation",
+      "description": "Palantir Technologies Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMTC",
-      "ticker": "SMTC"
+      "symbol": "NASDAQ:PLTR",
+      "ticker": "PLTR"
+    },
+    {
+      "category": "LONG",
+      "description": "Sanmina Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SANM",
+      "ticker": "SANM"
     },
     {
       "category": "LONG",
@@ -198,6 +226,13 @@
     },
     {
       "category": "LONG",
+      "description": "Viavi Solutions Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:VIAV",
+      "ticker": "VIAV"
+    },
+    {
+      "category": "LONG",
       "description": "Xometry, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:XMTR",
@@ -212,10 +247,17 @@
     },
     {
       "category": "LONG",
-      "description": "ASE Technology Holding Co., Ltd.",
+      "description": "Best Buy Co., Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:ASX",
-      "ticker": "ASX"
+      "symbol": "NYSE:BBY",
+      "ticker": "BBY"
+    },
+    {
+      "category": "LONG",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
     },
     {
       "category": "LONG",
