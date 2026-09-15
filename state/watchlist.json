@@ -66,6 +66,13 @@
     },
     {
       "category": "LONG",
+      "description": "Caris Life Sciences, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CAI",
+      "ticker": "CAI"
+    },
+    {
+      "category": "LONG",
       "description": "CareDx, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CDNA",
@@ -91,13 +98,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWD",
       "ticker": "CRWD"
-    },
-    {
-      "category": "LONG",
-      "description": "Draganfly Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:DPRO",
-      "ticker": "DPRO"
     },
     {
       "category": "LONG",
@@ -192,13 +192,6 @@
     },
     {
       "category": "LONG",
-      "description": "Sandisk Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SNDK",
-      "ticker": "SNDK"
-    },
-    {
-      "category": "LONG",
       "description": "Atlassian Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEAM",
@@ -252,13 +245,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:BMNR",
       "ticker": "BMNR"
-    },
-    {
-      "category": "LONG",
-      "description": "Centene Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CNC",
-      "ticker": "CNC"
     },
     {
       "category": "LONG",
