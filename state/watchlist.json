@@ -70,52 +70,10 @@
     },
     {
       "category": "LONG",
-      "description": "Caris Life Sciences, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CAI",
-      "ticker": "CAI"
-    },
-    {
-      "category": "LONG",
-      "description": "CareDx, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CDNA",
-      "ticker": "CDNA"
-    },
-    {
-      "category": "LONG",
-      "description": "Chime Financial, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CHYM",
-      "ticker": "CHYM"
-    },
-    {
-      "category": "LONG",
       "description": "Coinbase Global, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COIN",
       "ticker": "COIN"
-    },
-    {
-      "category": "LONG",
-      "description": "CrowdStrike Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRWD",
-      "ticker": "CRWD"
-    },
-    {
-      "category": "LONG",
-      "description": "Fastly, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FSLY",
-      "ticker": "FSLY"
-    },
-    {
-      "category": "LONG",
-      "description": "GigaCloud Technology Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GCT",
-      "ticker": "GCT"
     },
     {
       "category": "LONG",
@@ -133,52 +91,10 @@
     },
     {
       "category": "LONG",
-      "description": "Ethos Technologies Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LIFE",
-      "ticker": "LIFE"
-    },
-    {
-      "category": "LONG",
-      "description": "Magnite, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MGNI",
-      "ticker": "MGNI"
-    },
-    {
-      "category": "LONG",
-      "description": "Moderna, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRNA",
-      "ticker": "MRNA"
-    },
-    {
-      "category": "LONG",
-      "description": "Marvell Technology, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRVL",
-      "ticker": "MRVL"
-    },
-    {
-      "category": "LONG",
-      "description": "Strategy Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MSTR",
-      "ticker": "MSTR"
-    },
-    {
-      "category": "LONG",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
       "ticker": "MU"
-    },
-    {
-      "category": "LONG",
-      "description": "Okta, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:OKTA",
-      "ticker": "OKTA"
     },
     {
       "category": "LONG",
@@ -203,45 +119,10 @@
     },
     {
       "category": "LONG",
-      "description": "Tempus AI, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TEM",
-      "ticker": "TEM"
-    },
-    {
-      "category": "LONG",
-      "description": "Xometry, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:XMTR",
-      "ticker": "XMTR"
-    },
-    {
-      "category": "LONG",
-      "description": "Arista Networks, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ANET",
-      "ticker": "ANET"
-    },
-    {
-      "category": "LONG",
-      "description": "Abercrombie & Fitch Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ANF",
-      "ticker": "ANF"
-    },
-    {
-      "category": "LONG",
       "description": "Best Buy Co., Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:BBY",
       "ticker": "BBY"
-    },
-    {
-      "category": "LONG",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
     },
     {
       "category": "LONG",
@@ -259,45 +140,10 @@
     },
     {
       "category": "LONG",
-      "description": "Hinge Health, Inc.",
+      "description": "McDonald's Corporation",
       "exchange": "NYSE",
-      "symbol": "NYSE:HNGE",
-      "ticker": "HNGE"
-    },
-    {
-      "category": "LONG",
-      "description": "ServiceNow, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NOW",
-      "ticker": "NOW"
-    },
-    {
-      "category": "LONG",
-      "description": "Oscar Health, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:OSCR",
-      "ticker": "OSCR"
-    },
-    {
-      "category": "LONG",
-      "description": "Twilio Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:TWLO",
-      "ticker": "TWLO"
-    },
-    {
-      "category": "LONG",
-      "description": "Veeva Systems Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VEEV",
-      "ticker": "VEEV"
-    },
-    {
-      "category": "LONG",
-      "description": "Versigent PLC",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VGNT",
-      "ticker": "VGNT"
+      "symbol": "NYSE:MCD",
+      "ticker": "MCD"
     }
   ],
   "open_full_sent": [
