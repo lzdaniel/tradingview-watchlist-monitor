@@ -133,13 +133,6 @@
     },
     {
       "category": "MOMENTUM",
-      "description": "SK hynix Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SKHY",
-      "ticker": "SKHY"
-    },
-    {
-      "category": "MOMENTUM",
       "description": "Atlassian Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEAM",
@@ -158,6 +151,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:ASX",
       "ticker": "ASX"
+    },
+    {
+      "category": "MOMENTUM",
+      "description": "Boeing Company (The)",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BA",
+      "ticker": "BA"
     },
     {
       "category": "MOMENTUM",
@@ -196,13 +196,6 @@
     },
     {
       "category": "MOMENTUM",
-      "description": "HP Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HPQ",
-      "ticker": "HPQ"
-    },
-    {
-      "category": "MOMENTUM",
       "description": "ServiceNow, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:NOW",
@@ -223,6 +216,13 @@
       "ticker": "SNOW"
     },
     {
+      "category": "MOMENTUM",
+      "description": "Twilio Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:TWLO",
+      "ticker": "TWLO"
+    },
+    {
       "category": "REVERSAL",
       "description": "Applied Materials, Inc.",
       "exchange": "NASDAQ",
@@ -235,6 +235,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:CRWV",
       "ticker": "CRWV"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "JetBlue Airways Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:JBLU",
+      "ticker": "JBLU"
     },
     {
       "category": "REVERSAL",
@@ -263,6 +270,27 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TXN",
       "ticker": "TXN"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "United Airlines Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:UAL",
+      "ticker": "UAL"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "Delta Air Lines, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DAL",
+      "ticker": "DAL"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "Hecla Mining Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HL",
+      "ticker": "HL"
     },
     {
       "category": "REVERSAL",
