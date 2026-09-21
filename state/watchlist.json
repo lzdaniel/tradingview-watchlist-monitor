@@ -55,95 +55,228 @@
   ],
   "items": [
     {
-      "category": "LONG",
-      "description": "Roundhill Memory ETF",
-      "exchange": "CBOE",
-      "symbol": "CBOE:DRAM",
-      "ticker": "DRAM"
-    },
-    {
-      "category": "LONG",
+      "category": "MOMENTUM",
       "description": "Advanced Micro Devices Inc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMD",
       "ticker": "AMD"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
+      "description": "Arm Holdings plc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ARM",
+      "ticker": "ARM"
+    },
+    {
+      "category": "MOMENTUM",
       "description": "Coinbase Global, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COIN",
       "ticker": "COIN"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
+      "description": "GitLab Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GTLB",
+      "ticker": "GTLB"
+    },
+    {
+      "category": "MOMENTUM",
       "description": "Robinhood Markets, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HOOD",
       "ticker": "HOOD"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
+      "description": "Hut 8 Corp.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HUT",
+      "ticker": "HUT"
+    },
+    {
+      "category": "MOMENTUM",
       "description": "Intel Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:INTC",
       "ticker": "INTC"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
       "description": "Micron Technology, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:MU",
       "ticker": "MU"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "MOMENTUM",
       "description": "Palantir Technologies Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:PLTR",
       "ticker": "PLTR"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
       "description": "Sanmina Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SANM",
       "ticker": "SANM"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
+      "description": "SK hynix Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SKHY",
+      "ticker": "SKHY"
+    },
+    {
+      "category": "MOMENTUM",
       "description": "Atlassian Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TEAM",
       "ticker": "TEAM"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
+      "description": "Arista Networks, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ANET",
+      "ticker": "ANET"
+    },
+    {
+      "category": "MOMENTUM",
+      "description": "ASE Technology Holding Co., Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ASX",
+      "ticker": "ASX"
+    },
+    {
+      "category": "MOMENTUM",
       "description": "Best Buy Co., Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:BBY",
       "ticker": "BBY"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
       "description": "BitMine Immersion Technologies, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:BMNR",
       "ticker": "BMNR"
     },
     {
-      "category": "LONG",
-      "description": "Circle Internet Group, Inc.",
+      "category": "MOMENTUM",
+      "description": "Dell Technologies Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:CRCL",
-      "ticker": "CRCL"
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
     },
     {
-      "category": "LONG",
+      "category": "MOMENTUM",
+      "description": "Hinge Health, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HNGE",
+      "ticker": "HNGE"
+    },
+    {
+      "category": "MOMENTUM",
+      "description": "Hewlett Packard Enterprise Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HPE",
+      "ticker": "HPE"
+    },
+    {
+      "category": "MOMENTUM",
+      "description": "HP Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HPQ",
+      "ticker": "HPQ"
+    },
+    {
+      "category": "MOMENTUM",
+      "description": "ServiceNow, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NOW",
+      "ticker": "NOW"
+    },
+    {
+      "category": "MOMENTUM",
+      "description": "Everpure, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:P",
+      "ticker": "P"
+    },
+    {
+      "category": "MOMENTUM",
+      "description": "Snowflake Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SNOW",
+      "ticker": "SNOW"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "Applied Materials, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AMAT",
+      "ticker": "AMAT"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "CoreWeave, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRWV",
+      "ticker": "CRWV"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "KLA Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KLAC",
+      "ticker": "KLAC"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "Lam Research Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LRCX",
+      "ticker": "LRCX"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "NXP Semiconductors N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NXPI",
+      "ticker": "NXPI"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "Texas Instruments Incorporated",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TXN",
+      "ticker": "TXN"
+    },
+    {
+      "category": "REVERSAL",
       "description": "McDonald's Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:MCD",
       "ticker": "MCD"
+    },
+    {
+      "category": "REVERSAL",
+      "description": "STMicroelectronics N.V.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:STM",
+      "ticker": "STM"
     }
   ],
   "open_full_sent": [
