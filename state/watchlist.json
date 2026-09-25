@@ -235,20 +235,6 @@
     },
     {
       "category": "REVERSAL",
-      "description": "CoreWeave, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRWV",
-      "ticker": "CRWV"
-    },
-    {
-      "category": "REVERSAL",
-      "description": "JetBlue Airways Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:JBLU",
-      "ticker": "JBLU"
-    },
-    {
-      "category": "REVERSAL",
       "description": "KLA Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:KLAC",
@@ -281,20 +267,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:UAL",
       "ticker": "UAL"
-    },
-    {
-      "category": "REVERSAL",
-      "description": "Delta Air Lines, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DAL",
-      "ticker": "DAL"
-    },
-    {
-      "category": "REVERSAL",
-      "description": "Hecla Mining Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HL",
-      "ticker": "HL"
     },
     {
       "category": "REVERSAL",
