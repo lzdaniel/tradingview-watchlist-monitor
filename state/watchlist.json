@@ -160,13 +160,6 @@
     },
     {
       "category": "未分类",
-      "description": "Seagate Technology Holdings PLC",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:STX",
-      "ticker": "STX"
-    },
-    {
-      "category": "未分类",
       "description": "Teradyne, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TER",
@@ -185,13 +178,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:VIAV",
       "ticker": "VIAV"
-    },
-    {
-      "category": "未分类",
-      "description": "Ambiq Micro, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:AMBQ",
-      "ticker": "AMBQ"
     },
     {
       "category": "未分类",
