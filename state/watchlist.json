@@ -65,207 +65,235 @@
   ],
   "items": [
     {
-      "category": "WATCH",
-      "description": "Applied Optoelectronics, Inc.",
+      "category": "BUYABLE",
+      "description": "Astera Labs, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
+      "symbol": "NASDAQ:ALAB",
+      "ticker": "ALAB"
     },
     {
-      "category": "WATCH",
-      "description": "Arm Holdings plc",
+      "category": "BUYABLE",
+      "description": "Cerebras Systems Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARM",
-      "ticker": "ARM"
+      "symbol": "NASDAQ:CBRS",
+      "ticker": "CBRS"
     },
     {
-      "category": "WATCH",
-      "description": "The Chefs' Warehouse, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CHEF",
-      "ticker": "CHEF"
-    },
-    {
-      "category": "WATCH",
-      "description": "Cohu, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:COHU",
-      "ticker": "COHU"
-    },
-    {
-      "category": "WATCH",
-      "description": "Heartflow, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HTFL",
-      "ticker": "HTFL"
-    },
-    {
-      "category": "WATCH",
+      "category": "BUYABLE",
       "description": "Illumina, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ILMN",
       "ticker": "ILMN"
     },
     {
-      "category": "WATCH",
-      "description": "Nebius Group N.V.",
+      "category": "BUYABLE",
+      "description": "QUALCOMM Incorporated",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
+      "symbol": "NASDAQ:QCOM",
+      "ticker": "QCOM"
     },
     {
-      "category": "WATCH",
-      "description": "Ouster, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:OUST",
-      "ticker": "OUST"
-    },
-    {
-      "category": "WATCH",
-      "description": "Quantum Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:QMCO",
-      "ticker": "QMCO"
-    },
-    {
-      "category": "WATCH",
+      "category": "BUYABLE",
       "description": "Rocket Lab Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:RKLB",
       "ticker": "RKLB"
     },
     {
-      "category": "WATCH",
-      "description": "Schrodinger, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SDGR",
-      "ticker": "SDGR"
-    },
-    {
-      "category": "WATCH",
-      "description": "Silicon Motion Technology Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SIMO",
-      "ticker": "SIMO"
-    },
-    {
-      "category": "WATCH",
-      "description": "SK hynix Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SKHY",
-      "ticker": "SKHY"
-    },
-    {
-      "category": "WATCH",
-      "description": "Tempus AI, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TEM",
-      "ticker": "TEM"
-    },
-    {
-      "category": "WATCH",
-      "description": "Tenable Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TENB",
-      "ticker": "TENB"
-    },
-    {
-      "category": "WATCH",
-      "description": "Teradyne, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TER",
-      "ticker": "TER"
-    },
-    {
-      "category": "WATCH",
-      "description": "Tower Semiconductor Ltd.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSEM",
-      "ticker": "TSEM"
-    },
-    {
-      "category": "WATCH",
-      "description": "Xometry, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:XMTR",
-      "ticker": "XMTR"
-    },
-    {
-      "category": "WATCH",
-      "description": "Arista Networks, Inc.",
+      "category": "BUYABLE",
+      "description": "Salesforce, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:ANET",
-      "ticker": "ANET"
+      "symbol": "NYSE:CRM",
+      "ticker": "CRM"
     },
     {
-      "category": "WATCH",
-      "description": "Amphenol Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:APH",
-      "ticker": "APH"
-    },
-    {
-      "category": "WATCH",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
-    },
-    {
-      "category": "WATCH",
-      "description": "Okeanis Eco Tankers Corp.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ECO",
-      "ticker": "ECO"
-    },
-    {
-      "category": "WATCH",
-      "description": "Forgent Power Solutions, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FPS",
-      "ticker": "FPS"
-    },
-    {
-      "category": "WATCH",
-      "description": "Generac Holdings Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:GNRC",
-      "ticker": "GNRC"
-    },
-    {
-      "category": "WATCH",
-      "description": "Materion Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:MTRN",
-      "ticker": "MTRN"
-    },
-    {
-      "category": "WATCH",
-      "description": "nVent Electric plc",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NVT",
-      "ticker": "NVT"
-    },
-    {
-      "category": "WATCH",
-      "description": "Everpure, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:P",
-      "ticker": "P"
-    },
-    {
-      "category": "WATCH",
+      "category": "BUYABLE",
       "description": "Snowflake Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
     },
     {
-      "category": "未分类",
-      "description": "Astera Labs, Inc.",
+      "category": "GRADE A WATCH",
+      "description": "Applied Optoelectronics, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Arm Holdings plc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ARM",
+      "ticker": "ARM"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "The Chefs' Warehouse, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CHEF",
+      "ticker": "CHEF"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Heartflow, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HTFL",
+      "ticker": "HTFL"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Ouster, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:OUST",
+      "ticker": "OUST"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Quantum Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:QMCO",
+      "ticker": "QMCO"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Schrodinger, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SDGR",
+      "ticker": "SDGR"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Xometry, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:XMTR",
+      "ticker": "XMTR"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Arista Networks, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ANET",
+      "ticker": "ANET"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Amphenol Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:APH",
+      "ticker": "APH"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "BlackBerry Limited",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BB",
+      "ticker": "BB"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Okeanis Eco Tankers Corp.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ECO",
+      "ticker": "ECO"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Forgent Power Solutions, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:FPS",
+      "ticker": "FPS"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Materion Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:MTRN",
+      "ticker": "MTRN"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Cohu, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:COHU",
+      "ticker": "COHU"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Nebius Group N.V.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NBIS",
+      "ticker": "NBIS"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Silicon Motion Technology Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SIMO",
+      "ticker": "SIMO"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "SK hynix Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SKHY",
+      "ticker": "SKHY"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Tempus AI, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TEM",
+      "ticker": "TEM"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Tenable Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TENB",
+      "ticker": "TENB"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Teradyne, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TER",
+      "ticker": "TER"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Tower Semiconductor Ltd.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TSEM",
+      "ticker": "TSEM"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Bloom Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BE",
+      "ticker": "BE"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Generac Holdings Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:GNRC",
+      "ticker": "GNRC"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "nVent Electric plc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NVT",
+      "ticker": "NVT"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Everpure, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:P",
+      "ticker": "P"
     },
     {
       "category": "未分类",
@@ -273,13 +301,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CNH",
       "ticker": "CNH"
-    },
-    {
-      "category": "未分类",
-      "description": "Salesforce, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CRM",
-      "ticker": "CRM"
     }
   ],
   "open_full_sent": [
