@@ -87,20 +87,6 @@
     },
     {
       "category": "BUYABLE",
-      "description": "QUALCOMM Incorporated",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:QCOM",
-      "ticker": "QCOM"
-    },
-    {
-      "category": "BUYABLE",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
-    },
-    {
-      "category": "BUYABLE",
       "description": "Salesforce, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:CRM",
@@ -199,13 +185,6 @@
     },
     {
       "category": "GRADE A WATCH",
-      "description": "BlackBerry Limited",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BB",
-      "ticker": "BB"
-    },
-    {
-      "category": "GRADE A WATCH",
       "description": "Okeanis Eco Tankers Corp.",
       "exchange": "NYSE",
       "symbol": "NYSE:ECO",
@@ -238,6 +217,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:NBIS",
       "ticker": "NBIS"
+    },
+    {
+      "category": "GRADE B WATCH",
+      "description": "Rocket Lab Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:RKLB",
+      "ticker": "RKLB"
     },
     {
       "category": "GRADE B WATCH",
@@ -376,7 +362,8 @@
     "2026-09-29",
     "2026-09-30",
     "2026-10-01",
-    "2026-10-02"
+    "2026-10-02",
+    "2026-10-05"
   ],
   "source_url": "https://www.tradingview.com/watchlists/336308594/",
   "watchlist_name": "TradingView Watchlist"
