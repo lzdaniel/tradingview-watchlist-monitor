@@ -115,6 +115,13 @@
     },
     {
       "category": "GRADE A WATCH",
+      "description": "iShares MSCI Brazil ETF",
+      "exchange": "AMEX",
+      "symbol": "AMEX:EWZ",
+      "ticker": "EWZ"
+    },
+    {
+      "category": "GRADE A WATCH",
       "description": "Applied Optoelectronics, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAOI",
@@ -161,6 +168,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SDGR",
       "ticker": "SDGR"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Shopify Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SHOP",
+      "ticker": "SHOP"
     },
     {
       "category": "GRADE A WATCH",
