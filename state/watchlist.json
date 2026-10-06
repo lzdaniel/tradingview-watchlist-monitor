@@ -67,6 +67,13 @@
   "items": [
     {
       "category": "BUYABLE",
+      "description": "Applied Optoelectronics, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AAOI",
+      "ticker": "AAOI"
+    },
+    {
+      "category": "BUYABLE",
       "description": "Astera Labs, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ALAB",
@@ -74,17 +81,10 @@
     },
     {
       "category": "BUYABLE",
-      "description": "Cerebras Systems Inc.",
+      "description": "Arm Holdings plc",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CBRS",
-      "ticker": "CBRS"
-    },
-    {
-      "category": "BUYABLE",
-      "description": "Illumina, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ILMN",
-      "ticker": "ILMN"
+      "symbol": "NASDAQ:ARM",
+      "ticker": "ARM"
     },
     {
       "category": "BUYABLE",
@@ -99,27 +99,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:SNOW",
       "ticker": "SNOW"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "iShares MSCI Brazil ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:EWZ",
-      "ticker": "EWZ"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Applied Optoelectronics, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Arm Holdings plc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARM",
-      "ticker": "ARM"
     },
     {
       "category": "GRADE A WATCH",
@@ -148,13 +127,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:QMCO",
       "ticker": "QMCO"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Schrodinger, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SDGR",
-      "ticker": "SDGR"
     },
     {
       "category": "GRADE A WATCH",
@@ -221,13 +193,6 @@
     },
     {
       "category": "GRADE B WATCH",
-      "description": "Rocket Lab Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RKLB",
-      "ticker": "RKLB"
-    },
-    {
-      "category": "GRADE B WATCH",
       "description": "Silicon Motion Technology Corporation",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SIMO",
@@ -242,24 +207,10 @@
     },
     {
       "category": "GRADE B WATCH",
-      "description": "Tempus AI, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TEM",
-      "ticker": "TEM"
-    },
-    {
-      "category": "GRADE B WATCH",
       "description": "Tenable Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TENB",
       "ticker": "TENB"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "Teradyne, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TER",
-      "ticker": "TER"
     },
     {
       "category": "GRADE B WATCH",
@@ -364,7 +315,8 @@
     "2026-09-30",
     "2026-10-01",
     "2026-10-02",
-    "2026-10-05"
+    "2026-10-05",
+    "2026-10-06"
   ],
   "source_url": "https://www.tradingview.com/watchlists/336308594/",
   "watchlist_name": "TradingView Watchlist"
