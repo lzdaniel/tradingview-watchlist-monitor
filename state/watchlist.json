@@ -66,39 +66,25 @@
   ],
   "items": [
     {
-      "category": "BUYABLE",
+      "category": "GRADE A WATCH",
       "description": "Applied Optoelectronics, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AAOI",
       "ticker": "AAOI"
     },
     {
-      "category": "BUYABLE",
+      "category": "GRADE A WATCH",
       "description": "Astera Labs, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ALAB",
       "ticker": "ALAB"
     },
     {
-      "category": "BUYABLE",
+      "category": "GRADE A WATCH",
       "description": "Arm Holdings plc",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:ARM",
       "ticker": "ARM"
-    },
-    {
-      "category": "BUYABLE",
-      "description": "Salesforce, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CRM",
-      "ticker": "CRM"
-    },
-    {
-      "category": "BUYABLE",
-      "description": "Snowflake Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:SNOW",
-      "ticker": "SNOW"
     },
     {
       "category": "GRADE A WATCH",
@@ -158,6 +144,13 @@
     },
     {
       "category": "GRADE A WATCH",
+      "description": "Salesforce, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:CRM",
+      "ticker": "CRM"
+    },
+    {
+      "category": "GRADE A WATCH",
       "description": "Okeanis Eco Tankers Corp.",
       "exchange": "NYSE",
       "symbol": "NYSE:ECO",
@@ -176,6 +169,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:MTRN",
       "ticker": "MTRN"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Snowflake Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SNOW",
+      "ticker": "SNOW"
     },
     {
       "category": "GRADE B WATCH",
