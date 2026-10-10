@@ -68,137 +68,32 @@
   ],
   "items": [
     {
-      "category": "GRADE A WATCH",
-      "description": "Applied Optoelectronics, Inc.",
+      "category": "未分类",
+      "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AAOI",
-      "ticker": "AAOI"
+      "symbol": "NASDAQ:AMZN",
+      "ticker": "AMZN"
     },
     {
-      "category": "GRADE A WATCH",
-      "description": "Astera Labs, Inc.",
+      "category": "未分类",
+      "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ALAB",
-      "ticker": "ALAB"
+      "symbol": "NASDAQ:DDOG",
+      "ticker": "DDOG"
     },
     {
-      "category": "GRADE A WATCH",
-      "description": "Arm Holdings plc",
+      "category": "未分类",
+      "description": "Fastly, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARM",
-      "ticker": "ARM"
+      "symbol": "NASDAQ:FSLY",
+      "ticker": "FSLY"
     },
     {
-      "category": "GRADE A WATCH",
-      "description": "Heartflow, Inc.",
+      "category": "未分类",
+      "description": "Alphabet Inc (Google) Class A",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HTFL",
-      "ticker": "HTFL"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Ouster, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:OUST",
-      "ticker": "OUST"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Quantum Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:QMCO",
-      "ticker": "QMCO"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Shopify Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SHOP",
-      "ticker": "SHOP"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Xometry, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:XMTR",
-      "ticker": "XMTR"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Arista Networks, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ANET",
-      "ticker": "ANET"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Amphenol Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:APH",
-      "ticker": "APH"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Salesforce, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CRM",
-      "ticker": "CRM"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Okeanis Eco Tankers Corp.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ECO",
-      "ticker": "ECO"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Forgent Power Solutions, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FPS",
-      "ticker": "FPS"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Materion Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:MTRN",
-      "ticker": "MTRN"
-    },
-    {
-      "category": "GRADE A WATCH",
-      "description": "Snowflake Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:SNOW",
-      "ticker": "SNOW"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "Cohu, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:COHU",
-      "ticker": "COHU"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "Nebius Group N.V.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:NBIS",
-      "ticker": "NBIS"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "Silicon Motion Technology Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SIMO",
-      "ticker": "SIMO"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "SK hynix Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SKHY",
-      "ticker": "SKHY"
+      "symbol": "NASDAQ:GOOGL",
+      "ticker": "GOOGL"
     },
     {
       "category": "GRADE B WATCH",
@@ -208,46 +103,18 @@
       "ticker": "TENB"
     },
     {
-      "category": "GRADE B WATCH",
-      "description": "Tower Semiconductor Ltd.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:TSEM",
-      "ticker": "TSEM"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "Bloom Energy Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BE",
-      "ticker": "BE"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "Generac Holdings Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:GNRC",
-      "ticker": "GNRC"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "nVent Electric plc",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NVT",
-      "ticker": "NVT"
-    },
-    {
-      "category": "GRADE B WATCH",
-      "description": "Everpure, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:P",
-      "ticker": "P"
-    },
-    {
       "category": "未分类",
-      "description": "",
+      "description": "Alibaba Group Holdings Ltd.",
       "exchange": "NYSE",
-      "symbol": "NYSE:CNH",
-      "ticker": "CNH"
+      "symbol": "NYSE:BABA",
+      "ticker": "BABA"
+    },
+    {
+      "category": "GRADE A WATCH",
+      "description": "Snowflake Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SNOW",
+      "ticker": "SNOW"
     }
   ],
   "open_full_sent": [
