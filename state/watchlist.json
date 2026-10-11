@@ -69,6 +69,13 @@
   "items": [
     {
       "category": "BREAKOUT",
+      "description": "Affirm Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AFRM",
+      "ticker": "AFRM"
+    },
+    {
+      "category": "BREAKOUT",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
