@@ -68,53 +68,326 @@
   ],
   "items": [
     {
-      "category": "未分类",
+      "category": "BREAKOUT",
       "description": "Amazon.com, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:AMZN",
       "ticker": "AMZN"
     },
     {
-      "category": "未分类",
+      "category": "BREAKOUT",
+      "description": "Constellation Energy Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CEG",
+      "ticker": "CEG"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Corcept Therapeutics Incorporated",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CORT",
+      "ticker": "CORT"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Credo Technology Group Holding Ltd",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CRDO",
+      "ticker": "CRDO"
+    },
+    {
+      "category": "BREAKOUT",
       "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
       "ticker": "DDOG"
     },
     {
-      "category": "未分类",
+      "category": "BREAKOUT",
       "description": "Fastly, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FSLY",
       "ticker": "FSLY"
     },
     {
-      "category": "未分类",
+      "category": "BREAKOUT",
       "description": "Alphabet Inc (Google) Class A",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GOOGL",
       "ticker": "GOOGL"
     },
     {
-      "category": "GRADE B WATCH",
+      "category": "BREAKOUT",
+      "description": "GRAIL, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GRAL",
+      "ticker": "GRAL"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Illumina, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ILMN",
+      "ticker": "ILMN"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "MercadoLibre, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MELI",
+      "ticker": "MELI"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Moderna, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRNA",
+      "ticker": "MRNA"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Marvell Technology, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MRVL",
+      "ticker": "MRVL"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "NetApp, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:NTAP",
+      "ticker": "NTAP"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Sanmina Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SANM",
+      "ticker": "SANM"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Semtech Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SMTC",
+      "ticker": "SMTC"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Space Exploration Technologies Corp",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SPCX",
+      "ticker": "SPCX"
+    },
+    {
+      "category": "BREAKOUT",
       "description": "Tenable Holdings, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TENB",
       "ticker": "TENB"
     },
     {
-      "category": "未分类",
+      "category": "BREAKOUT",
+      "description": "Talen Energy Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TLN",
+      "ticker": "TLN"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "XP Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:XP",
+      "ticker": "XP"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "ASE Technology Holding Co., Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ASX",
+      "ticker": "ASX"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Dell Technologies Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DELL",
+      "ticker": "DELL"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Forgent Power Solutions, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:FPS",
+      "ticker": "FPS"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "GE Vernova Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:GEV",
+      "ticker": "GEV"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Hewlett Packard Enterprise Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HPE",
+      "ticker": "HPE"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "ServiceNow, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NOW",
+      "ticker": "NOW"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Nu Holdings Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NU",
+      "ticker": "NU"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "nVent Electric plc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NVT",
+      "ticker": "NVT"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Oscar Health, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:OSCR",
+      "ticker": "OSCR"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Ringcentral, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RNG",
+      "ticker": "RNG"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Securitize Corp.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SECZ",
+      "ticker": "SECZ"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Snowflake Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SNOW",
+      "ticker": "SNOW"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Unity Software Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:U",
+      "ticker": "U"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Vistra Corp.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VST",
+      "ticker": "VST"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "The Zcash ETF Shares",
+      "exchange": "AMEX",
+      "symbol": "AMEX:ZCSH",
+      "ticker": "ZCSH"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "AbCellera Biologics Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ABCL",
+      "ticker": "ABCL"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Broadcom Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:AVGO",
+      "ticker": "AVGO"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Coinbase Global, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:COIN",
+      "ticker": "COIN"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Cypherpunk Technologies Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CYPH",
+      "ticker": "CYPH"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Robinhood Markets, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HOOD",
+      "ticker": "HOOD"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Heartflow, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HTFL",
+      "ticker": "HTFL"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "MongoDB, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MDB",
+      "ticker": "MDB"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Strategy Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MSTR",
+      "ticker": "MSTR"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Twist Bioscience Corporation",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:TWST",
+      "ticker": "TWST"
+    },
+    {
+      "category": "PULLBACK",
       "description": "Alibaba Group Holdings Ltd.",
       "exchange": "NYSE",
       "symbol": "NYSE:BABA",
       "ticker": "BABA"
     },
     {
-      "category": "GRADE A WATCH",
-      "description": "Snowflake Inc.",
+      "category": "PULLBACK",
+      "description": "BitMine Immersion Technologies, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:SNOW",
-      "ticker": "SNOW"
+      "symbol": "NYSE:BMNR",
+      "ticker": "BMNR"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Circle Internet Group, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:CRCL",
+      "ticker": "CRCL"
     }
   ],
   "open_full_sent": [
