@@ -97,13 +97,6 @@
     },
     {
       "category": "BREAKOUT",
-      "description": "Credo Technology Group Holding Ltd",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CRDO",
-      "ticker": "CRDO"
-    },
-    {
-      "category": "BREAKOUT",
       "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:DDOG",
@@ -115,13 +108,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FROG",
       "ticker": "FROG"
-    },
-    {
-      "category": "BREAKOUT",
-      "description": "Fastly, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:FSLY",
-      "ticker": "FSLY"
     },
     {
       "category": "BREAKOUT",
@@ -185,13 +171,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SANM",
       "ticker": "SANM"
-    },
-    {
-      "category": "BREAKOUT",
-      "description": "Semtech Corporation",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SMTC",
-      "ticker": "SMTC"
     },
     {
       "category": "BREAKOUT",
@@ -349,13 +328,6 @@
     },
     {
       "category": "PULLBACK",
-      "description": "Broadcom Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AVGO",
-      "ticker": "AVGO"
-    },
-    {
-      "category": "PULLBACK",
       "description": "Coinbase Global, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:COIN",
@@ -402,13 +374,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:TWST",
       "ticker": "TWST"
-    },
-    {
-      "category": "PULLBACK",
-      "description": "Alibaba Group Holdings Ltd.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BABA",
-      "ticker": "BABA"
     },
     {
       "category": "PULLBACK",
@@ -508,7 +473,8 @@
     "2026-10-02",
     "2026-10-05",
     "2026-10-06",
-    "2026-10-07"
+    "2026-10-07",
+    "2026-10-12"
   ],
   "source_url": "https://www.tradingview.com/watchlists/336308594/",
   "watchlist_name": "TradingView Watchlist"
