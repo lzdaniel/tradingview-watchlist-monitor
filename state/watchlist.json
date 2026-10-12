@@ -111,6 +111,13 @@
     },
     {
       "category": "BREAKOUT",
+      "description": "JFrog Ltd.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:FROG",
+      "ticker": "FROG"
+    },
+    {
+      "category": "BREAKOUT",
       "description": "Fastly, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:FSLY",
@@ -129,6 +136,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:GRAL",
       "ticker": "GRAL"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "GitLab Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GTLB",
+      "ticker": "GTLB"
     },
     {
       "category": "BREAKOUT",
@@ -209,6 +223,13 @@
     },
     {
       "category": "BREAKOUT",
+      "description": "AbbVie Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ABBV",
+      "ticker": "ABBV"
+    },
+    {
+      "category": "BREAKOUT",
       "description": "ASE Technology Holding Co., Ltd.",
       "exchange": "NYSE",
       "symbol": "NYSE:ASX",
@@ -220,6 +241,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DELL",
       "ticker": "DELL"
+    },
+    {
+      "category": "BREAKOUT",
+      "description": "Dynatrace, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DT",
+      "ticker": "DT"
     },
     {
       "category": "BREAKOUT",
@@ -395,6 +423,27 @@
       "exchange": "NYSE",
       "symbol": "NYSE:CRCL",
       "ticker": "CRCL"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Molina Healthcare Inc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:MOH",
+      "ticker": "MOH"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "Merck & Company, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:MRK",
+      "ticker": "MRK"
+    },
+    {
+      "category": "PULLBACK",
+      "description": "UnitedHealth Group Incorporated",
+      "exchange": "NYSE",
+      "symbol": "NYSE:UNH",
+      "ticker": "UNH"
     }
   ],
   "open_full_sent": [
