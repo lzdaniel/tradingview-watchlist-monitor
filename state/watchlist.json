@@ -303,6 +303,13 @@
     },
     {
       "category": "BREAKOUT",
+      "description": "Taiwan Semiconductor Manufacturing Company Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:TSM",
+      "ticker": "TSM"
+    },
+    {
+      "category": "BREAKOUT",
       "description": "Unity Software Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:U",
