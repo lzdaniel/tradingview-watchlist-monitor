@@ -80,13 +80,6 @@
       "ticker": "XLV"
     },
     {
-      "category": "BREAKOUT",
-      "description": "Affirm Holdings, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AFRM",
-      "ticker": "AFRM"
-    },
-    {
       "category": "未分类",
       "description": "Arcutis Biotherapeutics, Inc.",
       "exchange": "NASDAQ",
@@ -158,13 +151,6 @@
     },
     {
       "category": "未分类",
-      "description": "Bath & Body Works, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:BBWI",
-      "ticker": "BBWI"
-    },
-    {
-      "category": "未分类",
       "description": "Box, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:BOX",
@@ -204,13 +190,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:MRK",
       "ticker": "MRK"
-    },
-    {
-      "category": "未分类",
-      "description": "Murphy Oil Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:MUR",
-      "ticker": "MUR"
     },
     {
       "category": "BREAKOUT",
