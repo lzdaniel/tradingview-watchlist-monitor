@@ -179,6 +179,13 @@
     },
     {
       "category": "未分类",
+      "description": "Humana Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HUM",
+      "ticker": "HUM"
+    },
+    {
+      "category": "未分类",
       "description": "Eli Lilly and Company",
       "exchange": "NYSE",
       "symbol": "NYSE:LLY",
