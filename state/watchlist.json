@@ -166,6 +166,13 @@
     },
     {
       "category": "未分类",
+      "description": "Hinge Health, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HNGE",
+      "ticker": "HNGE"
+    },
+    {
+      "category": "未分类",
       "description": "Humana Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:HUM",
@@ -198,13 +205,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:OSCR",
       "ticker": "OSCR"
-    },
-    {
-      "category": "未分类",
-      "description": "Occidental Petroleum Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:OXY",
-      "ticker": "OXY"
     },
     {
       "category": "未分类",
