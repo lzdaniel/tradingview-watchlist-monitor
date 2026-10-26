@@ -79,52 +79,24 @@
   "items": [
     {
       "category": "未分类",
-      "description": "State Street Health Care Select Sector SPDR ETF",
-      "exchange": "AMEX",
-      "symbol": "AMEX:XLV",
-      "ticker": "XLV"
+      "description": "Caris Life Sciences, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:CAI",
+      "ticker": "CAI"
     },
     {
       "category": "未分类",
-      "description": "Arcutis Biotherapeutics, Inc.",
+      "description": "Datadog, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:ARQT",
-      "ticker": "ARQT"
+      "symbol": "NASDAQ:DDOG",
+      "ticker": "DDOG"
     },
     {
       "category": "未分类",
-      "description": "Gilead Sciences, Inc.",
+      "description": "LifeStance Health Group, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GILD",
-      "ticker": "GILD"
-    },
-    {
-      "category": "PULLBACK",
-      "description": "Heartflow, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HTFL",
-      "ticker": "HTFL"
-    },
-    {
-      "category": "未分类",
-      "description": "Ethos Technologies Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LIFE",
-      "ticker": "LIFE"
-    },
-    {
-      "category": "BREAKOUT",
-      "description": "Moderna, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:MRNA",
-      "ticker": "MRNA"
-    },
-    {
-      "category": "未分类",
-      "description": "Avita Medical, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:RCEL",
-      "ticker": "RCEL"
+      "symbol": "NASDAQ:LFST",
+      "ticker": "LFST"
     },
     {
       "category": "未分类",
@@ -135,52 +107,17 @@
     },
     {
       "category": "未分类",
-      "description": "VeriSign, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:VRSN",
-      "ticker": "VRSN"
-    },
-    {
-      "category": "未分类",
       "description": "Agilent Technologies, Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:A",
       "ticker": "A"
     },
     {
-      "category": "BREAKOUT",
-      "description": "AbbVie Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ABBV",
-      "ticker": "ABBV"
-    },
-    {
       "category": "未分类",
-      "description": "Box, Inc.",
+      "description": "Dynatrace, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:BOX",
-      "ticker": "BOX"
-    },
-    {
-      "category": "未分类",
-      "description": "Centene Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:CNC",
-      "ticker": "CNC"
-    },
-    {
-      "category": "未分类",
-      "description": "Hinge Health, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HNGE",
-      "ticker": "HNGE"
-    },
-    {
-      "category": "未分类",
-      "description": "Humana Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:HUM",
-      "ticker": "HUM"
+      "symbol": "NYSE:DT",
+      "ticker": "DT"
     },
     {
       "category": "未分类",
@@ -190,39 +127,11 @@
       "ticker": "LLY"
     },
     {
-      "category": "PULLBACK",
-      "description": "Molina Healthcare Inc",
-      "exchange": "NYSE",
-      "symbol": "NYSE:MOH",
-      "ticker": "MOH"
-    },
-    {
-      "category": "PULLBACK",
-      "description": "Merck & Company, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:MRK",
-      "ticker": "MRK"
-    },
-    {
-      "category": "BREAKOUT",
-      "description": "Oscar Health, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:OSCR",
-      "ticker": "OSCR"
-    },
-    {
       "category": "未分类",
-      "description": "SharkNinja, Inc.",
+      "description": "Everpure, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:SN",
-      "ticker": "SN"
-    },
-    {
-      "category": "PULLBACK",
-      "description": "UnitedHealth Group Incorporated",
-      "exchange": "NYSE",
-      "symbol": "NYSE:UNH",
-      "ticker": "UNH"
+      "symbol": "NYSE:P",
+      "ticker": "P"
     }
   ],
   "open_full_sent": [
