@@ -154,6 +154,13 @@
     },
     {
       "category": "未分类",
+      "description": "Genmab A/S",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GMAB",
+      "ticker": "GMAB"
+    },
+    {
+      "category": "未分类",
       "description": "Hasbro, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HAS",
@@ -322,13 +329,6 @@
     },
     {
       "category": "未分类",
-      "description": "DoubleVerify Holdings, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:DV",
-      "ticker": "DV"
-    },
-    {
-      "category": "未分类",
       "description": "Devon Energy Corporation",
       "exchange": "NYSE",
       "symbol": "NYSE:DVN",
@@ -445,13 +445,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:NUE",
       "ticker": "NUE"
-    },
-    {
-      "category": "未分类",
-      "description": "Oscar Health, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:OSCR",
-      "ticker": "OSCR"
     },
     {
       "category": "未分类",
