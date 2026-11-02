@@ -154,13 +154,6 @@
     },
     {
       "category": "未分类",
-      "description": "Genmab A/S",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:GMAB",
-      "ticker": "GMAB"
-    },
-    {
-      "category": "未分类",
       "description": "Hasbro, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HAS",
@@ -172,13 +165,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HTFL",
       "ticker": "HTFL"
-    },
-    {
-      "category": "未分类",
-      "description": "Kodiak Sciences Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KOD",
-      "ticker": "KOD"
     },
     {
       "category": "未分类",
@@ -256,13 +242,6 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:VRNS",
       "ticker": "VRNS"
-    },
-    {
-      "category": "未分类",
-      "description": "AbbVie Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:ABBV",
-      "ticker": "ABBV"
     },
     {
       "category": "未分类",
@@ -357,13 +336,6 @@
     },
     {
       "category": "未分类",
-      "description": "Frontline Plc",
-      "exchange": "NYSE",
-      "symbol": "NYSE:FRO",
-      "ticker": "FRO"
-    },
-    {
-      "category": "未分类",
       "description": "GoDaddy Inc.",
       "exchange": "NYSE",
       "symbol": "NYSE:GDDY",
@@ -448,13 +420,6 @@
     },
     {
       "category": "未分类",
-      "description": "Occidental Petroleum Corporation",
-      "exchange": "NYSE",
-      "symbol": "NYSE:OXY",
-      "ticker": "OXY"
-    },
-    {
-      "category": "未分类",
       "description": "Pebblebrook Hotel Trust",
       "exchange": "NYSE",
       "symbol": "NYSE:PEB",
@@ -466,13 +431,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:PM",
       "ticker": "PM"
-    },
-    {
-      "category": "未分类",
-      "description": "Rubrik, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RBRK",
-      "ticker": "RBRK"
     },
     {
       "category": "未分类",
@@ -643,7 +601,8 @@
     "2026-10-27",
     "2026-10-28",
     "2026-10-29",
-    "2026-10-30"
+    "2026-10-30",
+    "2026-11-02"
   ],
   "source_url": "https://www.tradingview.com/watchlists/336308594/",
   "watchlist_name": "TradingView Watchlist"
