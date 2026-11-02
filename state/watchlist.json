@@ -84,45 +84,325 @@
   "items": [
     {
       "category": "未分类",
-      "description": "Caris Life Sciences, Inc.",
+      "description": "Biogen Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CAI",
-      "ticker": "CAI"
+      "symbol": "NASDAQ:BIIB",
+      "ticker": "BIIB"
     },
     {
       "category": "未分类",
-      "description": "Datadog, Inc.",
+      "description": "Braze, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:DDOG",
-      "ticker": "DDOG"
+      "symbol": "NASDAQ:BRZE",
+      "ticker": "BRZE"
     },
     {
       "category": "未分类",
-      "description": "LifeStance Health Group, Inc.",
+      "description": "CareDx, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:LFST",
-      "ticker": "LFST"
+      "symbol": "NASDAQ:CDNA",
+      "ticker": "CDNA"
     },
     {
       "category": "未分类",
-      "description": "Shopify Inc.",
+      "description": "Crocs, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SHOP",
-      "ticker": "SHOP"
+      "symbol": "NASDAQ:CROX",
+      "ticker": "CROX"
     },
     {
       "category": "未分类",
-      "description": "Agilent Technologies, Inc.",
+      "description": "eBay Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:EBAY",
+      "ticker": "EBAY"
+    },
+    {
+      "category": "未分类",
+      "description": "Exelixis, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:EXEL",
+      "ticker": "EXEL"
+    },
+    {
+      "category": "未分类",
+      "description": "Exponent, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:EXPO",
+      "ticker": "EXPO"
+    },
+    {
+      "category": "未分类",
+      "description": "Grid Dynamics Holdings, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GDYN",
+      "ticker": "GDYN"
+    },
+    {
+      "category": "未分类",
+      "description": "Guardant Health, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GH",
+      "ticker": "GH"
+    },
+    {
+      "category": "未分类",
+      "description": "Gilead Sciences, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:GILD",
+      "ticker": "GILD"
+    },
+    {
+      "category": "未分类",
+      "description": "Hasbro, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HAS",
+      "ticker": "HAS"
+    },
+    {
+      "category": "未分类",
+      "description": "Heartflow, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:HTFL",
+      "ticker": "HTFL"
+    },
+    {
+      "category": "未分类",
+      "description": "Kodiak Sciences Inc",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:KOD",
+      "ticker": "KOD"
+    },
+    {
+      "category": "未分类",
+      "description": "Ethos Technologies Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LIFE",
+      "ticker": "LIFE"
+    },
+    {
+      "category": "未分类",
+      "description": "Manhattan Associates, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:MANH",
+      "ticker": "MANH"
+    },
+    {
+      "category": "未分类",
+      "description": "OneSpaWorld Holdings Limited",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:OSW",
+      "ticker": "OSW"
+    },
+    {
+      "category": "未分类",
+      "description": "Porch Group, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:PRCH",
+      "ticker": "PRCH"
+    },
+    {
+      "category": "未分类",
+      "description": "Roper Technologies, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:ROP",
+      "ticker": "ROP"
+    },
+    {
+      "category": "未分类",
+      "description": "SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SAIC",
+      "ticker": "SAIC"
+    },
+    {
+      "category": "未分类",
+      "description": "Sezzle Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SEZL",
+      "ticker": "SEZL"
+    },
+    {
+      "category": "未分类",
+      "description": "Surgery Partners, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:SGRY",
+      "ticker": "SGRY"
+    },
+    {
+      "category": "未分类",
+      "description": "Stagwell Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:STGW",
+      "ticker": "STGW"
+    },
+    {
+      "category": "未分类",
+      "description": "Urban Outfitters, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:URBN",
+      "ticker": "URBN"
+    },
+    {
+      "category": "未分类",
+      "description": "Varonis Systems, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:VRNS",
+      "ticker": "VRNS"
+    },
+    {
+      "category": "未分类",
+      "description": "AbbVie Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:A",
-      "ticker": "A"
+      "symbol": "NYSE:ABBV",
+      "ticker": "ABBV"
     },
     {
       "category": "未分类",
-      "description": "Dynatrace, Inc.",
+      "description": "ABM Industries Incorporated",
       "exchange": "NYSE",
-      "symbol": "NYSE:DT",
-      "ticker": "DT"
+      "symbol": "NYSE:ABM",
+      "ticker": "ABM"
+    },
+    {
+      "category": "未分类",
+      "description": "Abbott Laboratories",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ABT",
+      "ticker": "ABT"
+    },
+    {
+      "category": "未分类",
+      "description": "Accenture plc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ACN",
+      "ticker": "ACN"
+    },
+    {
+      "category": "未分类",
+      "description": "Allegion plc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ALLE",
+      "ticker": "ALLE"
+    },
+    {
+      "category": "未分类",
+      "description": "Abercrombie & Fitch Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ANF",
+      "ticker": "ANF"
+    },
+    {
+      "category": "未分类",
+      "description": "Box, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:BOX",
+      "ticker": "BOX"
+    },
+    {
+      "category": "未分类",
+      "description": "Centene Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:CNC",
+      "ticker": "CNC"
+    },
+    {
+      "category": "未分类",
+      "description": "Donnelley Financial Solutions, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DFIN",
+      "ticker": "DFIN"
+    },
+    {
+      "category": "未分类",
+      "description": "DHT Holdings, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DHT",
+      "ticker": "DHT"
+    },
+    {
+      "category": "未分类",
+      "description": "DoubleVerify Holdings, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DV",
+      "ticker": "DV"
+    },
+    {
+      "category": "未分类",
+      "description": "Devon Energy Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:DVN",
+      "ticker": "DVN"
+    },
+    {
+      "category": "未分类",
+      "description": "Equifax, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:EFX",
+      "ticker": "EFX"
+    },
+    {
+      "category": "未分类",
+      "description": "Everest Group, Ltd.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:EG",
+      "ticker": "EG"
+    },
+    {
+      "category": "未分类",
+      "description": "Encompass Health Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:EHC",
+      "ticker": "EHC"
+    },
+    {
+      "category": "未分类",
+      "description": "Frontline Plc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:FRO",
+      "ticker": "FRO"
+    },
+    {
+      "category": "未分类",
+      "description": "GoDaddy Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:GDDY",
+      "ticker": "GDDY"
+    },
+    {
+      "category": "未分类",
+      "description": "Haemonetics Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HAE",
+      "ticker": "HAE"
+    },
+    {
+      "category": "未分类",
+      "description": "Harley-Davidson, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HOG",
+      "ticker": "HOG"
+    },
+    {
+      "category": "未分类",
+      "description": "Humana Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HUM",
+      "ticker": "HUM"
+    },
+    {
+      "category": "未分类",
+      "description": "Integer Holdings Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:ITGR",
+      "ticker": "ITGR"
+    },
+    {
+      "category": "未分类",
+      "description": "Johnson & Johnson",
+      "exchange": "NYSE",
+      "symbol": "NYSE:JNJ",
+      "ticker": "JNJ"
     },
     {
       "category": "未分类",
@@ -133,10 +413,164 @@
     },
     {
       "category": "未分类",
-      "description": "Everpure, Inc.",
+      "description": "Mastercard Incorporated",
       "exchange": "NYSE",
-      "symbol": "NYSE:P",
-      "ticker": "P"
+      "symbol": "NYSE:MA",
+      "ticker": "MA"
+    },
+    {
+      "category": "未分类",
+      "description": "Pediatrix Medical Group, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:MD",
+      "ticker": "MD"
+    },
+    {
+      "category": "未分类",
+      "description": "Molina Healthcare Inc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:MOH",
+      "ticker": "MOH"
+    },
+    {
+      "category": "未分类",
+      "description": "Merck & Company, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:MRK",
+      "ticker": "MRK"
+    },
+    {
+      "category": "未分类",
+      "description": "Nucor Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:NUE",
+      "ticker": "NUE"
+    },
+    {
+      "category": "未分类",
+      "description": "Oscar Health, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:OSCR",
+      "ticker": "OSCR"
+    },
+    {
+      "category": "未分类",
+      "description": "Occidental Petroleum Corporation",
+      "exchange": "NYSE",
+      "symbol": "NYSE:OXY",
+      "ticker": "OXY"
+    },
+    {
+      "category": "未分类",
+      "description": "Pebblebrook Hotel Trust",
+      "exchange": "NYSE",
+      "symbol": "NYSE:PEB",
+      "ticker": "PEB"
+    },
+    {
+      "category": "未分类",
+      "description": "Philip Morris International Inc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:PM",
+      "ticker": "PM"
+    },
+    {
+      "category": "未分类",
+      "description": "Rubrik, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RBRK",
+      "ticker": "RBRK"
+    },
+    {
+      "category": "未分类",
+      "description": "Robert Half Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RHI",
+      "ticker": "RHI"
+    },
+    {
+      "category": "未分类",
+      "description": "Reliance, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:RS",
+      "ticker": "RS"
+    },
+    {
+      "category": "未分类",
+      "description": "Sally Beauty Holdings, Inc. (Name to be changed from Sally Holdings, Inc.)",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SBH",
+      "ticker": "SBH"
+    },
+    {
+      "category": "未分类",
+      "description": "Stepan Company",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SCL",
+      "ticker": "SCL"
+    },
+    {
+      "category": "未分类",
+      "description": "Signet Jewelers Limited",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SIG",
+      "ticker": "SIG"
+    },
+    {
+      "category": "未分类",
+      "description": "Spotify Technology S.A.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:SPOT",
+      "ticker": "SPOT"
+    },
+    {
+      "category": "未分类",
+      "description": "Hanover Insurance Group Inc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:THG",
+      "ticker": "THG"
+    },
+    {
+      "category": "未分类",
+      "description": "Thermo Fisher Scientific Inc",
+      "exchange": "NYSE",
+      "symbol": "NYSE:TMO",
+      "ticker": "TMO"
+    },
+    {
+      "category": "未分类",
+      "description": "UnitedHealth Group Incorporated",
+      "exchange": "NYSE",
+      "symbol": "NYSE:UNH",
+      "ticker": "UNH"
+    },
+    {
+      "category": "未分类",
+      "description": "Visa Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:V",
+      "ticker": "V"
+    },
+    {
+      "category": "未分类",
+      "description": "Veeva Systems Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VEEV",
+      "ticker": "VEEV"
+    },
+    {
+      "category": "未分类",
+      "description": "Veralto Corp",
+      "exchange": "NYSE",
+      "symbol": "NYSE:VLTO",
+      "ticker": "VLTO"
+    },
+    {
+      "category": "未分类",
+      "description": "West Pharmaceutical Services, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:WST",
+      "ticker": "WST"
     }
   ],
   "open_full_sent": [
