@@ -81,7 +81,8 @@
     "2026-10-29",
     "2026-10-30",
     "2026-11-02",
-    "2026-11-03"
+    "2026-11-03",
+    "2026-11-04"
   ],
   "items": [
     {
@@ -167,6 +168,13 @@
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:HTFL",
       "ticker": "HTFL"
+    },
+    {
+      "category": "未分类",
+      "description": "LifeStance Health Group, Inc.",
+      "exchange": "NASDAQ",
+      "symbol": "NASDAQ:LFST",
+      "ticker": "LFST"
     },
     {
       "category": "未分类",
@@ -314,6 +322,13 @@
       "exchange": "NYSE",
       "symbol": "NYSE:DVN",
       "ticker": "DVN"
+    },
+    {
+      "category": "未分类",
+      "description": "Brinker International, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:EAT",
+      "ticker": "EAT"
     },
     {
       "category": "未分类",
