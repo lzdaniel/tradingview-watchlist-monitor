@@ -94,45 +94,17 @@
   "items": [
     {
       "category": "未分类",
-      "description": "Axogen, Inc.",
+      "description": "CG Oncology, Inc.",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:AXGN",
-      "ticker": "AXGN"
+      "symbol": "NASDAQ:CGON",
+      "ticker": "CGON"
     },
     {
       "category": "未分类",
-      "description": "Crocs, Inc.",
+      "description": "LivaNova PLC",
       "exchange": "NASDAQ",
-      "symbol": "NASDAQ:CROX",
-      "ticker": "CROX"
-    },
-    {
-      "category": "未分类",
-      "description": "Exelixis, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:EXEL",
-      "ticker": "EXEL"
-    },
-    {
-      "category": "未分类",
-      "description": "Heartflow, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:HTFL",
-      "ticker": "HTFL"
-    },
-    {
-      "category": "未分类",
-      "description": "Kiniksa Pharmaceuticals International, plc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KNSA",
-      "ticker": "KNSA"
-    },
-    {
-      "category": "未分类",
-      "description": "Kodiak Sciences Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:KOD",
-      "ticker": "KOD"
+      "symbol": "NASDAQ:LIVN",
+      "ticker": "LIVN"
     },
     {
       "category": "未分类",
@@ -143,13 +115,6 @@
     },
     {
       "category": "未分类",
-      "description": "Pulse Biosciences, Inc",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:PLSE",
-      "ticker": "PLSE"
-    },
-    {
-      "category": "未分类",
       "description": "Schrodinger, Inc.",
       "exchange": "NASDAQ",
       "symbol": "NASDAQ:SDGR",
@@ -157,31 +122,17 @@
     },
     {
       "category": "未分类",
-      "description": "Surgery Partners, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:SGRY",
-      "ticker": "SGRY"
-    },
-    {
-      "category": "未分类",
-      "description": "Varonis Systems, Inc.",
-      "exchange": "NASDAQ",
-      "symbol": "NASDAQ:VRNS",
-      "ticker": "VRNS"
-    },
-    {
-      "category": "未分类",
-      "description": "Accenture plc",
+      "description": "Box, Inc.",
       "exchange": "NYSE",
-      "symbol": "NYSE:ACN",
-      "ticker": "ACN"
+      "symbol": "NYSE:BOX",
+      "ticker": "BOX"
     },
     {
       "category": "未分类",
-      "description": "DHT Holdings, Inc.",
+      "description": "Quest Diagnostics Incorporated",
       "exchange": "NYSE",
-      "symbol": "NYSE:DHT",
-      "ticker": "DHT"
+      "symbol": "NYSE:DGX",
+      "ticker": "DGX"
     },
     {
       "category": "未分类",
@@ -199,10 +150,17 @@
     },
     {
       "category": "未分类",
-      "description": "Johnson & Johnson",
+      "description": "Haemonetics Corporation",
       "exchange": "NYSE",
-      "symbol": "NYSE:JNJ",
-      "ticker": "JNJ"
+      "symbol": "NYSE:HAE",
+      "ticker": "HAE"
+    },
+    {
+      "category": "未分类",
+      "description": "Harley-Davidson, Inc.",
+      "exchange": "NYSE",
+      "symbol": "NYSE:HOG",
+      "ticker": "HOG"
     },
     {
       "category": "未分类",
@@ -210,90 +168,6 @@
       "exchange": "NYSE",
       "symbol": "NYSE:LH",
       "ticker": "LH"
-    },
-    {
-      "category": "未分类",
-      "description": "Eli Lilly and Company",
-      "exchange": "NYSE",
-      "symbol": "NYSE:LLY",
-      "ticker": "LLY"
-    },
-    {
-      "category": "未分类",
-      "description": "Merck & Company, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:MRK",
-      "ticker": "MRK"
-    },
-    {
-      "category": "未分类",
-      "description": "NIQ Global Intelligence plc",
-      "exchange": "NYSE",
-      "symbol": "NYSE:NIQ",
-      "ticker": "NIQ"
-    },
-    {
-      "category": "未分类",
-      "description": "Reliance, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:RS",
-      "ticker": "RS"
-    },
-    {
-      "category": "未分类",
-      "description": "Spotify Technology S.A.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:SPOT",
-      "ticker": "SPOT"
-    },
-    {
-      "category": "未分类",
-      "description": "Hanover Insurance Group Inc",
-      "exchange": "NYSE",
-      "symbol": "NYSE:THG",
-      "ticker": "THG"
-    },
-    {
-      "category": "未分类",
-      "description": "Thermo Fisher Scientific Inc",
-      "exchange": "NYSE",
-      "symbol": "NYSE:TMO",
-      "ticker": "TMO"
-    },
-    {
-      "category": "未分类",
-      "description": "UnitedHealth Group Incorporated",
-      "exchange": "NYSE",
-      "symbol": "NYSE:UNH",
-      "ticker": "UNH"
-    },
-    {
-      "category": "未分类",
-      "description": "Visa Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:V",
-      "ticker": "V"
-    },
-    {
-      "category": "未分类",
-      "description": "Veeva Systems Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VEEV",
-      "ticker": "VEEV"
-    },
-    {
-      "category": "未分类",
-      "description": "Veralto Corp",
-      "exchange": "NYSE",
-      "symbol": "NYSE:VLTO",
-      "ticker": "VLTO"
-    },
-    {
-      "category": "未分类",
-      "description": "West Pharmaceutical Services, Inc.",
-      "exchange": "NYSE",
-      "symbol": "NYSE:WST",
-      "ticker": "WST"
     }
   ],
   "open_full_sent": [
